@@ -1,0 +1,241 @@
+{
+ "titulo_precios": {
+  "es": "Lo que suele costar",
+  "va": "El que sol costar"
+ },
+ "aviso": {
+  "es": "El precio exacto te lo digo por teléfono antes de ir, y ese es el que pagas. Llamar y preguntar es gratis, aunque al final no me necesites. Los precios de casa llevan el IVA incluido: lo que ves es lo que pagas, sin sorpresas al final.",
+  "va": "El preu exacte te'l dic per telèfon abans d'anar, i eixe és el que pagues. Cridar-me i preguntar és gratis, encara que al final no em necessites. Els preus de casa porten l'IVA inclòs: el que veus és el que pagues, sense sorpreses al final."
+ },
+ "tarifas": [
+  {
+   "concepto": {
+    "es": "Llamar y preguntar",
+    "va": "Cridar i preguntar"
+   },
+   "incluye": {
+    "es": "Me cuentas por teléfono lo que te pasa, como sepas, y te digo qué creo que es, si tiene arreglo y si hace falta que vaya a tu casa.",
+    "va": "Em contes per telèfon el que et passa, com sàpies, i et dic què crec que és, si es pot arreglar i si fa falta que vaja a casa teua."
+   },
+   "precio": {
+    "es": "Gratis. Preguntar no cuesta nada y no te compromete a nada.",
+    "va": "Gratis. Preguntar no costa res i no et compromet a res."
+   }
+  },
+  {
+   "concepto": {
+    "es": "Primera hora de trabajo en tu casa",
+    "va": "Primera hora de faena a casa teua"
+   },
+   "incluye": {
+    "es": "Voy a tu casa, miro el aparato, te digo qué le pasa en palabras normales y te lo dejo arreglado si se puede en ese rato. El viaje va dentro del precio.",
+    "va": "Vaig a casa teua, mire l'aparell, et dic què li passa en paraules normals i, si es pot, te'l deixe arreglat en eixa estona. El viatge ja va dins del preu."
+   },
+   "precio": {
+    "es": "35 € la primera hora (IVA incluido). Si hace falta más rato, son 15 € cada media hora: por ejemplo, hora y media son 50 €. Si al mirarlo resulta que no tiene arreglo, te cobro solo esa primera hora y te digo qué te conviene hacer.",
+    "va": "35 € la primera hora (IVA inclòs). Si fa falta més estona, són 15 € cada mitja hora: per exemple, hora i mitja són 50 €. Si quan el mire resulta que no es pot arreglar, et cobre només eixa primera hora i et dic què et convé fer."
+   }
+  },
+  {
+   "concepto": {
+    "es": "Ordenador lento, lo dejo como nuevo",
+    "va": "Ordinador lent, el deixe com a nou"
+   },
+   "incluye": {
+    "es": "Quito virus y programas que sobran, lo limpio de polvo por dentro, actualizo lo que toca y lo dejo arrancando rápido otra vez. Precio cerrado, esté como esté el equipo.",
+    "va": "Lleve els virus i els programes que sobren, li trac la pols de dins, actualitze el que toca i te'l deixe que torne a arrancar ràpid. Preu tancat, estiga com estiga l'aparell."
+   },
+   "precio": {
+    "es": "59 € (IVA incluido), todo incluido.",
+    "va": "59 € (IVA inclòs), tot inclòs."
+   }
+  },
+  {
+   "concepto": {
+    "es": "Disco SSD de 500 GB puesto, con todas tus cosas dentro",
+    "va": "Disc SSD de 500 GB ficat, amb totes les teues coses dins"
+   },
+   "incluye": {
+    "es": "Te cambio el disco por uno nuevo mucho más rápido, te paso todo lo que tenías (fotos, documentos y programas) y lo pruebo delante de ti antes de irme. El ordenador pasa de arrancar en minutos a arrancar en segundos.",
+    "va": "Et canvie el disc per un de nou molt més ràpid, et passe tot el que tenies (fotos, documents i programes) i ho prove davant de tu abans d'anar-me'n. L'ordinador passa d'arrancar en minuts a arrancar en segons."
+   },
+   "precio": {
+    "es": "129 € (IVA incluido), con el disco incluido. No hay que sumar nada más.",
+    "va": "129 € (IVA inclòs), amb el disc inclòs. No cal sumar-hi res més."
+   }
+  },
+  {
+   "concepto": {
+    "es": "Ordenador o móvil nuevo, listo para usar",
+    "va": "Ordinador o mòbil nou, a punt per a usar"
+   },
+   "incluye": {
+    "es": "Te lo dejo listo: cuentas, correo, wifi, impresora, WhatsApp, y las fotos, los contactos y los papeles del aparato viejo pasados al nuevo. Con la letra grande si la necesitas.",
+    "va": "Te'l deixe apanyat: comptes, correu, wifi, impressora, WhatsApp, i les fotos, els contactes i els papers de l'aparell vell passats al nou. I amb la lletra gran si la necessites."
+   },
+   "precio": {
+    "es": "55 € (IVA incluido), precio cerrado.",
+    "va": "55 € (IVA inclòs), preu tancat."
+   }
+  },
+  {
+   "concepto": {
+    "es": "Intentar recuperar el WhatsApp o una cuenta perdida",
+    "va": "Intentar recuperar el WhatsApp o un compte perdut"
+   },
+   "incluye": {
+    "es": "Intento recuperar el WhatsApp que te han robado o la cuenta de correo cuando no hay manera de acordarse de la clave, por los pasos oficiales. Si sale bien, la dejo con la verificación en dos pasos puesta para que no vuelva a pasar.",
+    "va": "Intente recuperar-te el WhatsApp que t'han robat o el compte del correu quan no hi ha manera de recordar la clau, pels passos oficials. Si ix bé, te'l deixe amb la verificació en dos passos ficada perquè no torne a passar."
+   },
+   "precio": {
+    "es": "35 € (IVA incluido). Si no se puede recuperar, no te lo cobro.",
+    "va": "35 € (IVA inclòs). Si no es pot recuperar, no t'ho cobre."
+   }
+  },
+  {
+   "concepto": {
+    "es": "Copia de seguridad de tus fotos y documentos",
+    "va": "Còpia de seguretat de les teues fotos i documents"
+   },
+   "incluye": {
+    "es": "Dejo tus fotos y tus papeles guardados en dos sitios, la copia se hace sola cada semana y la pruebo delante de ti para que veas que están de verdad.",
+    "va": "Deixe les teues fotos i els teus papers guardats en dos llocs, la còpia es fa a soles cada setmana i la prove davant de tu perquè veges que hi són de veres."
+   },
+   "precio": {
+    "es": "69 € (IVA incluido), más el disco donde se guarda, que suele costar unos 60 € y te digo antes lo que vale. Para un negocio, copia doble y comprobada: 149 € más IVA.",
+    "va": "69 € (IVA inclòs), més el disc on es guarda, que sol costar uns 60 € i abans et dic quant val. Per a un negoci, còpia doble i comprovada: 149 € més IVA."
+   }
+  },
+  {
+   "concepto": {
+    "es": "Clases para aprender a manejarlo",
+    "va": "Classes per a aprendre a manejar-ho"
+   },
+   "incluye": {
+    "es": "Te enseño a tu ritmo lo que tú quieras: el móvil, el correo, videollamadas, Word o Excel, o lo que se te atragante. En tu casa, con tu aparato, y apuntado en papel.",
+    "va": "T'ensenye al teu ritme el que tu vullgues: el mòbil, el correu, les videocridades, Word o Excel, o el que se t'atravesse. A casa teua, amb el teu aparell, i apuntat en paper."
+   },
+   "precio": {
+    "es": "Clase de una hora en tu casa, 30 € (IVA incluido). Bono de cuatro clases, 100 €. Si os juntáis hasta seis personas en el local de la asociación o del ayuntamiento, 12 € por persona.",
+    "va": "Classe d'una hora a casa teua, 30 € (IVA inclòs). Bo de quatre classes, 100 €. Si vos ajunteu fins a sis persones en el local de l'associació o de l'ajuntament, 12 € per persona."
+   }
+  },
+  {
+   "concepto": {
+    "es": "Programa de facturas instalado y funcionando",
+    "va": "Programa de factures instal·lat i funcionant"
+   },
+   "incluye": {
+    "es": "Te instalo el programa de facturas que hayas elegido con tu gestor, meto tus datos y tus clientes, hacemos juntos la primera factura y te dejo una hoja con los pasos.",
+    "va": "Et fique el programa de factures que hages triat amb el teu gestor, hi pose les teues dades i els teus clients, fem junts la primera factura i et deixe un full amb els passos."
+   },
+   "precio": {
+    "es": "120 € más IVA, paquete cerrado.",
+    "va": "120 € més IVA, paquet tancat."
+   }
+  },
+  {
+   "concepto": {
+    "es": "Plan de mantenimiento mensual para negocios",
+    "va": "Pla de manteniment mensual per a negocis"
+   },
+   "incluye": {
+    "es": "Me encargo yo de que todo siga funcionando, en vez de llamarme cuando ya se ha roto: copias de seguridad vigiladas, actualizaciones, una revisión en tu local cada tres meses y teléfono ilimitado para dudas.",
+    "va": "Jo m'encarregue que tot seguisca funcionant, en lloc d'esperar que em crides quan ja s'ha trencat: còpies de seguretat vigilades, actualitzacions, una revisió en el teu local cada tres mesos i em pots cridar per a dubtes les voltes que vullgues."
+   },
+   "precio": {
+    "es": "Plan Básico, 39 € al mes más IVA, con aviso atendido en 24 horas. Plan Negocio, 79 € al mes más IVA: lo anterior más dos horas de trabajo incluidas cada mes.",
+    "va": "Pla Bàsic, 39 € al mes més IVA: si m'avises, t'atenc en 24 hores. Pla Negoci, 79 € al mes més IVA: el mateix més dos hores de faena incloses cada mes."
+   }
+  },
+  {
+   "concepto": {
+    "es": "Páginas web, aplicaciones, automatizar tareas e inteligencia artificial",
+    "va": "Pàgines web, aplicacions, automatitzar faenes i intel·ligència artificial"
+   },
+   "incluye": {
+    "es": "Nos sentamos, me cuentas qué necesita el negocio, lo estudio y te paso un presupuesto por escrito con precio cerrado y fecha de entrega. Aquí entra desde una web hasta automatizar una tarea que repites cada semana o montar un asistente que conteste preguntas con la información de tu negocio.",
+    "va": "Ens assentem, em contes què necessita el negoci, ho estudie i et passe un pressupost per escrit amb preu tancat i data d'entrega. Ací entra de tot, des d'una web fins a automatitzar una faena que repetixes cada setmana o muntar un assistent que conteste preguntes amb la informació del teu negoci."
+   },
+   "precio": {
+    "es": "Web de negocio, desde 690 € más IVA, con hasta cinco secciones, el dominio y el alojamiento del primer año, el correo con el nombre del negocio y la ficha de Google montada. Mantenimiento anual de la web, 180 € al año más IVA. Automatizar una tarea repetitiva, desde 450 € más IVA. Aplicación a medida, desde 1.500 € más IVA. Asistente que responde con los documentos de tu negocio, desde 1.200 € más IVA, más lo que consuma al mes, que suele ser poco.",
+    "va": "Web de negoci, des de 690 € més IVA, amb fins a cinc seccions, el domini i l'allotjament del primer any, el correu amb el nom del negoci i la fitxa de Google muntada. Manteniment anual de la web, 180 € a l'any més IVA. Automatitzar una faena que es repetix, des de 450 € més IVA. Aplicació a mida, des de 1.500 € més IVA. Assistent que respon amb els documents del teu negoci, des de 1.200 € més IVA, més el que consumisca al mes, que sol ser poc."
+   }
+  }
+ ],
+ "notas": {
+  "es": [
+   "En La Font de la Figuera no cobro nada por ir. A los pueblos de alrededor también voy y tampoco cobro el viaje, pero hay que avisar con antelación para cuadrarlo con el resto de visitas del día. A los que caen más lejos (Almansa, Villena, Caudete, Bocairent, Banyeres de Mariola y Beneixama) son 15 € más por el viaje, y te lo digo por teléfono antes de salir.",
+   "Los precios de casa llevan el IVA incluido: lo que pone es lo que pagas. Los de negocio van con el IVA aparte, porque llevan factura y el negocio se lo desgrava.",
+   "Las piezas y el material (discos, memoria, routers, cables, licencias) van aparte, salvo donde pone que están incluidos. No compro nada sin consultarlo contigo antes y te digo el precio.",
+   "No pido nada por adelantado. Se paga cuando el trabajo está hecho, en efectivo, por Bizum o por transferencia. Puedes pagar en efectivo tranquilamente, no hace falta que sepas hacer Bizum.",
+   "Factura siempre, la pidas o no. A todo el mundo le doy al menos una factura simplificada, que es el ticket con mis datos. Si necesitas la factura completa con tu nombre y tu NIF, dímelo y te la hago."
+  ],
+  "va": [
+   "A la Font de la Figuera no et cobre res per anar. Als pobles del voltant també hi vaig i tampoc et cobre el viatge, però m'has d'avisar amb temps per a quadrar-ho amb les altres visites del dia. Als que queden més lluny (Almansa, Villena, Caudete, Bocairent, Banyeres de Mariola i Beneixama) són 15 € més pel viatge, i t'ho dic per telèfon abans d'eixir.",
+   "Els preus de casa porten l'IVA inclòs: el que hi posa és el que pagues. Els de negoci van amb l'IVA a banda, perquè porten factura i el negoci se'l desgrava.",
+   "Les peces i el material (discs, memòria, routers, cables, llicències) van a banda, menys on posa que estan inclosos. No compre res sense preguntar-te abans, i et dic el preu.",
+   "No et demane res per avançat. Es paga quan la faena està feta, en efectiu, per Bizum o per transferència. Pots pagar en efectiu tranquil·lament, no cal que sàpies fer Bizum.",
+   "Factura sempre, la demanes o no. A tot el món li done almenys una factura simplificada, que és el tiquet amb les meues dades. Si necessites la factura completa amb el teu nom i el teu NIF, digues-m'ho i te la faig."
+  ]
+ },
+ "titulo_zona": {
+  "es": "Zona de servicio",
+  "va": "Zona de servici"
+ },
+ "zona": {
+  "principal": [
+   "La Font de la Figuera (Fuente la Higuera)"
+  ],
+  "ampliada": [
+   "Moixent (Mogente)",
+   "Vallada",
+   "Montesa",
+   "Canals",
+   "L'Alcúdia de Crespins (La Alcudia de Crespins)",
+   "Xàtiva (Játiva)",
+   "Fontanars dels Alforins (Fontanares de los Alforines)",
+   "Novetlè (Novelé)",
+   "Genovés",
+   "Llanera de Ranes",
+   "Torrella",
+   "Rotglà i Corberà (Rotglá y Corberá)",
+   "Ontinyent (Onteniente)",
+   "Bocairent (Bocairente)",
+   "Albaida",
+   "Aielo de Malferit (Ayelo de Malferit)",
+   "Agullent",
+   "Benigànim (Benigánim)",
+   "Quatretonda (Cuatretonda)",
+   "Barxeta",
+   "Enguera",
+   "Almansa",
+   "Villena",
+   "Caudete (Cabdet)",
+   "Banyeres de Mariola (Bañeres de Mariola)",
+   "Beneixama (Benejama)"
+  ]
+ },
+ "zona_nota": {
+  "es": "Trabajo en La Font de la Figuera. A los pueblos de alrededor también voy, pero hay que avisar con antelación para cuadrarlo con el resto de visitas del día. Llámame y lo miramos.",
+  "va": "Faig faena a la Font de la Figuera. Als pobles del voltant també hi vaig, però m'has d'avisar amb temps per a quadrar-ho amb les altres visites del dia. Crida'm i ho mirem."
+ },
+ "fuentes": [
+  "https://www.cronoshare.com/cuanto-cuesta/informatico-domicilio (informático a domicilio en España: 25-45 €/hora de media, más desplazamiento)",
+  "https://yeeply.com/cuanto-cuesta/precio-hora-informatico/ (precio hora informático 2025: servicios básicos a domicilio 25-35 €/h)",
+  "https://tarifaautonomo.com/blog/tarifa-hora-tecnico-informatico-espana (tarifa hora técnico informático freelance en España, 20-60 €/h según especialización)",
+  "https://www.cronoshare.com/servicios/reparacion-ordenadores/valencia/xativa (reparación de ordenadores en Xàtiva, precios desde 10 €)",
+  "https://www.cronoshare.com/servicios/informatico-domicilio/valencia/xativa (informáticos a domicilio en Xàtiva)",
+  "https://repararordenadorvalencia.es/servicios-precios-reparacion-ordenadores-valencia/ (precios reparación ordenadores Valencia: diagnóstico 40 € descontable, asistencia a domicilio 39 €/h)",
+  "https://repararordenadorvalencia.es/clonar-disco-duro-a-ssd-migracion-sin-reinstalar-windows-valencia/ (clonado de disco a SSD en Valencia, servicio desde 10 € más el disco)",
+  "https://www.repararpcmicrocomputer.es/servicio/limpieza-virus-spam.html (limpieza de virus: 39-50 €; limpieza y puesta a punto en torno a 40 €)",
+  "https://repararordenadores.com/precios-reparar-ordenadores/ (tarifas de puesta a punto y eliminación de virus en Madrid, referencia alta de mercado)",
+  "https://www.cronoshare.com/cuanto-cuesta/clases-particulares-informatica (clases particulares de informática: 10-18 €/h de media en España)",
+  "https://www.superprof.es/blog/precio-clases-particulares/ (precio medio de clases particulares por materia y zona)",
+  "https://roams.es/companias-telefonicas/movistar/guias/internet-fibra/router-smart-wifi/ (instalación y configuración de router con técnico de operadora: 90-110 €)",
+  "https://www.adslzone.net/noticias/internet/cambiar-router-posicion-casa-sobrecoste/ (operadoras cobran unos 72,60 € por desplazamiento y reubicación de router)",
+  "https://sobeklab.com/blog/cuanto-cuesta-una-pagina-web-negocio-pequeno-espana (web para negocio pequeño: landing 450-900 €, web corporativa de autónomo 700-1.500 €)",
+  "https://creasitios.com/precio-diseno-web-en-espana-2026/ (precio diseño web pymes 2026: 1.200-3.000 € para autónomos y profesionales)",
+  "Revisión de precios tras la crítica comercial: se retira el ajuste a la baja por público rural (en el pueblo lo que falta es competencia, no poder adquisitivo) y se pasa a precios cerrados. Hora a domicilio 35 € (IVA incluido), mínimo de servicio 35 €, sin tarifa de diagnóstico previo. Precios al consumidor siempre con IVA incluido; precios a negocios con IVA aparte por ir con factura."
+ ]
+}

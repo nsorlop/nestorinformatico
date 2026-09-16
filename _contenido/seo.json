@@ -1,0 +1,392 @@
+{
+ "meta": {
+  "es": {
+   "title": "Informático a domicilio en La Font de la Figuera",
+   "description": "Ordenadores, móviles, wifi, virus, impresoras y páginas web. Voy yo a tu casa en La Font de la Figuera. Llama al 644 21 91 18 sin compromiso.",
+   "og_title": "Voy yo a tu casa: informática a domicilio en La Font de la Figuera",
+   "og_description": "Desde enseñarte a usar el móvil o quitar un virus hasta hacerte una web o automatizar las tareas repetitivas del negocio. Néstor, 644 21 91 18."
+  },
+  "va": {
+   "title": "Informàtic a domicili a la Font de la Figuera",
+   "description": "Ordinadors, mòbils, wifi, virus, impressores i pàgines web. Vaig jo a casa teua a la Font de la Figuera. Crida'm al 644 21 91 18 sense compromís.",
+   "og_title": "Vaig jo a casa teua: informàtica a domicili a la Font de la Figuera",
+   "og_description": "Des d'ensenyar-te a usar el mòbil o llevar un virus fins a fer-te una web o automatitzar les faenes repetitives del negoci. Néstor, 644 21 91 18."
+  }
+ },
+ "keywords": {
+  "es": [
+   "informático a domicilio La Font de la Figuera",
+   "informática a domicilio La Costera",
+   "reparar ordenador cerca de mí",
+   "técnico informático Xàtiva",
+   "servicio técnico informático a domicilio",
+   "arreglar ordenador Moixent",
+   "informático Canals",
+   "informático Vallada",
+   "informático Ontinyent",
+   "informático Almansa",
+   "reparación de portátiles a domicilio",
+   "quitar virus del ordenador",
+   "ordenador lento qué hacer",
+   "configurar el wifi de casa",
+   "instalar y configurar impresora",
+   "pasar fotos del móvil al ordenador",
+   "copias de seguridad de fotos y documentos",
+   "ayuda con el correo electrónico",
+   "clases de informática para mayores",
+   "ayuda con el móvil para personas mayores",
+   "páginas web para pequeños negocios",
+   "mantenimiento informático para negocios",
+   "automatizar tareas repetitivas con Excel",
+   "inteligencia artificial para empresas pequeñas",
+   "presupuesto informático sin compromiso"
+  ],
+  "va": [
+   "informàtic a domicili la Font de la Figuera",
+   "informàtica a domicili la Costera",
+   "reparar ordinador a prop de mi",
+   "tècnic informàtic Xàtiva",
+   "servici tècnic informàtic a domicili",
+   "arreglar ordinador Moixent",
+   "informàtic Canals",
+   "informàtic Vallada",
+   "informàtic Ontinyent",
+   "informàtic Almansa",
+   "reparació de portàtils a domicili",
+   "llevar virus de l'ordinador",
+   "ordinador lent què fer",
+   "configurar el wifi de casa",
+   "instal·lar i configurar impressora",
+   "passar fotos del mòbil a l'ordinador",
+   "còpies de seguretat de fotos i documents",
+   "ajuda amb el correu electrònic",
+   "classes d'informàtica per a gent major",
+   "ajuda amb el mòbil per a gent major",
+   "pàgines web per a xicotets negocis",
+   "manteniment informàtic per a negocis",
+   "automatitzar tasques repetitives amb Excel",
+   "intel·ligència artificial per a empreses xicotetes",
+   "pressupost informàtic sense compromís"
+  ]
+ },
+ "jsonld": {
+  "@context": "https://schema.org",
+  "@type": [
+   "ProfessionalService",
+   "LocalBusiness"
+  ],
+  "@id": "https://nsorlop.github.io/nestorinformatico/#negocio",
+  "name": "Néstor el Informático",
+  "alternateName": "Néstor l'Informàtic",
+  "description": "Servicio informático a domicilio en La Font de la Figuera y comarca. Voy yo a casa del cliente: ordenadores, móviles, wifi, impresoras, virus, copias de seguridad y clases sin prisas para gente mayor; y también páginas web, aplicaciones a medida, automatización de tareas y asistentes con inteligencia artificial para negocios de la zona. Atención en valenciano, castellano e inglés. Urgencias, a consultar por teléfono.",
+  "slogan": "Voy yo a tu casa",
+  "url": "https://nsorlop.github.io/nestorinformatico/",
+  "telephone": "+34644219118",
+  "email": "nestorlafont@gmail.com",
+  "image": "https://nsorlop.github.io/nestorinformatico/img/nestor-soriano-informatico-a-domicilio-la-font-de-la-figuera.jpg",
+  "logo": "https://nsorlop.github.io/nestorinformatico/img/logo-informatica-a-domicilio.png",
+  "priceRange": "€€",
+  "currenciesAccepted": "EUR",
+  "serviceType": "Servicio informático a domicilio",
+  "address": {
+   "@type": "PostalAddress",
+   "addressLocality": "La Font de la Figuera",
+   "addressRegion": "Valencia",
+   "postalCode": "46630",
+   "addressCountry": "ES"
+  },
+  "geo": {
+   "@type": "GeoCoordinates",
+   "latitude": 38.80556,
+   "longitude": -0.87944
+  },
+  "areaServed": [
+   {
+    "@type": "City",
+    "name": "La Font de la Figuera"
+   },
+   {
+    "@type": "City",
+    "name": "Moixent"
+   },
+   {
+    "@type": "City",
+    "name": "Vallada"
+   },
+   {
+    "@type": "City",
+    "name": "Montesa"
+   },
+   {
+    "@type": "City",
+    "name": "Canals"
+   },
+   {
+    "@type": "City",
+    "name": "L'Alcúdia de Crespins"
+   },
+   {
+    "@type": "City",
+    "name": "Xàtiva"
+   },
+   {
+    "@type": "City",
+    "name": "Fontanars dels Alforins"
+   },
+   {
+    "@type": "City",
+    "name": "Ontinyent"
+   },
+   {
+    "@type": "City",
+    "name": "Bocairent"
+   },
+   {
+    "@type": "City",
+    "name": "Enguera"
+   },
+   {
+    "@type": "City",
+    "name": "Almansa"
+   },
+   {
+    "@type": "City",
+    "name": "Villena"
+   },
+   {
+    "@type": "AdministrativeArea",
+    "name": "La Costera"
+   },
+   {
+    "@type": "AdministrativeArea",
+    "name": "La Vall d'Albaida"
+   }
+  ],
+  "serviceArea": {
+   "@type": "GeoCircle",
+   "geoMidpoint": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.80556,
+    "longitude": -0.87944
+   },
+   "geoRadius": "35000"
+  },
+  "openingHoursSpecification": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday"
+    ],
+    "opens": "09:00",
+    "closes": "14:00"
+   },
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday"
+    ],
+    "opens": "16:00",
+    "closes": "20:00"
+   },
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": "Saturday",
+    "opens": "10:00",
+    "closes": "13:00"
+   },
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": "Sunday",
+    "opens": "00:00",
+    "closes": "00:00",
+    "description": "Cerrado. Urgencias, a consultar por teléfono."
+   }
+  ],
+  "contactPoint": {
+   "@type": "ContactPoint",
+   "contactType": "Atención al cliente",
+   "telephone": "+34644219118",
+   "email": "nestorlafont@gmail.com",
+   "areaServed": "ES",
+   "availableLanguage": [
+    "Valencià",
+    "Español",
+    "English"
+   ]
+  },
+  "knowsLanguage": [
+   {
+    "@type": "Language",
+    "name": "Valencià",
+    "alternateName": "ca-valencia"
+   },
+   {
+    "@type": "Language",
+    "name": "Español",
+    "alternateName": "es"
+   },
+   {
+    "@type": "Language",
+    "name": "English",
+    "alternateName": "en"
+   }
+  ],
+  "knowsAbout": [
+   "Reparación de ordenadores y portátiles",
+   "Configuración de móviles y tablets",
+   "Redes wifi domésticas",
+   "Eliminación de virus y malware",
+   "Copias de seguridad de fotos y documentos",
+   "Formación básica de informática para personas mayores",
+   "Hojas de cálculo y ofimática",
+   "Desarrollo de páginas web",
+   "Aplicaciones a medida",
+   "Automatización de procesos y tratamiento de datos",
+   "Inteligencia artificial generativa y asistentes tipo chatbot"
+  ],
+  "founder": {
+   "@type": "Person",
+   "@id": "https://nsorlop.github.io/nestorinformatico/#nestor",
+   "name": "Néstor Soriano López",
+   "jobTitle": "Informático a domicilio",
+   "telephone": "+34644219118",
+   "email": "nestorlafont@gmail.com",
+   "knowsLanguage": [
+    {
+     "@type": "Language",
+     "name": "Valencià",
+     "alternateName": "ca-valencia"
+    },
+    {
+     "@type": "Language",
+     "name": "Español",
+     "alternateName": "es"
+    },
+    {
+     "@type": "Language",
+     "name": "English",
+     "alternateName": "en"
+    }
+   ],
+   "alumniOf": {
+    "@type": "CollegeOrUniversity",
+    "name": "Universitat Politècnica de València",
+    "sameAs": "https://www.upv.es"
+   },
+   "hasCredential": {
+    "@type": "EducationalOccupationalCredential",
+    "credentialCategory": "Grado universitario",
+    "name": "Grado en Ingeniería Informática, mención en Computación",
+    "recognizedBy": {
+     "@type": "CollegeOrUniversity",
+     "name": "Universitat Politècnica de València"
+    }
+   },
+   "sameAs": [
+    "https://github.com/nsorlop",
+    "https://nsorlop.github.io"
+   ]
+  },
+  "provider": {
+   "@id": "https://nsorlop.github.io/nestorinformatico/#nestor"
+  },
+  "hasOfferCatalog": {
+   "@type": "OfferCatalog",
+   "name": "Servicios informáticos a domicilio",
+   "itemListElement": [
+    {
+     "@type": "Offer",
+     "itemOffered": {
+      "@type": "Service",
+      "name": "Reparación y puesta a punto de ordenadores a domicilio",
+      "description": "Ordenadores lentos, actualizaciones, virus, instalación de programas y arreglo de averías en tu propia casa."
+     }
+    },
+    {
+     "@type": "Offer",
+     "itemOffered": {
+      "@type": "Service",
+      "name": "Ayuda con el móvil y la tablet",
+      "description": "Configurar el móvil, el correo, WhatsApp, pasar las fotos al ordenador y enseñarte a usarlo con calma."
+     }
+    },
+    {
+     "@type": "Offer",
+     "itemOffered": {
+      "@type": "Service",
+      "name": "Wifi, impresoras y aparatos de casa",
+      "description": "Wifi que no llega, impresoras que no imprimen, televisión conectada y aparatos nuevos que hay que dejar funcionando."
+     }
+    },
+    {
+     "@type": "Offer",
+     "itemOffered": {
+      "@type": "Service",
+      "name": "Copias de seguridad de fotos y documentos",
+      "description": "Que no se pierdan las fotos ni los papeles importantes, con copias que se hagan solas."
+     }
+    },
+    {
+     "@type": "Offer",
+     "itemOffered": {
+      "@type": "Service",
+      "name": "Clases de informática para personas mayores",
+      "description": "Aprender a usar el ordenador, el móvil, el correo o WhatsApp, sin prisas y las veces que haga falta."
+     }
+    },
+    {
+     "@type": "Offer",
+     "itemOffered": {
+      "@type": "Service",
+      "name": "Páginas web para negocios de la comarca",
+      "description": "Web sencilla, rápida y que se vea bien en el móvil, para que te encuentren en Google."
+     }
+    },
+    {
+     "@type": "Offer",
+     "itemOffered": {
+      "@type": "Service",
+      "name": "Automatización de tareas y tratamiento de datos",
+      "description": "Lo que repites siempre igual (listados, informes, copiar datos de una web a un Excel, pasar los datos de facturas y albaranes a una hoja) se puede dejar hecho para que se haga solo."
+     }
+    },
+    {
+     "@type": "Offer",
+     "itemOffered": {
+      "@type": "Service",
+      "name": "Aplicaciones a medida e inteligencia artificial para negocios",
+      "description": "Aplicaciones propias y asistentes que responden preguntas sobre los documentos de tu negocio, diciendo de dónde sale cada respuesta."
+     }
+    }
+   ]
+  },
+  "sameAs": [
+   "https://github.com/nsorlop",
+   "https://nsorlop.github.io"
+  ]
+ },
+ "h1": {
+  "es": "Informático a domicilio en La Font de la Figuera",
+  "va": "Informàtic a domicili a la Font de la Figuera"
+ },
+ "consejos_google": [
+  "1. Ficha de Google Business Profile, lo primero y lo más importante. Créala como negocio SIN dirección visible (tipo «área de servicio»), porque vas tú a casa del cliente y no tienes tienda: verifica la dirección de La Font de la Figuera pero márcala como oculta. Categoría principal «Servicio de reparación de ordenadores»; categorías secundarias «Servicio informático», «Asistencia informática» y «Diseñador de páginas web». Área de servicio: La Font de la Figuera, Moixent, Vallada, Montesa, Canals, L'Alcúdia de Crespins, Xàtiva, Fontanars dels Alforins, Ontinyent, Bocairent, Enguera, Almansa y Villena. Teléfono 644 21 91 18 (que sea el mismo en todas partes), enlace a la web, horario de lunes a viernes mañana y tarde y sábado por la mañana, y activa los mensajes. Sube 10-15 fotos reales hechas con el móvil: tú trabajando en casa de un cliente (con permiso), el coche, la maleta de herramientas, un antes y un después de un ordenador limpio. Nada de fotos de banco de imágenes: se nota y resta.",
+  "2. Reseñas desde el primer día. Son lo que más mueve el ranking local en un pueblo. En cuanto termines un trabajo y el cliente esté contento, pídesela en ese momento, no por WhatsApp al día siguiente: saca tu móvil, abre el enlace corto de reseña que te da Google y que lo escriba él ahí mismo; con gente mayor, ofrécete a esperar mientras lo hace. Objetivo realista: 10 reseñas el primer mes y 2-3 cada mes después. Pide que mencionen el pueblo y lo que les hiciste («me arregló el ordenador en casa, en La Font de la Figuera»), porque ese texto es el que Google lee. Responde a todas en menos de 24 horas, también a las malas, y siempre educado.",
+  "3. Carteles de papel con QR donde para la gente. Cuelga el cartel A5 en el bar, la farmacia, la panadería, el estanco, el tablón del ayuntamiento, el centro de mayores, el consultorio médico y la cooperativa agrícola, y repite lo mismo en Moixent, Vallada, Montesa y Fontanars. El QR debe llevar a la web (no a un PDF), y pon el teléfono grande también en texto, porque mucha gente mayor no escanea códigos y lo que hará es llamar. Pide permiso al encargado y pásate cada dos meses a reponerlos.",
+  "4. Grupos de Facebook y WhatsApp del pueblo y de la comarca. Entra en los grupos de La Font de la Figuera, Moixent, Vallada, Canals y Xàtiva y preséntate una sola vez, en valenciano y en castellano, diciendo quién eres, de quién eres en el pueblo y qué haces. Luego no hagas spam: responde de verdad cuando alguien pregunte por un problema informático, con un consejo útil y gratis, y deja el teléfono solo si te lo piden. En los pueblos eso vale más que cualquier anuncio pagado. Habla también con el ayuntamiento y con la asociación de jubilados: ofrecer un taller gratuito de una hora («el móvil sin miedo») te llena la agenda de clientes mayores.",
+  "5. Directorios locales, siempre con los mismos datos. Date de alta en Milanuncios, Cronoshare, Páginas Amarillas, Bing Places, Apple Business Connect y el listado de comercios del ayuntamiento y de la asociación de empresarios de la comarca. La regla es que el nombre, el teléfono y la dirección aparezcan escritos EXACTAMENTE igual en todos los sitios y en la web (Google cruza esos datos y las variaciones lo confunden). Enlaza siempre a la web.",
+  "6. Mantenimiento mensual, media hora. Publica una novedad corta en la ficha de Google cada semana o cada dos («esta semana he montado dos copias de seguridad automáticas en Moixent»), sube una foto nueva al mes, y añade las preguntas y respuestas de la sección de la ficha tú mismo. Revisa una vez al mes cuántas llamadas y cuántas peticiones de ruta te ha dado Google (lo ves en las estadísticas de la ficha) y en qué búsquedas apareces: si ves que la gente busca algo que tú haces pero no tienes escrito en la web, añádelo. Y apunta en una libreta de dónde ha salido cada cliente (cartel, Google, boca a boca) para saber qué repetir."
+ ],
+ "texto_cartel": {
+  "es": "¿PROBLEMAS CON EL ORDENADOR O EL MÓVIL?\n\nVOY YO A TU CASA\n\nOrdenadores · Móviles · Wifi · Impresoras · Virus · Fotos\nTambién páginas web y programas para negocios\n\nNéstor, de La Font de la Figuera\nSin prisas y te lo explico claro\n\n644 21 91 18",
+  "va": "PROBLEMES AMB L'ORDINADOR O EL MÒBIL?\n\nVAIG JO A CASA TEUA\n\nOrdinadors · Mòbils · Wifi · Impressores · Virus · Fotos\nTambé pàgines web i programes per a negocis\n\nNéstor, de la Font de la Figuera\nSense presses i t'ho explique clar\n\n644 21 91 18"
+ }
+}

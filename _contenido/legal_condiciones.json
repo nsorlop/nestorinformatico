@@ -1,0 +1,460 @@
+{
+ "titulo": {
+  "es": "Condiciones del servicio",
+  "va": "Condicions del servici"
+ },
+ "intro": {
+  "es": [
+   "Esta página explica cómo trabajo, qué te cuesta, qué te garantizo y qué derechos tienes cuando me contratas. No es letra pequeña: es lo que te contaría por teléfono, puesto por escrito para que puedas leerlo con calma y enseñárselo a quien quieras.",
+   "Trabajo en La Font de la Figuera, que es mi pueblo. A los pueblos de alrededor también voy, pero hay que avisar con antelación para cuadrarlo con el resto de visitas del día.",
+   "Estas condiciones valen para todo lo que hago: reparaciones, instalaciones, clases particulares, bonos de clases y trabajos de web, automatización o inteligencia artificial.",
+   "Cada apartado empieza con un resumen en lenguaje normal y después viene el detalle. Si algo no te queda claro, llámame al 644 21 91 18 y te lo explico por teléfono, las veces que haga falta.",
+   "Existen hojas de reclamaciones a disposición del consumidor. Hi ha fulls de reclamació a disposició del consumidor."
+  ],
+  "va": [
+   "Esta pàgina explica com treballe, què et costa, què et garantisc i quins drets tens quan em contractes. No és lletra menuda: és el que et contaria per telèfon, posat per escrit perquè el pugues llegir amb calma i ensenyar-lo a qui vullgues.",
+   "Treballe a la Font de la Figuera, que és el meu poble. Als pobles del voltant també hi vaig, però m'has d'avisar abans per a quadrar-ho amb la resta de visites del dia.",
+   "Estes condicions valen per a tot el que faig: reparacions, instal·lacions, classes particulars, bons de classes i faenes de web, automatització o intel·ligència artificial.",
+   "Cada apartat comença amb un resum en llenguatge normal i després ve el detall. Si hi ha alguna cosa que no et queda clara, crida'm al 644 21 91 18 i t'ho explique, les voltes que faça falta.",
+   "Existen hojas de reclamaciones a disposición del consumidor. Hi ha fulls de reclamació a disposició del consumidor."
+  ]
+ },
+ "secciones": [
+  {
+   "titulo": {
+    "es": "1. Quién soy y cómo contactar conmigo",
+    "va": "1. Qui soc i com pots parlar amb mi"
+   },
+   "resumen_llano": {
+    "es": "Detrás de esto no hay ninguna empresa: soy una persona del pueblo, trabajo solo y respondo yo.",
+    "va": "Darrere d'això no hi ha cap empresa: soc una persona del poble, treballe a soles i responc jo."
+   },
+   "parrafos": {
+    "es": [
+     "Me llamo Néstor Soriano López. Trabajo solo. No hay empresa detrás, ni centralita, ni comerciales: cuando llamas, contesto yo, y cuando hay que responder de algo, respondo yo.",
+     "Esta información te la doy antes de que me contrates porque la ley me obliga a dártela y porque me parece lo justo. Es la información previa al contrato que exigen los artículos 60 y 97 del texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios, aprobado por el Real Decreto Legislativo 1/2007.",
+     "Antes de empezar a trabajar te entrego una copia en papel de lo acordado, con estas condiciones incluidas. La ley lo llama soporte duradero (artículos 98.7 y 99.2 de ese mismo texto) y sirve para que los dos tengamos por escrito exactamente lo mismo. Si lo prefieres, te la mando por WhatsApp o por correo."
+    ],
+    "va": [
+     "Em dic Néstor Soriano López. Treballe a soles. No hi ha cap empresa darrere, ni centraleta, ni comercials: quan em crides, t'ho agafe jo, i quan s'ha de respondre d'alguna cosa, responc jo.",
+     "Esta informació te la done abans que em contractes perquè la llei m'obliga a donar-te-la i perquè em pareix el just. És la informació prèvia al contracte que exigixen els articles 60 i 97 del text refós de la Llei General per a la Defensa dels Consumidors i Usuaris, aprovat pel Reial Decret Legislatiu 1/2007.",
+     "Abans de començar a treballar t'entregue una còpia en paper del que hem acordat, amb estes condicions incloses. La llei li diu suport durador (articles 98.7 i 99.2 d'eixe mateix text) i servix perquè els dos tinguem per escrit exactament el mateix. Si ho preferixes, te l'envie per WhatsApp o per correu."
+    ]
+   },
+   "lista": {
+    "es": [
+     "Titular: Néstor Soriano López.",
+     "Ubicación: La Font de la Figuera (Valencia).",
+     "Teléfono y WhatsApp: 644 21 91 18.",
+     "Correo electrónico: nestorlafont@gmail.com.",
+     "Web: https://nsorlop.github.io/nestorinformatico/"
+    ],
+    "va": [
+     "Titular: Néstor Soriano López.",
+     "Ubicació: la Font de la Figuera (València).",
+     "Telèfon i WhatsApp: 644 21 91 18.",
+     "Correu electrònic: nestorlafont@gmail.com.",
+     "Web: https://nsorlop.github.io/nestorinformatico/"
+    ]
+   }
+  },
+  {
+   "titulo": {
+    "es": "2. Qué hago, dónde voy y qué no hago",
+    "va": "2. Què faig, on vaig i què no faig"
+   },
+   "resumen_llano": {
+    "es": "Arreglo ordenadores, móviles y wifi en tu casa o en tu negocio, doy clases y hago webs y automatizaciones. Trabajo en el pueblo, y fuera del pueblo avisando antes.",
+    "va": "Arregle ordinadors, mòbils i wifi a ta casa o al teu negoci, faig classes i faig webs i automatitzacions. Treballe al poble, i fora del poble també, si m'avises abans."
+   },
+   "parrafos": {
+    "es": [
+     "Presto servicios informáticos a domicilio para particulares y para pequeños negocios: asistencia y formación básica con ordenadores, móviles y programas; instalación y configuración de equipos y de redes; eliminación de virus; copias de seguridad y recuperación de datos; y también páginas web, aplicaciones a medida, automatización de tareas e inteligencia artificial aplicada a un negocio.",
+     "Trabajo en La Font de la Figuera, que es mi pueblo. Aquí el desplazamiento está siempre incluido en el precio. A los pueblos de alrededor también voy, pero hay que avisar con antelación para cuadrarlo con el resto de visitas del día, y antes de salir te digo si hay algún suplemento y cuánto es. Nunca te lo cobro sin habértelo dicho antes.",
+     "Hay cosas que no hago, y prefiero decirlo desde el principio: no abro aparatos que estén todavía en garantía del fabricante, porque te la anularía; no sueldo placas ni cambio pantallas rotas, que eso es trabajo de taller; no hago peritajes judiciales ni informes forenses; no recupero datos de discos que necesiten sala blanca, aunque te puedo decir a quién acudir; no hago trámites con la Administración en tu nombre ni pido ayudas o subvenciones por ti; no hago operaciones con tu banco ni te pido sus claves; y no soy asesor jurídico, fiscal ni contable, así que para eso te mando a tu gestoría."
+    ],
+    "va": [
+     "Preste servicis informàtics a domicili per a particulars i per a negocis xicotets: assistència i formació bàsica amb ordinadors, mòbils i programes; instal·lació i configuració d'equips i de xarxes; eliminació de virus; còpies de seguretat i recuperació de dades; i també pàgines web, aplicacions a mida, automatització de faenes i intel·ligència artificial aplicada a un negoci.",
+     "Treballe a la Font de la Figuera, que és el meu poble. Ací el desplaçament està sempre inclòs en el preu. Als pobles del voltant també hi vaig, però m'has d'avisar abans per a quadrar-ho amb la resta de visites del dia, i abans d'eixir et dic si hi ha algun suplement i quant és. Mai no te'l cobre sense haver-t'ho dit abans.",
+     "Hi ha coses que no faig, i preferisc dir-ho des del principi: no obri aparells que estiguen encara en garantia del fabricant, perquè te l'anul·laria; no solde plaques ni canvie pantalles trencades, que això és faena de taller; no faig peritatges judicials ni informes forenses; no recupere dades de discos que necessiten sala blanca, encara que et puc dir a qui acudir; no faig tràmits amb l'Administració en nom teu ni demane ajudes o subvencions per tu; no faig operacions amb el teu banc ni te'n demane les claus; i no soc assessor jurídic, fiscal ni comptable, així que per a això t'envie a la teua gestoria."
+    ]
+   },
+   "lista": {
+    "es": [],
+    "va": []
+   }
+  },
+  {
+   "titulo": {
+    "es": "3. Cómo se contrata y cuándo queda cerrado el encargo",
+    "va": "3. Com es contracta i quan queda tancat l'encàrrec"
+   },
+   "resumen_llano": {
+    "es": "Me llamas, quedamos, miro el aparato delante de ti y te digo el precio. El trato queda cerrado cuando tú dices que sí.",
+    "va": "Em crides, quedem, mire l'aparell davant de tu i et dic el preu. El tracte queda tancat quan tu dius que sí."
+   },
+   "parrafos": {
+    "es": [
+     "Me llamas, me escribes por WhatsApp o me mandas un correo y me cuentas qué te pasa. Quedamos día y hora. Cuando llego, miro el aparato delante de ti y te digo qué tiene, qué se puede hacer y cuánto cuesta. El encargo queda cerrado en el momento en que tú aceptas el presupuesto, de palabra o por escrito. Desde ese momento hay contrato entre los dos, y a partir de ahí corren los plazos que se explican más abajo.",
+     "Antes de empezar a trabajar te entrego en papel un parte de trabajo con tu nombre, el aparato, la avería, lo que voy a hacer, el precio y la fecha. Si lo prefieres, te lo mando por WhatsApp o por correo. Esa copia es tuya y es la prueba de lo que acordamos."
+    ],
+    "va": [
+     "Em crides, m'escrius per WhatsApp o m'envies un correu i em contes què et passa. Quedem dia i hora. Quan aplegue, mire l'aparell davant de tu i et dic què té, què es pot fer i quant costa. L'encàrrec queda tancat en el moment en què tu acceptes el pressupost, de paraula o per escrit. Des d'eixe moment hi ha contracte entre els dos, i a partir d'ahí corren els terminis que s'expliquen més avall.",
+     "Abans de començar a treballar t'entregue en paper un full de faena amb el teu nom, l'aparell, l'avaria, el que faré, el preu i la data. Si ho preferixes, te l'envie per WhatsApp o per correu. Eixa còpia és teua i és la prova del que vam acordar."
+    ]
+   },
+   "lista": {
+    "es": [],
+    "va": []
+   }
+  },
+  {
+   "titulo": {
+    "es": "4. Presupuesto antes de tocar nada",
+    "va": "4. Pressupost abans de tocar res"
+   },
+   "resumen_llano": {
+    "es": "Antes de abrir nada te doy un presupuesto por escrito, vale 30 días y no empiezo hasta que me digas que sí.",
+    "va": "Abans d'obrir res et done un pressupost per escrit, val 30 dies i no comence fins que em digues que sí."
+   },
+   "parrafos": {
+    "es": [
+     "Antes de empezar cualquier reparación te doy un presupuesto por escrito. Te lo entrego en papel o te lo mando por WhatsApp o por correo, como prefieras, y dice: tu nombre y dirección, mis datos, qué aparato es (marca, modelo y número de serie si lo tiene), qué le pasa, qué voy a hacer, cuánto cuesta la mano de obra, cuánto cuestan las piezas, si hay desplazamiento y cuánto, el IVA, la fecha prevista de entrega y la fecha del presupuesto. El presupuesto vale 30 días naturales desde esa fecha. No empiezo a trabajar hasta que me lo aceptas, firmándolo o diciéndome que sí por escrito.",
+     "El presupuesto tiene un coste de 20 €, que es lo que vale la primera visita y el diagnóstico: mirar el aparato, averiguar qué tiene y decírtelo. Te lo digo por teléfono antes de salir de casa, para que no te pille de sorpresa. Si aceptas el presupuesto y hago la reparación, esos 20 € se descuentan del total y no los pagas dos veces. Si no lo aceptas, solo pagas esos 20 € y el aparato se queda como estaba.",
+     "Si prefieres no esperar al presupuesto escrito y que empiece ya, puedes renunciar a él, pero la ley exige que esa renuncia sea por escrito y de tu puño y letra. En el parte de trabajo hay una casilla que pone «Renuncio al presupuesto previo» para que la firmes. Aunque renuncies, te digo el precio de palabra antes de empezar y te lo apunto.",
+     "Si a mitad del trabajo aparece algo que no estaba previsto y el precio sube, paro, te lo cuento y no sigo hasta que me digas que sí. Nunca te vas a encontrar una factura más alta que el presupuesto aceptado sin haberlo hablado tú y yo antes.",
+     "Si me llevo el aparato, te doy un resguardo. Si la reparación no se puede hacer en tu casa y me llevo el equipo, te entrego un resguardo de depósito con tus datos y los míos, la marca, el modelo, el número de serie, el estado en que me lo llevo, la avería, qué voy a hacer y la fecha prevista de devolución. Sin ese papel no me llevo nada.",
+     "Todo esto no es un capricho mío: lo exige el Real Decreto 58/1988, de 29 de enero, sobre protección de los derechos del consumidor en el servicio de reparación de aparatos de uso doméstico, que se aplica a ordenadores, portátiles, tabletas, móviles, impresoras y routers.",
+     "Y si un aparato se queda sin recoger: cuando el equipo está listo te aviso por teléfono y por escrito. La norma permite cobrar gastos de depósito a partir del mes siguiente a ese aviso y considerar abandonado el aparato que no se recoge en un año. Por mi parte no te cobro gastos de depósito y no pienso quedarme nada tuyo sin haberte avisado muchas veces, que esto es un pueblo y nos conocemos todos."
+    ],
+    "va": [
+     "Abans de començar qualsevol reparació et done un pressupost per escrit. Te l'entregue en paper o te l'envie per WhatsApp o per correu, com preferisques, i diu: el teu nom i adreça, les meues dades, quin aparell és (marca, model i número de sèrie si en té), què li passa, què faré, quant costa la mà d'obra, quant costen les peces, si hi ha desplaçament i quant, l'IVA, la data prevista d'entrega i la data del pressupost. El pressupost val 30 dies naturals des d'eixa data. No comence a treballar fins que me l'acceptes, firmant-lo o dient-me que sí per escrit.",
+     "El pressupost té un cost de 20 €, que és el que val la primera visita i el diagnòstic: mirar l'aparell, esbrinar què té i dir-t'ho. T'ho dic per telèfon abans d'eixir de casa, perquè no et pille de sorpresa. Si acceptes el pressupost i faig la reparació, eixos 20 € es descompten del total i no els pagues dos vegades. Si no l'acceptes, només pagues eixos 20 € i l'aparell es queda com estava.",
+     "Si preferixes no esperar el pressupost escrit i que comence ja, hi pots renunciar, però la llei exigix que eixa renúncia siga per escrit i de la teua pròpia mà. En el full de faena hi ha una casella que posa «Renuncie al pressupost previ» perquè la firmes. Encara que hi renuncies, et dic el preu de paraula abans de començar i te l'apunte.",
+     "Si a mitja faena apareix alguna cosa que no estava prevista i el preu puja, pare, t'ho conte i no seguisc fins que em digues que sí. Mai no et trobaràs una factura més alta que el pressupost acceptat sense haver-ho parlat tu i jo abans.",
+     "Si m'enduc l'aparell, et done un resguard. Si la reparació no es pot fer a ta casa i m'enduc l'equip, t'entregue un resguard de depòsit amb les teues dades i les meues, la marca, el model, el número de sèrie, l'estat en què me l'enduc, l'avaria, què faré i la data prevista de devolució. Sense eixe paper no m'enduc res.",
+     "Tot això no és cap caprici meu: ho exigix el Reial Decret 58/1988, de 29 de gener, sobre protecció dels drets del consumidor en el servici de reparació d'aparells d'ús domèstic, que s'aplica a ordinadors, portàtils, tauletes, mòbils, impressores i routers.",
+     "I si un aparell es queda sense arreplegar: quan l'equip està llest t'avise per telèfon i per escrit. La norma permet cobrar gastos de depòsit a partir del mes següent a eixe avís i considerar abandonat l'aparell que no s'arreplega en un any. Per la meua part no et cobre gastos de depòsit i no pense quedar-me res teu sense haver-te avisat moltes vegades, que això és un poble i ens coneixem tots."
+    ]
+   },
+   "lista": {
+    "es": [],
+    "va": []
+   }
+  },
+  {
+   "titulo": {
+    "es": "5. Cómo y cuándo se paga, la factura y el bono de clases",
+    "va": "5. Com i quan es paga, la factura i el bo de classes"
+   },
+   "resumen_llano": {
+    "es": "Se paga cuando el trabajo está hecho, no antes. Factura siempre, la pidas o no. Y el bono de clases lo tienes un año entero.",
+    "va": "Es paga quan la faena està feta, no abans. Factura sempre, la demanes o no. I el bo de classes el tens un any sencer."
+   },
+   "parrafos": {
+    "es": [
+     "Se paga cuando el trabajo está hecho, no antes. En efectivo, por Bizum o por transferencia, como te vaya mejor. No pido anticipos para las reparaciones ni para las clases sueltas.",
+     "En los trabajos de web, aplicaciones, automatización o inteligencia artificial, que son más largos, sí puede haber pagos por fases. Si es el caso, va escrito en el presupuesto con las cantidades y las fechas, y no empiezo hasta que lo aceptes.",
+     "Factura siempre, la pidas o no. Te la doy en mano o te la mando por correo o por WhatsApp, como prefieras. Si eres un particular y el importe es pequeño, la factura es simplificada (lo que la gente llama un tique con mis datos); si necesitas la factura completa con tu nombre y tu NIF, dímelo y te la hago así. Para negocios, autónomos y agricultores, factura completa siempre.",
+     "Los precios publicados en esta web se expresan en euros e incluyen el Impuesto sobre el Valor Añadido, salvo indicación expresa en contrario. El desplazamiento está incluido en La Font de la Figuera; fuera del pueblo, cualquier suplemento se te comunica antes de ir. Las piezas y el material (discos, memorias, routers, cables, licencias) se facturan aparte, y siempre con tu conformidad previa.",
+     "Si compras un bono de clases, lo tienes un año entero para gastarlo. Si al cabo del año te quedan clases sin usar, me lo dices y te devuelvo la parte proporcional de lo que no hayas consumido. Un bono pagado no caduca a tu costa."
+    ],
+    "va": [
+     "Es paga quan la faena està feta, no abans. En efectiu, per Bizum o per transferència, com et vaja millor. No demane bestretes per a les reparacions ni per a les classes soltes.",
+     "En les faenes de web, aplicacions, automatització o intel·ligència artificial, que són més llargues, sí que hi pot haver pagaments per fases. Si és el cas, va escrit en el pressupost amb les quantitats i les dates, i no comence fins que ho acceptes.",
+     "Factura sempre, la demanes o no. Te la done en mà o te l'envie per correu o per WhatsApp, com preferisques. Si eres un particular i l'import és xicotet, la factura és simplificada (el que la gent diu un tiquet amb les meues dades); si necessites la factura completa amb el teu nom i el teu NIF, digues-m'ho i te la faig així. Per a negocis, autònoms i llauradors, factura completa sempre.",
+     "Els preus que tens en esta web són en euros i porten l'IVA inclòs, menys quan diga expressament el contrari. El desplaçament està inclòs a la Font de la Figuera; fora del poble, qualsevol suplement se't comunica abans d'anar-hi. Les peces i el material (discos, memòries, routers, cables, llicències) es facturen a banda, i sempre amb la teua conformitat prèvia.",
+     "Si compres un bo de classes, el tens un any sencer per a gastar-lo. Si al cap de l'any et queden classes sense usar, m'ho dius i et torne la part proporcional del que no hages consumit. Un bo pagat no caduca a costa teua."
+    ]
+   },
+   "lista": {
+    "es": [
+     "El bono cuesta 70 € con el IVA incluido e incluye cuatro clases de una hora.",
+     "Tienes un año entero, contado desde el día en que lo pagas, para usar las cuatro clases.",
+     "Es nominativo: está a tu nombre. Puedes cederlo a alguien de tu casa o de tu familia si me lo dices antes; lo que no se puede es revenderlo.",
+     "Si al cabo del año te quedan clases sin usar, te devuelvo la parte proporcional de lo que no hayas consumido. No hace falta ni que me des explicaciones.",
+     "Si un día no puedes o no puedo, se cambia la fecha y no se pierde la clase. Te agradezco que me avises con un día de antelación, si puedes.",
+     "Al bono se le aplica el derecho de desistimiento del apartado 8, igual que a todo lo demás."
+    ],
+    "va": [
+     "El bo costa 70 € amb l'IVA inclòs i inclou quatre classes d'una hora.",
+     "Tens un any sencer, comptat des del dia en què el pagues, per a usar les quatre classes.",
+     "És nominatiu: està al teu nom. El pots cedir a algú de ta casa o de la teua família si m'ho dius abans; el que no es pot fer és revendre'l.",
+     "Si al cap de l'any et queden classes sense usar, et torne la part proporcional del que no hages consumit. No fa falta ni que em dones explicacions.",
+     "Si un dia no pots o no puc, es canvia la data i no es perd la classe. T'agraïsc que m'avises amb un dia d'antelació, si pots.",
+     "Al bo se li aplica el dret de desistiment de l'apartat 8, igual que a tota la resta."
+    ]
+   }
+  },
+  {
+   "titulo": {
+    "es": "6. En cuánto tiempo voy",
+    "va": "6. En quant de temps hi vaig"
+   },
+   "resumen_llano": {
+    "es": "Normalmente en pocos días. Te digo una fecha concreta y, si veo que no llego, te aviso antes.",
+    "va": "Normalment en pocs dies. Et dic una data concreta i, si veig que no hi aplegue, t'avise abans."
+   },
+   "parrafos": {
+    "es": [
+     "Normalmente en pocos días, según cómo tenga la semana. Cuando me llames te diré una fecha concreta y, si veo que no llego, te aviso antes, no el mismo día. Si acordamos una fecha y no puedo cumplirla, tienes derecho a que te proponga otra razonable y, si tampoco te sirve, a dejarlo sin pagar nada.",
+     "En La Font de la Figuera suelo poder ir enseguida, porque vivo aquí. Si eres de un pueblo de alrededor, avísame con antelación y cuadramos el día, porque tengo que ajustarlo con el resto de visitas."
+    ],
+    "va": [
+     "Normalment en pocs dies, segons com tinga la setmana. Quan em crides et diré una data concreta i, si veig que no hi aplegue, t'avise abans, no el mateix dia. Si acordem una data i no la puc complir, tens dret que te'n propose una altra de raonable i, si tampoc et va bé, a deixar-ho sense pagar res.",
+     "A la Font de la Figuera normalment puc anar de seguida, perquè visc ací. Si eres d'un poble del voltant, avisa'm abans i quadrem el dia, perquè ho he d'ajustar amb la resta de visites."
+    ]
+   },
+   "lista": {
+    "es": [],
+    "va": []
+   }
+  },
+  {
+   "titulo": {
+    "es": "7. Lo que te garantizo",
+    "va": "7. El que et garantisc"
+   },
+   "resumen_llano": {
+    "es": "Lo que arreglo tiene tres meses de garantía. El material que te vendo, tres años. Si vuelve a fallar lo mismo, vuelvo y no te cobro.",
+    "va": "El que arregle té tres mesos de garantia. El material que et venc, tres anys. Si torna a fallar el mateix, torne i no et cobre."
+   },
+   "parrafos": {
+    "es": [
+     "Mi trabajo: tres meses. Toda reparación que te haga tiene tres meses de garantía desde el día en que te devuelvo el aparato funcionando. Si dentro de esos tres meses vuelve a fallar lo mismo del mismo aparato, vuelvo y lo arreglo sin cobrarte nada: ni mano de obra, ni desplazamiento, ni las piezas que hagan falta para esa misma avería. No hay que discutirlo: es tu derecho, y está en el artículo 8 del Real Decreto 58/1988.",
+     "Qué no cubre esa garantía: una avería distinta de la que arreglé; los daños por un golpe, por agua, por un apagón o por una subida de tensión; los problemas causados por programas que hayas instalado tú después; y los casos en los que el aparato se haya abierto o manipulado por otra persona después de mi visita. Si pasa algo de esto, te lo explico y te enseño por qué.",
+     "El material que te vendo o te instalo: tres años. Los discos, memorias, routers, cables y demás material que te vendo tienen la garantía legal de tres años desde la entrega, que es la que marca la ley para los bienes (artículo 120 del texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios). Guarda la factura: es el justificante. Durante ese tiempo, si el material sale defectuoso, tienes derecho a que te lo repare o te lo sustituya sin coste y, si ninguna de las dos cosas es posible, a la rebaja del precio o a la devolución del dinero.",
+     "Las clases y la formación: si te vas de una clase con la sensación de que no te ha servido de nada, me lo dices y no te la cobro. Eso no es una obligación legal, es un compromiso mío.",
+     "El servicio posventa soy yo mismo, en el mismo teléfono y en el mismo correo de siempre. No hay números de tarifa especial, ni centralitas, ni esperas."
+    ],
+    "va": [
+     "La meua faena: tres mesos. Tota reparació que et faça té tres mesos de garantia des del dia en què et torne l'aparell funcionant. Si dins d'eixos tres mesos torna a fallar el mateix del mateix aparell, torne i ho arregle sense cobrar-te res: ni mà d'obra, ni desplaçament, ni les peces que facen falta per a eixa mateixa avaria. No fa falta discutir-ho: és el teu dret, i està en l'article 8 del Reial Decret 58/1988.",
+     "Què no cobrix eixa garantia: una avaria diferent de la que vaig arreglar; els danys per un colp, per aigua, per una apagada o per una pujada de tensió; els problemes causats per programes que hages instal·lat tu després; i els casos en què l'aparell s'haja obert o manipulat per una altra persona després de la meua visita. Si passa alguna d'estes coses, t'ho explique i t'ensenye per què.",
+     "El material que et venc o t'instal·le: tres anys. Els discos, memòries, routers, cables i la resta de material que et venc tenen la garantia legal de tres anys des de l'entrega, que és la que marca la llei per als béns (article 120 del text refós de la Llei General per a la Defensa dels Consumidors i Usuaris). Guarda la factura: és el justificant. Durant eixe temps, si el material ix defectuós, tens dret que te'l repare o te'l substituïsca sense cost i, si cap de les dos coses és possible, a la rebaixa del preu o a la devolució dels diners.",
+     "Les classes i la formació: si te'n vas d'una classe amb la sensació que no t'ha servit de res, m'ho dius i no te la cobre. Això no és cap obligació legal, és un compromís meu.",
+     "El servici postvenda soc jo mateix, en el mateix telèfon i en el mateix correu de sempre. No hi ha números de tarifa especial, ni centraletes, ni esperes."
+    ]
+   },
+   "lista": {
+    "es": [
+     "Reparaciones: tres meses desde que te devuelvo el aparato funcionando.",
+     "Material que te vendo o te instalo: tres años desde la entrega.",
+     "Para reclamar cualquiera de las dos garantías basta con que me llames al 644 21 91 18 o me escribas a nestorlafont@gmail.com y me cuentes qué pasa.",
+     "Guarda el parte de trabajo y la factura: son el justificante de la fecha desde la que cuenta la garantía.",
+     "Si la reparación en garantía exige llevarse el aparato, te doy otra vez el resguardo de depósito, igual que la primera vez."
+    ],
+    "va": [
+     "Reparacions: tres mesos des que et torne l'aparell funcionant.",
+     "Material que et venc o t'instal·le: tres anys des de l'entrega.",
+     "Per a reclamar qualsevol de les dos garanties només cal que em crides al 644 21 91 18 o m'escrigues a nestorlafont@gmail.com i em contes què passa.",
+     "Guarda el full de faena i la factura: són el justificant de la data des de la qual compta la garantia.",
+     "Si la reparació en garantia exigix endur-se l'aparell, et done una altra vegada el resguard de depòsit, igual que la primera vegada."
+    ]
+   }
+  },
+  {
+   "titulo": {
+    "es": "8. Tu derecho a echarte atrás (derecho de desistimiento)",
+    "va": "8. El teu dret a fer-te arrere (dret de desistiment)"
+   },
+   "resumen_llano": {
+    "es": "Tienes 14 días naturales para echarte atrás sin dar ninguna explicación. Si quieres que empiece antes de que pasen, hay que firmarlo, y aquí te explico por qué.",
+    "va": "Tens 14 dies naturals per a fer-te arrere sense donar cap explicació. Si vols que comence abans que passen, s'ha de firmar, i ací t'explique per què."
+   },
+   "parrafos": {
+    "es": [
+     "Cuando me contratas por teléfono, por WhatsApp o por correo, o cuando cerramos el trabajo en tu propia casa, la ley lo considera un contrato celebrado a distancia o fuera de un establecimiento comercial. Eso te da un derecho que quiero que conozcas antes de que empecemos: el derecho de desistimiento.",
+     "Tienes 14 días naturales para desistir del contrato sin dar ninguna explicación y sin ninguna penalización. El plazo empieza el día en que cerramos el encargo. Si el trabajo incluye material que te vendo (un disco, una memoria, un router), para ese material el plazo empieza el día en que lo recibes.",
+     "Para desistir basta con que me lo digas: una llamada al 644 21 91 18, un WhatsApp o un correo a nestorlafont@gmail.com. No hace falta ninguna fórmula especial. También puedes usar el formulario del apartado siguiente, pero no es obligatorio. Guarda el mensaje, o pídeme que te confirme por escrito que lo he recibido, para que te quede constancia de la fecha.",
+     "Si desistes, te devuelvo todo lo que hayas pagado en un plazo máximo de 14 días naturales desde que recibo tu aviso, por el mismo medio por el que pagaste, salvo que me pidas otro. Devolverte el dinero no te cuesta nada.",
+     "Cuándo pierdes este derecho, y por qué te lo explico antes de empezar. Casi siempre me llamas porque tienes un problema hoy, no dentro de quince días. Si quieres que empiece a trabajar antes de que pasen esos 14 días, la ley me obliga a pedirte que me lo digas expresamente y a explicarte qué consecuencia tiene. Es esta:",
+     "Por eso, antes de tocar nada, te pido que firmes en el parte de trabajo una casilla que dice exactamente esto: «Solicito expresamente que el servicio comience antes de que termine el plazo de desistimiento de 14 días naturales y sé que, una vez el servicio esté completamente ejecutado, perderé el derecho de desistimiento». Te doy una copia firmada en papel. No es burocracia inútil: es tu garantía y también la mía.",
+     "Esto vale igual si contratamos por teléfono, por WhatsApp o en tu casa, y vale igual para las reparaciones, las clases particulares, los bonos de clases y los trabajos de web, automatización o inteligencia artificial."
+    ],
+    "va": [
+     "Quan em contractes per telèfon, per WhatsApp o per correu, o quan tanquem la faena a ta casa, la llei ho considera un contracte celebrat a distància o fora d'un establiment comercial. Això et dona un dret que vull que conegues abans que comencem: el dret de desistiment.",
+     "Tens 14 dies naturals per a desistir del contracte sense donar cap explicació i sense cap penalització. El termini comença el dia en què tanquem l'encàrrec. Si la faena inclou material que et venc (un disc, una memòria, un router), per a eixe material el termini comença el dia en què el reps.",
+     "Per a desistir només cal que m'ho digues: em crides al 644 21 91 18, m'envies un WhatsApp o m'escrius a nestorlafont@gmail.com. No fa falta cap fórmula especial. També pots usar el formulari de l'apartat següent, però no és obligatori. Guarda el missatge, o demana'm que et confirme per escrit que l'he rebut, perquè et quede constància de la data.",
+     "Si desistixes, et torne tot el que hages pagat en un termini màxim de 14 dies naturals des que rep el teu avís, pel mateix mitjà pel qual vas pagar, menys si me'n demanes un altre. Tornar-te els diners no et costa res.",
+     "Quan perds este dret, i per què t'ho explique abans de començar. Quasi sempre em crides perquè tens un problema hui, no d'ací a quinze dies. Si vols que comence a treballar abans que passen eixos 14 dies, la llei m'obliga a demanar-te que m'ho digues expressament i a explicar-te quina conseqüència té. És esta:",
+     "Per això, abans de tocar res, et demane que firmes en el full de faena una casella que diu exactament això: «Sol·licite expressament que el servici comence abans que acabe el termini de desistiment de 14 dies naturals i sé que, una vegada el servici estiga completament executat, perdré el dret de desistiment». Te'n done una còpia firmada en paper. No és burocràcia inútil: és la teua garantia i també la meua.",
+     "Això val igual si contractem per telèfon, per WhatsApp o a ta casa, i val igual per a les reparacions, les classes particulars, els bons de classes i les faenes de web, automatització o intel·ligència artificial."
+    ]
+   },
+   "lista": {
+    "es": [
+     "Si me pides que empiece dentro del plazo de 14 días y el trabajo queda completamente terminado dentro de ese plazo, pierdes el derecho de desistimiento sobre ese trabajo. Es lógico: el servicio ya está hecho y no se puede devolver.",
+     "Si me pides que empiece y luego desistes con el trabajo a medias, no pierdes nada: solo me pagas la parte proporcional de lo que haya hecho hasta el momento en que me avises, calculada sobre el precio total que habíamos acordado.",
+     "Si no me pides expresamente que empiece antes, no empiezo hasta que pasen los 14 días, y durante ese tiempo puedes echarte atrás sin pagar nada."
+    ],
+    "va": [
+     "Si em demanes que comence dins del termini de 14 dies i la faena queda completament acabada dins d'eixe termini, perds el dret de desistiment sobre eixa faena. És lògic: el servici ja està fet i no es pot tornar.",
+     "Si em demanes que comence i després desistixes amb la faena a mitges, no perds res: només em pagues la part proporcional del que haja fet fins al moment en què m'avises, calculada sobre el preu total que havíem acordat.",
+     "Si no em demanes expressament que comence abans, no comence fins que passen els 14 dies, i mentrestant pots fer-te arrere sense pagar res."
+    ]
+   }
+  },
+  {
+   "titulo": {
+    "es": "9. Modelo de formulario de desistimiento",
+    "va": "9. Model de formulari de desistiment"
+   },
+   "resumen_llano": {
+    "es": "Este es el papel oficial para echarte atrás. Solo lo rellenas si quieres: me vale igual una llamada.",
+    "va": "Este és el paper oficial per a fer-te arrere. Només l'omplis si vols: em val igual que em crides."
+   },
+   "parrafos": {
+    "es": [
+     "Este es el modelo del anexo B del texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios. Solo tienes que rellenarlo si quieres usarlo: no es obligatorio, y me vale igual una llamada, un WhatsApp o un correo.",
+     "Puedes copiarlo a mano en un papel, mandármelo por WhatsApp o por correo, o pedirme una copia impresa: la llevo encima en cada visita y te la dejo junto al parte de trabajo."
+    ],
+    "va": [
+     "Este és el model de l'annex B del text refós de la Llei General per a la Defensa dels Consumidors i Usuaris. Només l'has d'omplir si el vols usar: no és obligatori, i em val igual que em crides, m'envies un WhatsApp o m'escrigues un correu.",
+     "El pots copiar a mà en un paper, enviar-me'l per WhatsApp o per correu, o demanar-me'n una còpia impresa: la porte damunt en cada visita i te la deixe junt amb el full de faena."
+    ]
+   },
+   "lista": {
+    "es": [
+     "A la atención de Néstor Soriano López, La Font de la Figuera (Valencia). Correo: nestorlafont@gmail.com. Teléfono: 644 21 91 18.",
+     "Por la presente le comunico que desisto del contrato de prestación del siguiente servicio: ______________________________",
+     "Fecha en que se solicitó el servicio: ____/____/________",
+     "Fecha en que se recibió el material, si lo hubo: ____/____/________",
+     "Nombre del consumidor: ______________________________",
+     "Domicilio del consumidor: ______________________________",
+     "Firma del consumidor (solo si el formulario se presenta en papel): ______________________________",
+     "Fecha: ____/____/________"
+    ],
+    "va": [
+     "A l'atenció de Néstor Soriano López, la Font de la Figuera (València). Correu: nestorlafont@gmail.com. Telèfon: 644 21 91 18.",
+     "Per la present li comunique que desistisc del contracte de prestació del servici següent: ______________________________",
+     "Data en què es va sol·licitar el servici: ____/____/________",
+     "Data en què es va rebre el material, si n'hi va haver: ____/____/________",
+     "Nom del consumidor: ______________________________",
+     "Domicili del consumidor: ______________________________",
+     "Firma del consumidor (només si el formulari es presenta en paper): ______________________________",
+     "Data: ____/____/________"
+    ]
+   }
+  },
+  {
+   "titulo": {
+    "es": "10. Si algo no te ha gustado: reclamaciones",
+    "va": "10. Si alguna cosa no t'ha agradat: reclamacions"
+   },
+   "resumen_llano": {
+    "es": "Primero dímelo a mí y lo arreglo. Y si no te convence, llevo encima las hojas de reclamación oficiales y te las doy en el acto.",
+    "va": "Primer digues-m'ho a mi i ho arregle. I si no et convenç, porte damunt els fulls de reclamació oficials i te'ls done en l'acte."
+   },
+   "parrafos": {
+    "es": [
+     "Primero, dímelo a mí. Llámame al 644 21 91 18 o escríbeme a nestorlafont@gmail.com y lo arreglamos. Me comprometo a contestarte en un plazo máximo de 15 días y a decirte por escrito qué voy a hacer.",
+     "Si no quedas conforme, tienes derecho a reclamar por la vía oficial y yo tengo la obligación de ponértelo fácil:",
+     "Llevo siempre encima las hojas de reclamación oficiales de la Generalitat Valenciana. Puedes pedírmelas en cualquier momento y estoy obligado a dártelas en el acto, sin preguntarte por qué y sin ponerte ninguna pega. La hoja tiene tres copias: una es para la Administración, otra es para ti y la tercera me la quedo yo. Si por lo que fuera no pudiera dártela en ese momento, tienes derecho a hacerlo constar y a reclamar igualmente.",
+     "También puedes reclamar sin contar conmigo: en la Oficina Municipal de Información al Consumidor (OMIC) de tu ayuntamiento, en el Servicio Territorial de Consumo de València de la Conselleria competente en consumo, o por internet en la sede electrónica de la Generalitat Valenciana.",
+     "No estoy adherido con carácter general al Sistema Arbitral de Consumo. Aun así, si me lo propones, estoy dispuesto a aceptar el arbitraje de la Junta Arbitral de Consumo de la Comunitat Valenciana para resolver el caso concreto.",
+     "Tengas o no la condición de consumidor, presentar una reclamación no te cuesta nada y no te lo voy a tener en cuenta.",
+     "Existen hojas de reclamaciones a disposición del consumidor. Hi ha fulls de reclamació a disposició del consumidor."
+    ],
+    "va": [
+     "Primer, digues-m'ho a mi. Crida'm al 644 21 91 18 o escriu-me a nestorlafont@gmail.com i ho arreglem. Em compromet a contestar-te en un termini màxim de 15 dies i a dir-te per escrit què faré.",
+     "Si no quedes conforme, tens dret a reclamar per la via oficial i jo tinc l'obligació de posar-t'ho fàcil:",
+     "Porte sempre damunt els fulls de reclamació oficials de la Generalitat Valenciana. Me'ls pots demanar en qualsevol moment i estic obligat a donar-te'ls en l'acte, sense preguntar-te per què i sense posar-te cap trava. El full té tres còpies: una és per a l'Administració, una altra és per a tu i la tercera me la quede jo. Si pel motiu que fora no poguera donar-te'l en eixe moment, tens dret a fer-ho constar i a reclamar igualment.",
+     "També pots reclamar sense comptar amb mi: en l'Oficina Municipal d'Informació al Consumidor (OMIC) del teu ajuntament, en el Servici Territorial de Consum de València de la Conselleria competent en consum, o per internet en la seu electrònica de la Generalitat Valenciana.",
+     "No estic adherit amb caràcter general al Sistema Arbitral de Consum. Així i tot, si m'ho proposes, estic disposat a acceptar l'arbitratge de la Junta Arbitral de Consum de la Comunitat Valenciana per a resoldre el cas concret.",
+     "Tingues o no la condició de consumidor, presentar una reclamació no et costa res i no t'ho tindré en compte.",
+     "Existen hojas de reclamaciones a disposición del consumidor. Hi ha fulls de reclamació a disposició del consumidor."
+    ]
+   },
+   "lista": {
+    "es": [
+     "Hojas de reclamación oficiales de la Generalitat Valenciana: las llevo encima y te las doy en el acto si me las pides.",
+     "OMIC (Oficina Municipal de Información al Consumidor) de tu ayuntamiento.",
+     "Servicio Territorial de Consumo de València, de la Conselleria competente en materia de consumo.",
+     "Sede electrónica de la Generalitat Valenciana, si prefieres hacerlo por internet.",
+     "Junta Arbitral de Consumo de la Comunitat Valenciana, si los dos aceptamos el arbitraje para ese caso.",
+     "Y antes que nada, mi teléfono: 644 21 91 18."
+    ],
+    "va": [
+     "Fulls de reclamació oficials de la Generalitat Valenciana: els porte damunt i te'ls done en l'acte si me'ls demanes.",
+     "OMIC (Oficina Municipal d'Informació al Consumidor) del teu ajuntament.",
+     "Servici Territorial de Consum de València, de la Conselleria competent en matèria de consum.",
+     "Seu electrònica de la Generalitat Valenciana, si ho preferixes fer per internet.",
+     "Junta Arbitral de Consum de la Comunitat Valenciana, si els dos acceptem l'arbitratge per a eixe cas.",
+     "I abans que res, el meu telèfon: 644 21 91 18."
+    ]
+   }
+  },
+  {
+   "titulo": {
+    "es": "11. Tus datos personales",
+    "va": "11. Les teues dades personals"
+   },
+   "resumen_llano": {
+    "es": "Uso tus datos para ir a tu casa, arreglarte el problema y hacerte la factura. Nada más. El detalle está en la política de privacidad.",
+    "va": "Use les teues dades per a anar a ta casa, arreglar-te el problema i fer-te la factura. Res més. El detall està en la política de privacitat."
+   },
+   "parrafos": {
+    "es": [
+     "Cuando me llamas o vengo a tu casa te doy esta misma información en corto, de palabra y por escrito en el parte de trabajo, porque la ley obliga a informarte en el momento en que recojo tus datos y no después.",
+     "La política de privacidad de esta web explica con todo detalle qué datos trato, para qué, cuánto tiempo los guardo, quién más los ve y cómo ejercer tus derechos. Ahí está también el apartado sobre el acceso a tu equipo, que es el que más te conviene leer."
+    ],
+    "va": [
+     "Quan em crides o vinc a ta casa et done esta mateixa informació resumida, de paraula i per escrit en el full de faena, perquè la llei obliga a informar-te en el moment en què arreplegue les teues dades i no després.",
+     "La política de privacitat d'esta web explica amb tot detall quines dades tracte, per a què, quant de temps les guarde, qui més les veu i com exercir els teus drets. Ahí està també l'apartat sobre l'accés al teu equip, que és el que més et convé llegir."
+    ]
+   },
+   "lista": {
+    "es": [
+     "Responsable: Néstor Soriano López, La Font de la Figuera.",
+     "Finalidad: prestarte el servicio, facturarlo y poder atenderte después.",
+     "Base jurídica: el contrato que cerramos tú y yo, y mis obligaciones fiscales.",
+     "Conservación: los plazos legales, que tienes detallados en la política de privacidad.",
+     "Destinatarios: mi gestoría y la Administración. Si me escribes por WhatsApp o por correo, esos mensajes pasan además por los servidores de Meta y de Google, y te lo explico en la política de privacidad.",
+     "Derechos: puedes acceder, rectificar, suprimir, oponerte, limitar y portar tus datos escribiendo a nestorlafont@gmail.com o llamando al 644 21 91 18, y reclamar ante la Agencia Española de Protección de Datos (www.aepd.es).",
+     "Información completa: https://nsorlop.github.io/nestorinformatico/legal.html"
+    ],
+    "va": [
+     "Responsable: Néstor Soriano López, la Font de la Figuera.",
+     "Finalitat: prestar-te el servici, facturar-lo i poder atendre't després.",
+     "Base jurídica: el contracte que tanquem tu i jo, i les meues obligacions fiscals.",
+     "Conservació: els terminis legals, que tens detallats en la política de privacitat.",
+     "Destinataris: la meua gestoria i l'Administració. Si m'escrius per WhatsApp o per correu, eixos missatges passen també pels servidors de Meta i de Google, i t'ho explique en la política de privacitat.",
+     "Drets: pots accedir, rectificar, suprimir, oposar-te, limitar i portar les teues dades escrivint a nestorlafont@gmail.com o cridant-me al 644 21 91 18, i reclamar davant de l'Agència Espanyola de Protecció de Dades (www.aepd.es).",
+     "Informació completa: https://nsorlop.github.io/nestorinformatico/legal.html"
+    ]
+   }
+  },
+  {
+   "titulo": {
+    "es": "12. Qué ley se aplica y a qué juzgados se puede acudir",
+    "va": "12. Quina llei s'aplica i a quins jutjats es pot acudir"
+   },
+   "resumen_llano": {
+    "es": "Si un día hay que ir a un juez, manda el juzgado de tu domicilio. Y ninguna frase de esta página te quita derechos.",
+    "va": "Si un dia s'ha d'anar a un jutge, mana el jutjat del teu domicili. I cap frase d'esta pàgina no et lleva drets."
+   },
+   "parrafos": {
+    "es": [
+     "A estas condiciones y a los trabajos que te haga se les aplica la ley española: el texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios (Real Decreto Legislativo 1/2007), el Real Decreto 58/1988 en las reparaciones, y la normativa de consumo de la Comunitat Valenciana.",
+     "Si eres consumidor y acabamos en un juzgado, el juzgado competente es el de tu domicilio. Lo dice el artículo 90.2 del texto refundido y no se puede pactar otra cosa. Ninguna frase de esta página te quita ese derecho ni ningún otro que la ley te reconozca de forma imperativa; si algo de lo que pone aquí fuera contrario a la ley, se tiene por no puesto y el resto sigue valiendo.",
+     "Si me contratas como empresa o como autónomo para tu negocio, se aplican las reglas generales de competencia de los artículos 50 y siguientes de la Ley de Enjuiciamiento Civil, salvo que acordemos por escrito otra cosa para un encargo concreto.",
+     "La plataforma europea de resolución de litigios en línea dejó de estar operativa el 20 de julio de 2025, así que no te remito a ella. Las vías que sí funcionan son las del apartado 10.",
+     "Estas condiciones se publican en castellano y en valenciano, y las dos versiones dicen lo mismo. Si alguna vez hubiera una discrepancia de interpretación, prevalecerá la versión en castellano, sin que eso pueda suponer en ningún caso una reducción de los derechos reconocidos al cliente en la versión en valenciano.",
+     "Puedo cambiar estas condiciones si cambia la ley o si cambia mi manera de trabajar. Los cambios valen para los encargos nuevos: al tuyo se le aplican las condiciones que estaban publicadas el día en que me dijiste que sí, y de las que te di copia."
+    ],
+    "va": [
+     "A estes condicions i a les faenes que et faça se'ls aplica la llei espanyola: el text refós de la Llei General per a la Defensa dels Consumidors i Usuaris (Reial Decret Legislatiu 1/2007), el Reial Decret 58/1988 en les reparacions, i la normativa de consum de la Comunitat Valenciana.",
+     "Si eres consumidor i acabem en un jutjat, el jutjat competent és el del teu domicili. Ho diu l'article 90.2 del text refós i no es pot pactar cap altra cosa. Cap frase d'esta pàgina no et lleva eixe dret ni cap altre que la llei et reconega de manera imperativa; si alguna cosa del que posa ací fora contrària a la llei, es té per no posada i la resta continua valent.",
+     "Si em contractes com a empresa o com a autònom per al teu negoci, s'apliquen les regles generals de competència dels articles 50 i següents de la Llei d'Enjudiciament Civil, menys si acordem per escrit una altra cosa per a un encàrrec concret.",
+     "La plataforma europea de resolució de litigis en línia va deixar d'estar operativa el 20 de juliol de 2025, així que no t'hi remet. Les vies que sí que funcionen són les de l'apartat 10.",
+     "Estes condicions es publiquen en castellà i en valencià, i les dos versions diuen el mateix. Si alguna vegada hi haguera una discrepància d'interpretació, prevaldrà la versió en castellà, sense que això puga suposar en cap cas una reducció dels drets reconeguts al client en la versió en valencià.",
+     "Puc canviar estes condicions si canvia la llei o si canvia la meua manera de treballar. Els canvis valen per als encàrrecs nous: al teu se li apliquen les condicions que estaven publicades el dia en què em vas dir que sí, i de les quals et vaig donar còpia."
+    ]
+   },
+   "lista": {
+    "es": [],
+    "va": []
+   }
+  }
+ ]
+}

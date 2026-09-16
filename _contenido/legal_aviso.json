@@ -1,0 +1,238 @@
+{
+ "titulo": {
+  "es": "Aviso legal",
+  "va": "Avís legal"
+ },
+ "actualizado": {
+  "es": "Última actualización: 15 de septiembre de 2026",
+  "va": "Última actualització: 15 de setembre de 2026"
+ },
+ "secciones": [
+  {
+   "titulo": {
+    "es": "1. Identificación del titular del sitio web",
+    "va": "1. Identificació del titular del lloc web"
+   },
+   "parrafos": {
+    "es": [
+     "En cumplimiento del deber de información general previsto en el artículo 10 de la Ley 34/2002, de 11 de julio, de servicios de la sociedad de la información y de comercio electrónico (en adelante, LSSI-CE), se ponen a disposición de los usuarios, de forma permanente, gratuita, directa y fácilmente accesible, los siguientes datos identificativos del titular de este sitio web:",
+     "Titular: Néstor Soriano López.",
+     "Ubicación: La Font de la Figuera (Valencia), España.",
+     "Teléfono de contacto: 644 21 91 18, número disponible también para mensajería WhatsApp.",
+     "Correo electrónico de contacto: nestorlafont@gmail.com.",
+     "Nombre de dominio del sitio web: https://nsorlop.github.io/nestorinformatico/.",
+     "Proveedor de alojamiento: GitHub, Inc. (servicio GitHub Pages), con domicilio en 88 Colin P. Kelly Jr. Street, San Francisco, California 94107, Estados Unidos. Este dato no lo exige el artículo 10 de la LSSI-CE, pero se hace constar para que la información sobre tratamiento de datos de la Política de Privacidad sea completa y veraz.",
+     "Actividad: prestación de servicios informáticos a domicilio dirigidos a particulares y a pequeños negocios, que comprenden, entre otros, la asistencia y formación básica en el uso de ordenadores, teléfonos móviles y programas ofimáticos, la instalación y configuración de equipos y redes, la eliminación de software malicioso, las copias de seguridad y la recuperación de datos, así como el desarrollo de páginas web y aplicaciones a medida, la automatización de tareas, el tratamiento de datos y la integración de soluciones de inteligencia artificial en procesos de negocio. No forman parte de la actividad la realización de trámites ante las administraciones públicas en nombre del cliente, la solicitud o gestión de ayudas y subvenciones, la realización de operaciones bancarias por cuenta del cliente, el asesoramiento jurídico, fiscal o contable, ni la reparación electrónica de componentes.",
+     "Autorización administrativa y profesión regulada: la actividad descrita no está sujeta a régimen de autorización administrativa previa ni constituye una profesión regulada que exija colegiación obligatoria o título oficial habilitante, por lo que no resulta de aplicación lo previsto en las letras c) y d) del artículo 10.1 de la LSSI-CE.",
+     "Adhesión a códigos de conducta: el titular no está adherido a ningún código de conducta.",
+     "Cualquier comunicación dirigida al titular relativa a este sitio web puede realizarse a través del teléfono o del correo electrónico indicados, que constituyen medios de comunicación directa y efectiva a los efectos del artículo 10.1.a) de la LSSI-CE."
+    ],
+    "va": [
+     "En compliment del deure d'informació general previst en l'article 10 de la Llei 34/2002, d'11 de juliol, de serveis de la societat de la informació i de comerç electrònic (d'ara en avant, LSSI-CE), es posen a disposició dels usuaris, de manera permanent, gratuïta, directa i fàcilment accessible, les dades identificatives següents del titular d'este lloc web:",
+     "Titular: Néstor Soriano López.",
+     "Ubicació: la Font de la Figuera (València), Espanya.",
+     "Telèfon de contacte: 644 21 91 18, número disponible també per a missatgeria WhatsApp.",
+     "Correu electrònic de contacte: nestorlafont@gmail.com.",
+     "Nom de domini del lloc web: https://nsorlop.github.io/nestorinformatico/.",
+     "Proveïdor d'allotjament: GitHub, Inc. (servici GitHub Pages), amb domicili al 88 Colin P. Kelly Jr. Street, San Francisco, Califòrnia 94107, Estats Units. Esta dada no l'exigeix l'article 10 de la LSSI-CE, però es fa constar perquè la informació sobre tractament de dades de la Política de Privacitat siga completa i veraç.",
+     "Activitat: prestació de servicis informàtics a domicili dirigits a particulars i a xicotets negocis, que comprenen, entre altres, l'assistència i la formació bàsica en l'ús d'ordinadors, telèfons mòbils i programes ofimàtics, la instal·lació i configuració d'equips i xarxes, l'eliminació de programari maliciós, les còpies de seguretat i la recuperació de dades, així com el desenvolupament de pàgines web i aplicacions a mida, l'automatització de tasques, el tractament de dades i la integració de solucions d'intel·ligència artificial en processos de negoci. No formen part de l'activitat la realització de tràmits davant de les administracions públiques en nom del client, la sol·licitud o gestió d'ajudes i subvencions, la realització d'operacions bancàries per compte del client, l'assessorament jurídic, fiscal o comptable, ni la reparació electrònica de components.",
+     "Autorització administrativa i professió regulada: l'activitat descrita no està subjecta a règim d'autorització administrativa prèvia ni constitueix una professió regulada que exigisca col·legiació obligatòria o títol oficial habilitant, per la qual cosa no resulta aplicable el que preveuen les lletres c) i d) de l'article 10.1 de la LSSI-CE.",
+     "Adhesió a codis de conducta: el titular no està adherit a cap codi de conducta.",
+     "Qualsevol comunicació dirigida al titular relativa a este lloc web es pot fer a través del telèfon o del correu electrònic indicats, que constitueixen mitjans de comunicació directa i efectiva als efectes de l'article 10.1.a) de la LSSI-CE."
+    ]
+   }
+  },
+  {
+   "titulo": {
+    "es": "2. Objeto y ámbito de aplicación",
+    "va": "2. Objecte i àmbit d'aplicació"
+   },
+   "parrafos": {
+    "es": [
+     "El presente aviso legal regula el acceso, la navegación y el uso de este sitio web, así como las responsabilidades derivadas de la utilización de sus contenidos, sin perjuicio de que el titular se reserve el derecho a establecer condiciones particulares para determinados contenidos o servicios que, en su caso, prevalecerán sobre las presentes condiciones generales.",
+     "Este sitio web tiene naturaleza exclusivamente informativa y divulgativa. Su finalidad es dar a conocer los servicios informáticos a domicilio que presta el titular, la zona geográfica en la que trabaja y las vías de contacto disponibles.",
+     "El sitio web no constituye una tienda en línea ni una plataforma de contratación electrónica: no dispone de carrito de la compra, no permite realizar pedidos ni pagos, no ofrece área privada de usuarios, no exige registro ni alta de cuenta, y el único formulario que incorpora no envía nada a ningún servidor propio: lo que escribes se queda en tu navegador y se usa solo para componer un mensaje de WhatsApp o un correo electrónico que envías tú desde tu propio dispositivo, pudiendo revisarlo o descartarlo antes de hacerlo. En consecuencia, no resulta de aplicación a este sitio web el régimen de contratación por vía electrónica previsto en los artículos 23 y siguientes de la LSSI-CE.",
+     "Toda solicitud de información, presupuesto o prestación de servicios se canaliza fuera del sitio web, mediante llamada telefónica, mensajería WhatsApp, correo electrónico o contacto presencial. La relación contractual entre el titular y el cliente, cuando llegue a existir, se perfecciona al margen de esta web y se rige por el presupuesto o encargo aceptado en cada caso y por las Condiciones del Servicio publicadas en este mismo sitio, y no por el presente aviso legal.",
+     "Las Condiciones del Servicio recogen la información previa al contrato que corresponde al consumidor conforme a los artículos 60 y 97 del texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios, e incluyen el presupuesto previo por escrito, los plazos, las formas de pago, la garantía, el derecho de desistimiento y el régimen de reclamaciones. Se recomienda su lectura antes de contratar cualquier servicio.",
+     "Los servicios se prestan de forma presencial en el domicilio o local del cliente, con base en La Font de la Figuera, municipio en el que el titular reside y presta el servicio de forma habitual. También se atienden las localidades próximas, en cuyo caso la visita debe concertarse con antelación y el eventual suplemento por desplazamiento se comunica al cliente antes de acudir. Todo ello sin perjuicio de aquellas actuaciones que, por su naturaleza, puedan prestarse en remoto previo acuerdo con el cliente.",
+     "Este aviso legal se pone a disposición del usuario de forma permanente y gratuita para que pueda conocer las condiciones de uso del sitio web antes de utilizarlo. El uso del sitio implica la aceptación de estas condiciones de uso en la versión publicada en ese momento, sin perjuicio de que la relación contractual con los clientes se rija por el presupuesto aceptado y por las Condiciones del Servicio, y de que ninguna previsión de este documento limite los derechos reconocidos de forma imperativa a los consumidores."
+    ],
+    "va": [
+     "Este avís legal regula l'accés, la navegació i l'ús d'este lloc web, així com les responsabilitats derivades de la utilització dels seus continguts, sense perjudici que el titular es reserve el dret d'establir condicions particulars per a determinats continguts o servicis que, si és el cas, prevaldran sobre estes condicions generals.",
+     "Este lloc web té naturalesa exclusivament informativa i divulgativa. La seua finalitat és donar a conéixer els servicis informàtics a domicili que presta el titular, la zona geogràfica en què treballa i les vies de contacte disponibles.",
+     "El lloc web no constitueix una botiga en línia ni una plataforma de contractació electrònica: no disposa de cistella de la compra, no permet fer comandes ni pagaments, no ofereix àrea privada d'usuaris, no exigeix registre ni alta de compte, i l'únic formulari que incorpora no envia res a cap servidor propi: el que escrius es queda en el teu navegador i només servix per a compondre un missatge de WhatsApp o un correu electrònic que envies tu des del teu propi dispositiu, i que pots revisar o descartar abans de fer-ho. En conseqüència, no resulta aplicable a este lloc web el règim de contractació per via electrònica previst en els articles 23 i següents de la LSSI-CE.",
+     "Qualsevol sol·licitud d'informació, pressupost o prestació de servicis es canalitza fora del lloc web, per telèfon, missatgeria WhatsApp, correu electrònic o contacte presencial. La relació contractual entre el titular i el client, quan existisca, es perfecciona al marge d'esta web i es regeix pel pressupost o encàrrec acceptat en cada cas i per les Condicions del Servici publicades en este mateix lloc, i no per este avís legal.",
+     "Les Condicions del Servici recullen la informació prèvia al contracte que correspon al consumidor d'acord amb els articles 60 i 97 del text refós de la Llei General per a la Defensa dels Consumidors i Usuaris, i inclouen el pressupost previ per escrit, els terminis, les formes de pagament, la garantia, el dret de desistiment i el règim de reclamacions. Se'n recomana la lectura abans de contractar qualsevol servici.",
+     "Els servicis es presten de manera presencial al domicili o local del client, des de la Font de la Figuera, municipi on el titular resideix i presta el servici de manera habitual. També s'atenen les localitats pròximes, cas en què la visita s'ha de concertar amb antelació i l'eventual suplement per desplaçament es comunica al client abans d'acudir-hi. Tot això sense perjudici d'eixes actuacions que, per la seua naturalesa, puguen prestar-se en remot amb l'acord previ del client.",
+     "Este avís legal es posa a disposició de l'usuari de manera permanent i gratuïta perquè puga conéixer les condicions d'ús del lloc web abans d'utilitzar-lo. L'ús del lloc implica l'acceptació d'estes condicions d'ús en la versió publicada en eixe moment, sense perjudici que la relació contractual amb els clients es regisca pel pressupost acceptat i per les Condicions del Servici, i que cap previsió d'este document no limite els drets reconeguts de manera imperativa als consumidors."
+    ]
+   }
+  },
+  {
+   "titulo": {
+    "es": "3. Condiciones de uso y obligaciones del usuario",
+    "va": "3. Condicions d'ús i obligacions de l'usuari"
+   },
+   "parrafos": {
+    "es": [
+     "El acceso al sitio web es libre y gratuito y no requiere suscripción, registro previo ni el suministro de dato personal alguno. El coste de la conexión a internet necesaria para acceder al sitio corre por cuenta del usuario.",
+     "El usuario se obliga a hacer un uso diligente, correcto y lícito del sitio web y de sus contenidos, de conformidad con la legislación vigente, la buena fe, los usos generalmente aceptados y el orden público, y a abstenerse de utilizarlos con fines o efectos ilícitos, lesivos de los derechos e intereses de terceros o que de cualquier forma puedan dañar, inutilizar, sobrecargar o deteriorar el sitio web o impedir su normal disfrute por otros usuarios.",
+     "Queda expresamente prohibido: introducir o difundir virus informáticos, código malicioso o cualesquiera otros sistemas físicos o lógicos susceptibles de provocar daños en el sitio web, en los equipos del titular o en los de terceros; intentar acceder sin autorización a áreas restringidas, servidores, sistemas o bases de datos asociados al sitio; realizar actuaciones de ingeniería inversa, descompilación o desensamblaje del código fuente; suprimir, alterar o manipular los contenidos, así como los dispositivos de protección o los sistemas de identificación del titular; y emplear procedimientos automatizados de extracción masiva de datos, rastreo o replicación que generen una carga desproporcionada sobre la infraestructura del sitio web.",
+     "El usuario se compromete asimismo a no reproducir los contenidos del sitio web con fines comerciales ni a utilizar los datos de contacto publicados para el envío de comunicaciones comerciales no solicitadas, práctica expresamente prohibida por el artículo 21 de la LSSI-CE.",
+     "La información contenida en este sitio web tiene carácter informativo. Los precios publicados son reales y se aplican tal como figuran a los servicios descritos, en las condiciones y en la zona que se indican; cuando se expresan como rango o como «desde», el importe concreto depende del alcance del trabajo y se fija en el presupuesto previo, que nunca podrá superar el rango publicado sin haberlo acordado antes con el cliente. Las descripciones de servicios no constituyen asesoramiento técnico individualizado ni sustituyen el diagnóstico concreto de cada caso. Conforme al artículo 61 del texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios, el contenido de esta web es exigible por el consumidor aunque no se recoja expresamente en el presupuesto aceptado.",
+     "Los precios publicados en este sitio web se expresan en euros e incluyen el Impuesto sobre el Valor Añadido, salvo indicación expresa en contrario. El desplazamiento está incluido en La Font de la Figuera; fuera del municipio, cualquier suplemento se comunica al cliente antes del desplazamiento. Las piezas y el material se facturan aparte, previa conformidad del cliente.",
+     "El usuario responderá frente al titular de los daños y perjuicios que le cause de forma directa por el incumplimiento doloso o negligente de las obligaciones establecidas en este aviso legal, en los términos previstos en la legislación civil, sin que esta previsión pueda interpretarse como una limitación de los derechos que la normativa de consumo reconoce de forma imperativa a los usuarios que tengan la condición de consumidor."
+    ],
+    "va": [
+     "L'accés al lloc web és lliure i gratuït i no requereix subscripció, registre previ ni el subministrament de cap dada personal. El cost de la connexió a internet necessària per a accedir al lloc va a càrrec de l'usuari.",
+     "L'usuari s'obliga a fer un ús diligent, correcte i lícit del lloc web i dels seus continguts, de conformitat amb la legislació vigent, la bona fe, els usos generalment acceptats i l'ordre públic, i a abstindre's d'utilitzar-los amb finalitats o efectes il·lícits, lesius dels drets i interessos de tercers o que de qualsevol manera puguen danyar, inutilitzar, sobrecarregar o deteriorar el lloc web o impedir-ne el gaudi normal per part d'altres usuaris.",
+     "Queda expressament prohibit: introduir o difondre virus informàtics, codi maliciós o qualssevol altres sistemes físics o lògics susceptibles de provocar danys en el lloc web, en els equips del titular o en els de tercers; intentar accedir sense autorització a àrees restringides, servidors, sistemes o bases de dades associades al lloc; realitzar actuacions d'enginyeria inversa, descompilació o desassemblatge del codi font; suprimir, alterar o manipular els continguts, així com els dispositius de protecció o els sistemes d'identificació del titular; i utilitzar procediments automatitzats d'extracció massiva de dades, rastreig o replicació que generen una càrrega desproporcionada sobre la infraestructura del lloc web.",
+     "L'usuari es compromet així mateix a no reproduir els continguts del lloc web amb finalitats comercials ni a utilitzar les dades de contacte publicades per a l'enviament de comunicacions comercials no sol·licitades, pràctica expressament prohibida per l'article 21 de la LSSI-CE.",
+     "La informació continguda en este lloc web té caràcter informatiu. Els preus publicats són reals i s'apliquen tal com figuren als servicis descrits, en les condicions i en la zona que s'hi indiquen; quan s'expressen com a interval o com a «des de», l'import concret depén de l'abast del treball i es fixa en el pressupost previ, que mai no podrà superar l'interval publicat sense haver-ho acordat abans amb el client. Les descripcions de servicis no constitueixen assessorament tècnic individualitzat ni substitueixen el diagnòstic concret de cada cas. D'acord amb l'article 61 del text refós de la Llei General per a la Defensa dels Consumidors i Usuaris, el contingut d'esta web és exigible pel consumidor encara que no es reculla expressament en el pressupost acceptat.",
+     "Els preus publicats en este lloc web s'expressen en euros i inclouen l'Impost sobre el Valor Afegit, excepte si s'indica expressament el contrari. El desplaçament està inclòs a la Font de la Figuera; fora del municipi, qualsevol suplement es comunica al client abans del desplaçament. Les peces i el material es facturen a banda, amb la conformitat prèvia del client.",
+     "L'usuari respondrà davant del titular dels danys i perjudicis que li cause de manera directa per l'incompliment dolós o negligent de les obligacions establides en este avís legal, en els termes previstos en la legislació civil, sense que esta previsió puga interpretar-se com una limitació dels drets que la normativa de consum reconeix de manera imperativa als usuaris que tinguen la condició de consumidor."
+    ]
+   }
+  },
+  {
+   "titulo": {
+    "es": "4. Propiedad intelectual e industrial",
+    "va": "4. Propietat intel·lectual i industrial"
+   },
+   "parrafos": {
+    "es": [
+     "Todos los contenidos de este sitio web, entendiendo por tales los textos, fotografías, ilustraciones, iconos, logotipos, combinaciones de colores, estructura y diseño de navegación, así como el código fuente, las hojas de estilo y los guiones que permiten su funcionamiento, son titularidad del titular del sitio web o bien este dispone de la correspondiente licencia o autorización para su utilización.",
+     "Dichos contenidos se encuentran protegidos por el texto refundido de la Ley de Propiedad Intelectual, aprobado por el Real Decreto Legislativo 1/1996, de 12 de abril, y, en su caso, por la Ley 17/2001, de 7 de diciembre, de Marcas, y por el resto de normativa nacional e internacional aplicable en materia de propiedad intelectual e industrial.",
+     "Queda expresamente prohibida la reproducción, distribución, comunicación pública, puesta a disposición, transformación, extracción, reutilización o cualquier otra forma de explotación, total o parcial, de los contenidos del sitio web, por cualquier medio o soporte y con cualquier finalidad, sin la autorización previa, expresa y por escrito del titular. Todo ello sin perjuicio de los límites al derecho de autor legalmente establecidos, en particular el derecho de cita, la ilustración con fines educativos o de investigación, la copia privada y los actos de reproducción en beneficio de personas con discapacidad, conforme al texto refundido de la Ley de Propiedad Intelectual.",
+     "El acceso al sitio web y su simple navegación no otorgan al usuario derecho ni licencia alguna sobre los contenidos, salvo el derecho de visualización y de reproducción temporal necesaria para dicha visualización, así como la descarga o copia privada en su equipo, siempre que sea para uso estrictamente personal y no comercial y no se altere ni suprima indicación alguna de autoría.",
+     "Las denominaciones, marcas, nombres comerciales y logotipos de terceros que puedan aparecer en el sitio web pertenecen a sus respectivos titulares y se citan únicamente con finalidad informativa o descriptiva de las tecnologías y herramientas empleadas, sin que ello implique patrocinio, recomendación o vinculación alguna con el titular del sitio, ni la cesión de derecho alguno sobre dichos signos distintivos.",
+     "Cualquier usuario o tercero que considere que un contenido publicado en este sitio web vulnera sus derechos de propiedad intelectual o industrial puede comunicarlo al titular a través de los datos de contacto indicados en el apartado 1, identificando el contenido concreto y el derecho presuntamente infringido, al objeto de que se proceda a su revisión y, si procede, a su retirada inmediata."
+    ],
+    "va": [
+     "Tots els continguts d'este lloc web, entenent com a tals els textos, fotografies, il·lustracions, icones, logotips, combinacions de colors, estructura i disseny de navegació, així com el codi font, els fulls d'estil i els guions que en permeten el funcionament, són titularitat del titular del lloc web o bé este disposa de la llicència o autorització corresponent per a utilitzar-los.",
+     "Estos continguts es troben protegits pel text refós de la Llei de Propietat Intel·lectual, aprovat pel Reial Decret Legislatiu 1/1996, de 12 d'abril, i, si és el cas, per la Llei 17/2001, de 7 de desembre, de Marques, i per la resta de normativa nacional i internacional aplicable en matèria de propietat intel·lectual i industrial.",
+     "Queda expressament prohibida la reproducció, distribució, comunicació pública, posada a disposició, transformació, extracció, reutilització o qualsevol altra forma d'explotació, total o parcial, dels continguts del lloc web, per qualsevol mitjà o suport i amb qualsevol finalitat, sense l'autorització prèvia, expressa i per escrit del titular. Tot això sense perjudici dels límits al dret d'autor legalment establits, en particular el dret de cita, la il·lustració amb finalitats educatives o de recerca, la còpia privada i els actes de reproducció en benefici de persones amb discapacitat, d'acord amb el text refós de la Llei de Propietat Intel·lectual.",
+     "L'accés al lloc web i la simple navegació no atorguen a l'usuari cap dret ni llicència sobre els continguts, excepte el dret de visualització i de reproducció temporal necessària per a esta visualització, així com la descàrrega o còpia privada en el seu equip, sempre que siga per a ús estrictament personal i no comercial i no s'altere ni se suprimisca cap indicació d'autoria.",
+     "Les denominacions, marques, noms comercials i logotips de tercers que puguen aparéixer en el lloc web pertanyen als seus titulars respectius i se citen únicament amb finalitat informativa o descriptiva de les tecnologies i ferramentes utilitzades, sense que això implique patrocini, recomanació o cap vinculació amb el titular del lloc, ni la cessió de cap dret sobre estos signes distintius.",
+     "Qualsevol usuari o tercer que considere que un contingut publicat en este lloc web vulnera els seus drets de propietat intel·lectual o industrial ho pot comunicar al titular a través de les dades de contacte indicades en l'apartat 1, identificant el contingut concret i el dret presumptament infringit, perquè es revise i, si és el cas, es retire immediatament."
+    ]
+   }
+  },
+  {
+   "titulo": {
+    "es": "5. Exclusión de responsabilidad sobre contenidos y enlaces",
+    "va": "5. Exclusió de responsabilitat sobre continguts i enllaços"
+   },
+   "parrafos": {
+    "es": [
+     "El titular actúa con la debida diligencia para que la información publicada en este sitio web sea exacta, actualizada y comprensible, pero no puede garantizar la ausencia total de errores tipográficos, omisiones o desactualizaciones. El titular se reserva el derecho a modificar, actualizar, ampliar o eliminar en cualquier momento y sin preaviso los contenidos publicados.",
+     "La información de este sitio web no sustituye un diagnóstico técnico individualizado. El titular no asume responsabilidad alguna por las decisiones que el usuario adopte, ni por las actuaciones que ejecute por su cuenta sobre sus equipos, programas o datos, sobre la base de la información general aquí publicada.",
+     "Este sitio web puede contener enlaces a sitios de terceros, incluidos enlaces a herramientas, fabricantes, redes sociales o servicios de mensajería. Dichos enlaces se facilitan exclusivamente con carácter informativo y para comodidad del usuario, sin que impliquen recomendación, supervisión, aprobación ni vinculación con los sitios enlazados ni con sus titulares.",
+     "El titular no ejerce control alguno sobre los contenidos, servicios, políticas de privacidad ni prácticas de los sitios de terceros y, de conformidad con lo dispuesto en el artículo 17 de la LSSI-CE, no será responsable de la información a la que se remita mediante enlaces, salvo que tenga conocimiento efectivo de su ilicitud y no actúe con diligencia para suprimir o inutilizar el enlace correspondiente. Si un usuario advierte que algún enlace conduce a contenidos ilícitos o inapropiados, se le ruega que lo comunique a través de los datos de contacto del apartado 1.",
+     "El titular no se hace responsable de los daños o perjuicios que pudieran derivarse de la presencia de virus u otros elementos lesivos introducidos por terceros, ni de las interferencias, omisiones, interrupciones o desconexiones en el funcionamiento del sistema electrónico o de los equipos del usuario, motivadas por causas ajenas a su control. Corresponde al usuario disponer de herramientas adecuadas para la detección y desinfección de programas informáticos dañinos.",
+     "Las exclusiones y limitaciones de responsabilidad previstas en este apartado se entienden sin perjuicio de la responsabilidad que resulte legalmente exigible al titular por dolo o culpa grave, así como de los derechos que la normativa de consumidores y usuarios reconoce de forma imperativa a quienes tengan tal condición."
+    ],
+    "va": [
+     "El titular actua amb la diligència deguda perquè la informació publicada en este lloc web siga exacta, actualitzada i comprensible, però no pot garantir l'absència total d'errades tipogràfiques, omissions o desactualitzacions. El titular es reserva el dret de modificar, actualitzar, ampliar o eliminar en qualsevol moment i sense avís previ els continguts publicats.",
+     "La informació d'este lloc web no substitueix un diagnòstic tècnic individualitzat. El titular no assumeix cap responsabilitat per les decisions que l'usuari adopte, ni per les actuacions que execute pel seu compte sobre els seus equips, programes o dades, basant-se en la informació general ací publicada.",
+     "Este lloc web pot contindre enllaços a llocs de tercers, inclosos enllaços a ferramentes, fabricants, xarxes socials o servicis de missatgeria. Estos enllaços es faciliten exclusivament amb caràcter informatiu i per a comoditat de l'usuari, sense que impliquen recomanació, supervisió, aprovació ni vinculació amb els llocs enllaçats ni amb els seus titulars.",
+     "El titular no exerceix cap control sobre els continguts, servicis, polítiques de privacitat ni pràctiques dels llocs de tercers i, de conformitat amb el que disposa l'article 17 de la LSSI-CE, no serà responsable de la informació a la qual es remeta a través d'enllaços, excepte si té coneixement efectiu de la seua il·licitud i no actua amb diligència per a suprimir o inutilitzar l'enllaç corresponent. Si un usuari adverteix que algun enllaç condueix a continguts il·lícits o inapropiats, es prega que ho comunique a través de les dades de contacte de l'apartat 1.",
+     "El titular no es fa responsable dels danys o perjudicis que pogueren derivar-se de la presència de virus o altres elements lesius introduïts per tercers, ni de les interferències, omissions, interrupcions o desconnexions en el funcionament del sistema electrònic o dels equips de l'usuari, motivades per causes alienes al seu control. Correspon a l'usuari disposar de ferramentes adequades per a la detecció i desinfecció de programes informàtics danyosos.",
+     "Les exclusions i limitacions de responsabilitat previstes en este apartat s'entenen sense perjudici de la responsabilitat que resulte legalment exigible al titular per dol o culpa greu, així com dels drets que la normativa de consumidors i usuaris reconeix de manera imperativa als qui tinguen esta condició."
+    ]
+   }
+  },
+  {
+   "titulo": {
+    "es": "6. Disponibilidad del servicio",
+    "va": "6. Disponibilitat del servici"
+   },
+   "parrafos": {
+    "es": [
+     "El titular no garantiza la disponibilidad continuada e ininterrumpida del sitio web, cuyo funcionamiento depende, entre otros factores, de la infraestructura de los proveedores de alojamiento y de comunicaciones electrónicas contratados, ajenos a su control directo.",
+     "El acceso al sitio web podrá ser suspendido temporalmente y sin necesidad de preaviso por razones de mantenimiento, actualización, reparación de averías, incidencias de seguridad, modificación de contenidos o cualquier otra causa técnica u operativa, así como por supuestos de fuerza mayor.",
+     "El titular no será responsable de los daños o perjuicios de cualquier naturaleza que pudieran derivarse de la falta de disponibilidad, continuidad o accesibilidad del sitio web, ni de los errores de acceso o de transmisión de datos imputables a la red, al proveedor de alojamiento o al equipo del usuario, todo ello sin perjuicio de lo indicado en el último párrafo del apartado 5.",
+     "El titular se reserva el derecho a modificar la estructura, el diseño, la configuración y los contenidos del sitio web, así como a suspender o cancelar definitivamente su publicación, en cualquier momento y de forma unilateral, sin que de ello se derive derecho a indemnización alguna en favor del usuario.",
+     "La imposibilidad puntual de acceder al sitio web no afecta en ningún caso a las vías de contacto alternativas indicadas en el apartado 1, que permanecen operativas en el horario de atención habitual del titular."
+    ],
+    "va": [
+     "El titular no garanteix la disponibilitat continuada i ininterrompuda del lloc web, el funcionament del qual depén, entre altres factors, de la infraestructura dels proveïdors d'allotjament i de comunicacions electròniques contractats, aliens al seu control directe.",
+     "L'accés al lloc web podrà ser suspés temporalment i sense necessitat d'avís previ per raons de manteniment, actualització, reparació d'avaries, incidències de seguretat, modificació de continguts o qualsevol altra causa tècnica o operativa, així com per supòsits de força major.",
+     "El titular no serà responsable dels danys o perjudicis de qualsevol naturalesa que pogueren derivar-se de la falta de disponibilitat, continuïtat o accessibilitat del lloc web, ni de les errades d'accés o de transmissió de dades imputables a la xarxa, al proveïdor d'allotjament o a l'equip de l'usuari, tot això sense perjudici del que s'indica en l'últim paràgraf de l'apartat 5.",
+     "El titular es reserva el dret de modificar l'estructura, el disseny, la configuració i els continguts del lloc web, així com de suspendre'n o cancel·lar-ne definitivament la publicació, en qualsevol moment i de manera unilateral, sense que d'això es derive cap dret a indemnització a favor de l'usuari.",
+     "La impossibilitat puntual d'accedir al lloc web no afecta en cap cas les vies de contacte alternatives indicades en l'apartat 1, que continuen operatives en l'horari d'atenció habitual del titular."
+    ]
+   }
+  },
+  {
+   "titulo": {
+    "es": "7. Protección de datos personales",
+    "va": "7. Protecció de dades personals"
+   },
+   "parrafos": {
+    "es": [
+     "Este sitio web no incorpora formularios de suscripción ni de registro y no recaba datos personales de los usuarios que se limiten a navegar por él. El formulario de contacto que figura en la web no remite información a ningún servidor del titular: los datos que el usuario escribe permanecen en su navegador y únicamente sirven para redactar un mensaje de WhatsApp o un correo electrónico que el propio usuario decide enviar, o no enviar, desde su dispositivo.",
+     "Cuando el usuario decide ponerse en contacto con el titular por teléfono, mensajería WhatsApp o correo electrónico, el titular trata los datos personales facilitados en calidad de responsable del tratamiento, con la finalidad de atender la consulta, elaborar el presupuesto solicitado y, en su caso, gestionar la relación de servicio, de conformidad con el Reglamento (UE) 2016/679, General de Protección de Datos, y la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.",
+     "La información detallada sobre las finalidades, las bases jurídicas, los plazos de conservación, las eventuales comunicaciones de datos a terceros y el ejercicio de derechos se encuentra en la Política de Privacidad de este sitio web, que forma parte integrante del presente aviso legal y a la que debe entenderse expresamente remitido el usuario.",
+     "El usuario puede ejercer en todo momento los derechos de acceso, rectificación, supresión, oposición, limitación del tratamiento y portabilidad dirigiéndose al titular por cualquiera de los medios indicados en el apartado 1, acreditando su identidad. Asimismo, tiene derecho a presentar una reclamación ante la Agencia Española de Protección de Datos (www.aepd.es) cuando considere que el tratamiento no se ajusta a la normativa vigente.",
+     "En relación con la utilización de dispositivos de almacenamiento y recuperación de datos en los equipos terminales de los usuarios, prevista en el artículo 22.2 de la LSSI-CE, se hace constar que este sitio web no utiliza cookies ni herramientas de analítica, publicidad o medición de audiencia. Lo único que se guarda en el navegador del visitante es una marca técnica que indica que ya se ha cerrado el aviso de idioma, y solo si es el propio visitante quien lo cierra. Todo ello se explica con detalle en la Política de Cookies de este sitio web."
+    ],
+    "va": [
+     "Este lloc web no incorpora formularis de subscripció ni de registre i no recull dades personals dels usuaris que es limiten a navegar-hi. El formulari de contacte que figura en la web no remet informació a cap servidor del titular: les dades que l'usuari escriu es queden en el seu navegador i únicament servixen per a redactar un missatge de WhatsApp o un correu electrònic que el mateix usuari decideix enviar, o no enviar, des del seu dispositiu.",
+     "Quan l'usuari decideix posar-se en contacte amb el titular per telèfon, missatgeria WhatsApp o correu electrònic, el titular tracta les dades personals facilitades en qualitat de responsable del tractament, amb la finalitat d'atendre la consulta, elaborar el pressupost sol·licitat i, si és el cas, gestionar la relació de servici, de conformitat amb el Reglament (UE) 2016/679, General de Protecció de Dades, i la Llei Orgànica 3/2018, de 5 de desembre, de Protecció de Dades Personals i garantia dels drets digitals.",
+     "La informació detallada sobre les finalitats, les bases jurídiques, els terminis de conservació, les eventuals comunicacions de dades a tercers i l'exercici de drets es troba en la Política de Privacitat d'este lloc web, que forma part integrant d'este avís legal i a la qual s'ha d'entendre expressament remés l'usuari.",
+     "L'usuari pot exercir en tot moment els drets d'accés, rectificació, supressió, oposició, limitació del tractament i portabilitat dirigint-se al titular per qualsevol dels mitjans indicats en l'apartat 1, acreditant la seua identitat. Així mateix, té dret a presentar una reclamació davant l'Agència Espanyola de Protecció de Dades (www.aepd.es) quan considere que el tractament no s'ajusta a la normativa vigent.",
+     "Quant a la utilització de dispositius d'emmagatzematge i recuperació de dades en els equips terminals dels usuaris, prevista en l'article 22.2 de la LSSI-CE, es fa constar que este lloc web no utilitza cookies ni ferramentes d'analítica, publicitat o mesurament d'audiència. L'única cosa que es guarda en el navegador del visitant és una marca tècnica que indica que ja s'ha tancat l'avís d'idioma, i només si és el mateix visitant qui el tanca. Tot això s'explica amb detall en la Política de Cookies d'este lloc web."
+    ]
+   }
+  },
+  {
+   "titulo": {
+    "es": "8. Resolución de conflictos, legislación aplicable y fuero",
+    "va": "8. Resolució de conflictes, legislació aplicable i fur"
+   },
+   "parrafos": {
+    "es": [
+     "El presente aviso legal y la relación entre el titular y el usuario se rigen por la legislación española, en particular por la Ley 34/2002, de 11 de julio, de servicios de la sociedad de la información y de comercio electrónico, y, cuando el usuario tenga la condición de consumidor, por el texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios, aprobado por el Real Decreto Legislativo 1/2007, de 16 de noviembre.",
+     "Con carácter previo a cualquier reclamación formal, se invita al usuario a comunicar cualquier queja, incidencia o discrepancia al titular a través del teléfono o del correo electrónico indicados en el apartado 1, con el compromiso de dar respuesta en el plazo más breve posible y de buscar una solución amistosa. El titular dispone de hojas de reclamación oficiales de la Generalitat Valenciana a disposición de los consumidores, que entrega en el acto a quien se las pida, tal como se detalla en las Condiciones del Servicio.",
+     "Cuando el usuario tenga la condición de consumidor, las partes se someten a los juzgados y tribunales que resulten competentes conforme a la legislación procesal aplicable, que serán, en todo caso, los correspondientes al domicilio del consumidor, sin que pueda imponerse un fuero distinto, de acuerdo con el artículo 90.2 del texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios. Ninguna previsión de este aviso legal menoscaba los derechos que la normativa imperativa de consumo reconoce al consumidor.",
+     "Cuando el usuario no tenga la condición de consumidor, las partes se someten a los juzgados y tribunales que resulten competentes conforme a las reglas generales de los artículos 50 y siguientes de la Ley de Enjuiciamiento Civil, sin perjuicio de que puedan acordar por escrito, de forma negociada y para un encargo concreto, una sumisión distinta.",
+     "Los consumidores pueden acudir, con carácter voluntario, a los sistemas de resolución alternativa de litigios en materia de consumo previstos en la Ley 7/2017, de 2 de noviembre, y en particular a las Juntas Arbitrales de Consumo y a los servicios de consumo de la Generalitat Valenciana y del ayuntamiento correspondiente. El titular no está adherido con carácter general al Sistema Arbitral de Consumo, aunque está dispuesto a valorar en cada caso concreto la propuesta de acudir a él.",
+     "Se hace constar que la plataforma europea de resolución de litigios en línea quedó suprimida por el Reglamento (UE) 2024/3228, del Parlamento Europeo y del Consejo, de 19 de diciembre de 2024, y dejó de estar operativa el 20 de julio de 2025, por lo que no procede remisión alguna a dicha plataforma.",
+     "Existen hojas de reclamaciones a disposición del consumidor. Hi ha fulls de reclamació a disposició del consumidor."
+    ],
+    "va": [
+     "Este avís legal i la relació entre el titular i l'usuari es regeixen per la legislació espanyola, en particular per la Llei 34/2002, d'11 de juliol, de serveis de la societat de la informació i de comerç electrònic, i, quan l'usuari tinga la condició de consumidor, pel text refós de la Llei General per a la Defensa dels Consumidors i Usuaris, aprovat pel Reial Decret Legislatiu 1/2007, de 16 de novembre.",
+     "Amb caràcter previ a qualsevol reclamació formal, s'invita l'usuari a comunicar qualsevol queixa, incidència o discrepància al titular a través del telèfon o del correu electrònic indicats en l'apartat 1, amb el compromís de donar resposta en el termini més breu possible i de buscar una solució amistosa. El titular disposa de fulls de reclamació oficials de la Generalitat Valenciana a disposició dels consumidors, que entrega en l'acte a qui els demane, tal com es detalla en les Condicions del Servici.",
+     "Quan l'usuari tinga la condició de consumidor, les parts se sotmeten als jutjats i tribunals que resulten competents d'acord amb la legislació processal aplicable, que seran, en tot cas, els corresponents al domicili del consumidor, sense que puga imposar-se un fur diferent, d'acord amb l'article 90.2 del text refós de la Llei General per a la Defensa dels Consumidors i Usuaris. Cap previsió d'este avís legal menyscaba els drets que la normativa imperativa de consum reconeix al consumidor.",
+     "Quan l'usuari no tinga la condició de consumidor, les parts se sotmeten als jutjats i tribunals que resulten competents d'acord amb les regles generals dels articles 50 i següents de la Llei d'Enjudiciament Civil, sense perjudici que puguen acordar per escrit, de manera negociada i per a un encàrrec concret, una submissió diferent.",
+     "Els consumidors poden acudir, amb caràcter voluntari, als sistemes de resolució alternativa de litigis en matèria de consum previstos en la Llei 7/2017, de 2 de novembre, i en particular a les Juntes Arbitrals de Consum i als servicis de consum de la Generalitat Valenciana i de l'ajuntament corresponent. El titular no està adherit amb caràcter general al Sistema Arbitral de Consum, encara que està disposat a valorar en cada cas concret la proposta d'acudir-hi.",
+     "Es fa constar que la plataforma europea de resolució de litigis en línia va quedar suprimida pel Reglament (UE) 2024/3228, del Parlament Europeu i del Consell, de 19 de desembre de 2024, i va deixar d'estar operativa el 20 de juliol de 2025, per la qual cosa no correspon fer-hi cap remissió.",
+     "Existen hojas de reclamaciones a disposición del consumidor. Hi ha fulls de reclamació a disposició del consumidor."
+    ]
+   }
+  },
+  {
+   "titulo": {
+    "es": "9. Modificación del aviso legal",
+    "va": "9. Modificació de l'avís legal"
+   },
+   "parrafos": {
+    "es": [
+     "El titular se reserva el derecho a modificar, total o parcialmente, el contenido de este aviso legal en cualquier momento, con el fin de adaptarlo a novedades legislativas o jurisprudenciales, a los criterios de las autoridades competentes o a los cambios que se produzcan en el propio sitio web o en la actividad desarrollada.",
+     "Las modificaciones surtirán efecto desde el momento de su publicación en esta misma página, sin necesidad de comunicación individual a los usuarios. Se recomienda al usuario consultar este aviso legal cada vez que acceda al sitio web.",
+     "La fecha de la última actualización figura al inicio de este documento y permite al usuario identificar la versión vigente en cada momento.",
+     "El uso del sitio web con posterioridad a la publicación de una nueva versión implica la aceptación de las condiciones modificadas.",
+     "Este aviso legal se publica en castellano y en valenciano. Ambas versiones tienen idéntico contenido y valor informativo; en caso de discrepancia interpretativa entre ellas, prevalecerá la versión en castellano, sin que ello pueda suponer en ningún caso una reducción de los derechos reconocidos al usuario en la versión en valenciano."
+    ],
+    "va": [
+     "El titular es reserva el dret de modificar, totalment o parcialment, el contingut d'este avís legal en qualsevol moment, per a adaptar-lo a novetats legislatives o jurisprudencials, als criteris de les autoritats competents o als canvis que es produïsquen en el mateix lloc web o en l'activitat desenvolupada.",
+     "Les modificacions tindran efecte des del moment de la seua publicació en esta mateixa pàgina, sense necessitat de comunicació individual als usuaris. Es recomana a l'usuari consultar este avís legal cada vegada que accedisca al lloc web.",
+     "La data de l'última actualització figura a l'inici d'este document i permet a l'usuari identificar la versió vigent en cada moment.",
+     "L'ús del lloc web amb posterioritat a la publicació d'una nova versió implica l'acceptació de les condicions modificades.",
+     "Este avís legal es publica en castellà i en valencià. Les dos versions tenen contingut i valor informatiu idèntics; en cas de discrepància interpretativa entre elles, prevaldrà la versió en castellà, sense que això puga suposar en cap cas una reducció dels drets reconeguts a l'usuari en la versió en valencià."
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,348 @@
+{
+ "titulo": {
+  "es": "Política de cookies",
+  "va": "Política de cookies"
+ },
+ "intro": {
+  "es": [
+   "Te lo digo en la primera línea, para que no tengas que leer más si no quieres: esta web no usa cookies y no te sigue el rastro.",
+   "Una cookie es un archivito que muchas webs dejan dentro de tu navegador para reconocerte cuando vuelves, y a veces para saber por dónde te mueves por internet. Aquí no se deja ninguna.",
+   "Esta web es estática. Eso quiere decir que son páginas hechas y quietas, sin base de datos y sin nada funcionando por detrás.",
+   "Solo se guarda una cosa, y solo si tú la tocas: si cierras el aviso que te propone leer la web en el otro idioma, queda apuntado que ya lo has cerrado, para no volver a enseñártelo cada vez que entras. Se guarda dentro de tu propio navegador, no sale de tu ordenador ni de tu móvil, no llega a ningún servidor mío ni de nadie, y no dice quién eres.",
+   "El idioma en el que lees no se guarda en ningún sitio: la versión en castellano y la versión en valenciano son páginas distintas, y cambias de una a otra pulsando «Castellano» o «Valencià», arriba del todo.",
+   "Si no cierras ese aviso, no se guarda absolutamente nada."
+  ],
+  "va": [
+   "T'ho dic en la primera línia, perquè no hages de llegir més si no vols: esta web no utilitza cookies i no et seguix el rastre.",
+   "Una cookie és un fitxeret que moltes webs deixen dins del teu navegador per a reconéixer-te quan tornes, i a vegades per a saber per on et mous per internet. Ací no se'n deixa cap.",
+   "Esta web és estàtica. Això vol dir que són pàgines fetes i quietes, sense base de dades i sense res funcionant per darrere.",
+   "Només es guarda una cosa, i només si tu la toques: si tanques l'avís que et proposa llegir la web en l'altre idioma, queda apuntat que ja l'has tancat, per a no tornar a ensenyar-te'l cada vegada que entres. Es guarda dins del teu propi navegador, no ix del teu ordinador ni del teu mòbil, no aplega a cap servidor meu ni de ningú, i no diu qui eres.",
+   "L'idioma en què lliges no es guarda enlloc: la versió en castellà i la versió en valencià són pàgines diferents, i canvies d'una a l'altra pitjant «Castellano» o «Valencià», dalt de tot.",
+   "Si no tanques eixe avís, no es guarda absolutament res."
+  ]
+ },
+ "tabla": {
+  "cabeceras": {
+   "es": [
+    "Qué se guarda",
+    "Para qué",
+    "Cuánto dura",
+    "Dónde"
+   ],
+   "va": [
+    "Què es guarda",
+    "Per a què",
+    "Quant dura",
+    "On"
+   ]
+  },
+  "filas": [
+   {
+    "es": [
+     "aviso-idioma",
+     "Recordar que ya has cerrado el aviso que te propone leer la web en el otro idioma, para no volver a enseñártelo cada vez que entras.",
+     "Hasta que tú lo borres. No caduca y no se renueva sola.",
+     "En el almacenamiento local (localStorage) de tu navegador, dentro de tu ordenador o de tu móvil. No se envía a ningún servidor."
+    ],
+    "va": [
+     "aviso-idioma",
+     "Recordar que ja has tancat l'avís que et proposa llegir la web en l'altre idioma, per a no tornar a ensenyar-te'l cada vegada que entres.",
+     "Fins que tu ho esborres. No caduca i no es renova a soles.",
+     "En l'emmagatzematge local (localStorage) del teu navegador, dins del teu ordinador o del teu mòbil. No s'envia a cap servidor."
+    ]
+   }
+  ]
+ },
+ "secciones": [
+  {
+   "titulo": {
+    "es": "Qué es el almacenamiento local y por qué no es una cookie",
+    "va": "Què és l'emmagatzematge local i per què no és una cookie"
+   },
+   "parrafos": {
+    "es": [
+     "El almacenamiento local (en inglés localStorage) es un cajón que tu navegador tiene reservado para cada web. Ahí una página puede dejarse apuntada una nota a sí misma.",
+     "La diferencia con una cookie es importante. Una cookie viaja: se envía al servidor cada vez que tu navegador pide algo. Lo que se guarda en el almacenamiento local no viaja nunca. Se queda quieto en tu aparato y solo lo lee la propia página cuando entras, ya dentro de tu navegador.",
+     "Por eso, en esta web, esa preferencia no me llega. Yo no sé si has cerrado el aviso de idioma ni en qué idioma lees. No tengo forma de saberlo."
+    ],
+    "va": [
+     "L'emmagatzematge local (en anglés localStorage) és un calaix que el teu navegador té reservat per a cada web. Ahí una pàgina pot apuntar-se una nota per a ella mateixa.",
+     "La diferència amb una cookie és important. Una cookie viatja: s'envia al servidor cada vegada que el teu navegador demana alguna cosa. El que es guarda en l'emmagatzematge local no viatja mai. Es queda quiet en el teu aparell i només el llig la mateixa pàgina quan entres, ja dins del teu navegador.",
+     "Per això, en esta web, eixa preferència no m'aplega. Jo no sé si has tancat l'avís d'idioma ni en quin idioma lliges. No tinc manera de saber-ho."
+    ]
+   }
+  },
+  {
+   "titulo": {
+    "es": "Lo que esta web no tiene",
+    "va": "El que esta web no té"
+   },
+   "parrafos": {
+    "es": [
+     "No hay Google Analytics ni ninguna otra herramienta que cuente visitas.",
+     "No hay píxel de Facebook, ni de Instagram, ni de TikTok, ni ningún rastreador de publicidad.",
+     "No hay vídeos de YouTube incrustados, ni mapas de Google incrustados, ni botones de redes sociales.",
+     "No se cargan tipos de letra desde servidores de Google ni de nadie. Las letras que ves salen de esta misma web.",
+     "No hay publicidad, ni perfiles de visitante, ni listas de correo, ni nada que se venda o se comparta con terceros.",
+     "Dicho en corto: cuando abres esta página, tu navegador solo pide cosas al servidor que aloja esta misma web. A ningún otro sitio. Ese servidor, como todos los servidores de internet, anota tu dirección IP en sus registros técnicos, pero yo no accedo a ellos y no hay aquí ninguna herramienta que cuente visitas ni que te siga el rastro."
+    ],
+    "va": [
+     "No hi ha Google Analytics ni cap altra ferramenta que compte visites.",
+     "No hi ha píxel de Facebook, ni d'Instagram, ni de TikTok, ni cap rastrejador de publicitat.",
+     "No hi ha vídeos de YouTube incrustats, ni mapes de Google incrustats, ni botons de xarxes socials.",
+     "No es carreguen tipus de lletra des de servidors de Google ni de ningú. Les lletres que veus ixen d'esta mateixa web.",
+     "No hi ha publicitat, ni perfils de visitant, ni llistes de correu, ni res que es venga o es compartisca amb tercers.",
+     "Resumint: quan obris esta pàgina, el teu navegador només demana coses al servidor que allotja esta mateixa web. A cap altre lloc. Eixe servidor, com tots els servidors d'internet, anota la teua adreça IP en els seus registres tècnics, però jo no hi accedisc i ací no hi ha cap ferramenta que compte visites ni que et seguisca el rastre."
+    ]
+   }
+  },
+  {
+   "titulo": {
+    "es": "Por qué no te sale un cartel de cookies",
+    "va": "Per què no t'ix un cartell de cookies"
+   },
+   "parrafos": {
+    "es": [
+     "La norma que manda aquí es el artículo 22.2 de la Ley 34/2002, la que se conoce como LSSI. Dice que hay que informar y pedir permiso antes de guardar información en el aparato del visitante, salvo en dos casos. Uno de ellos es cuando ese guardado es estrictamente necesario para dar un servicio que el propio visitante ha pedido.",
+     "La Agencia Española de Protección de Datos (AEPD) explica cómo se aplica eso en su Guía sobre el uso de las cookies, actualizada en mayo de 2024. Esa guía vale para las cookies y también para las tecnologías parecidas que guardan datos en el aparato del usuario, que es justo el caso del almacenamiento local.",
+     "En la lista de usos que quedan fuera de la obligación de pedir consentimiento, la guía incluye expresamente la personalización de la interfaz de usuario, es decir, el aspecto con el que tú ves la página, cuando es el propio usuario quien la elige. Aquí el caso es todavía más pequeño: eres tú quien cierra el aviso de idioma, y lo único que se apunta es que ya lo has cerrado, para no molestarte otra vez con lo mismo. Es el propio servicio que has pedido al cerrarlo.",
+     "La guía pone una condición, y aquí se cumple: ese guardado tiene que servir solo para lo que has pedido, y no se puede aprovechar para otra cosa. Esa marca sirve para eso y para nada más. No se usa para publicidad, ni para hacer un perfil tuyo, ni para medir nada.",
+     "La conclusión es esta: esta web no necesita banner de cookies. No porque me lo salte, sino porque no hay nada que consentir. Y el almacenamiento local es todavía menos invasivo que una cookie, porque no se envía a ningún servidor.",
+     "Si lo quieres comprobar por tu cuenta, la guía entera está publicada en la web de la agencia: aepd.es/guias/guia-cookies.pdf"
+    ],
+    "va": [
+     "La norma que mana ací és l'article 22.2 de la Llei 34/2002, la que es coneix com a LSSI. Diu que s'ha d'informar i demanar permís abans de guardar informació en l'aparell del visitant, excepte en dos casos. Un d'ells és quan guardar això és estrictament necessari per a donar un servici que el mateix visitant ha demanat.",
+     "L'Agència Espanyola de Protecció de Dades (AEPD) explica com s'aplica això en la seua Guia sobre l'ús de les cookies, actualitzada en maig de 2024. Eixa guia val per a les cookies i també per a les tecnologies pareixudes que guarden dades en l'aparell de l'usuari, que és justament el cas de l'emmagatzematge local.",
+     "En la llista d'usos que queden fora de l'obligació de demanar consentiment, la guia inclou expressament la personalització de la interfície d'usuari, és a dir, l'aspecte amb què tu veus la pàgina, quan és el mateix usuari qui la tria. Ací el cas encara és més xicotet: eres tu qui tanca l'avís d'idioma, i l'única cosa que s'apunta és que ja l'has tancat, per a no molestar-te una altra vegada amb el mateix. És el mateix servici que has demanat en tancar-lo.",
+     "La guia posa una condició, i ací es complix: el que es guarda ha de servir només per al que has demanat, i no es pot aprofitar per a una altra cosa. Eixa marca servix per a això i per a res més. No es gasta per a publicitat, ni per a fer un perfil teu, ni per a mesurar res.",
+     "La conclusió és esta: esta web no necessita cartell de cookies. No perquè me'l salte, sinó perquè no hi ha res a consentir. I l'emmagatzematge local encara és menys invasiu que una cookie, perquè no s'envia a cap servidor.",
+     "Si ho vols comprovar pel teu compte, la guia sencera està publicada en la web de l'agència: aepd.es/guias/guia-cookies.pdf"
+    ]
+   }
+  },
+  {
+   "titulo": {
+    "es": "Si no hace falta, por qué te lo cuento",
+    "va": "Si no fa falta, per què t'ho conte"
+   },
+   "parrafos": {
+    "es": [
+     "Porque la propia guía de la AEPD recomienda informar igualmente, aunque sea de forma general, de lo que queda fuera del artículo 22.2. Y porque me parece lo lógico: si guardo algo en tu aparato, por poca cosa que sea, tienes derecho a saber qué es, para qué sirve y cómo quitarlo.",
+     "Prefiero una página como esta, que se lee en dos minutos y dice la verdad, que un cartel de aceptar todo que no lee nadie."
+    ],
+    "va": [
+     "Perquè la mateixa guia de l'AEPD recomana informar igualment, encara que siga de manera general, del que queda fora de l'article 22.2. I perquè em pareix el lògic: si guarde alguna cosa en el teu aparell, per poqueta cosa que siga, tens dret a saber què és, per a què servix i com llevar-ho.",
+     "M'estime més una pàgina com esta, que es llig en dos minuts i diu la veritat, que un cartell d'acceptar-ho tot que no llig ningú."
+    ]
+   }
+  },
+  {
+   "titulo": {
+    "es": "Cómo borrar esto",
+    "va": "Com esborrar això"
+   },
+   "parrafos": {
+    "es": [
+     "Hay tres maneras, y las tres son fáciles.",
+     "La primera: no hacer nada. Es una marca minúscula que solo sirve para no repetirte el aviso de idioma.",
+     "La segunda: entra en modo incógnito o navegación privada. Al cerrar esa ventana, el navegador lo borra solo.",
+     "La tercera: borra los datos del sitio desde tu navegador. Aquí abajo tienes los pasos en Chrome, Edge, Firefox y Safari.",
+     "No te preocupes, que no rompes nada. Si lo borras, la web sigue funcionando igual. Lo único que pasará es que el aviso de idioma te volverá a salir una vez.",
+     "Un apunte: los nombres de los menús te los pongo tal y como salen en castellano, que es como lo tiene la mayoría de la gente en el ordenador y en el móvil. Si tú lo tienes en valenciano o en inglés, los sitios son los mismos."
+    ],
+    "va": [
+     "Hi ha tres maneres, i les tres són fàcils.",
+     "La primera: no fer res. És una marca molt xicoteta que només servix per a no repetir-te l'avís d'idioma.",
+     "La segona: entra en mode incògnit o navegació privada. En tancar eixa finestra, el navegador ho esborra a soles.",
+     "La tercera: esborra les dades del lloc des del teu navegador. Ací baix tens els passos en Chrome, Edge, Firefox i Safari.",
+     "No et preocupes, que no trenques res. Si ho esborres, la web continua funcionant igual. L'única cosa que passarà és que l'avís d'idioma et tornarà a eixir una vegada.",
+     "Un apunt: els noms dels menús te'ls pose tal com ixen en castellà, que és com ho té la majoria de la gent en l'ordinador i en el mòbil. Si tu ho tens en valencià o en anglés, els llocs són els mateixos."
+    ]
+   }
+  },
+  {
+   "titulo": {
+    "es": "Borrarlo en Chrome",
+    "va": "Esborrar-ho en Chrome"
+   },
+   "parrafos": {
+    "es": [
+     "La manera rápida, con esta web abierta en pantalla:",
+     "1. Mira la barra de arriba, donde sale la dirección de la página. A la izquierda del todo hay un iconito (un candado o unos controles pequeños). Haz clic ahí.",
+     "2. Pulsa Cookies y datos del sitio.",
+     "3. Pulsa Eliminar datos y confirma.",
+     "La manera larga, desde los ajustes:",
+     "1. Haz clic en los tres puntos de arriba a la derecha.",
+     "2. Entra en Configuración y luego en Privacidad y seguridad.",
+     "3. Pulsa Eliminar datos de navegación.",
+     "4. Marca la casilla Cookies y otros datos de sitios y pulsa Eliminar datos.",
+     "En el móvil es lo mismo: tres puntos, Configuración, Privacidad y seguridad, Eliminar datos de navegación.",
+     "Ojo con la manera larga, que esa borra los datos de todas las webs, no solo de esta. Si solo quieres quitar lo de esta página, usa la manera rápida."
+    ],
+    "va": [
+     "La manera ràpida, amb esta web oberta en pantalla:",
+     "1. Mira la barra de dalt, on ix l'adreça de la pàgina. A l'esquerra del tot hi ha una icona (un cadenat o uns controls xicotets). Fes clic ahí.",
+     "2. Toca Cookies y datos del sitio.",
+     "3. Toca Eliminar datos i confirma.",
+     "La manera llarga, des dels ajustos:",
+     "1. Fes clic en els tres punts de dalt a la dreta.",
+     "2. Entra en Configuración i després en Privacidad y seguridad.",
+     "3. Toca Eliminar datos de navegación.",
+     "4. Marca la casella Cookies y otros datos de sitios i toca Eliminar datos.",
+     "En el mòbil és el mateix: tres punts, Configuración, Privacidad y seguridad, Eliminar datos de navegación.",
+     "Compte amb la manera llarga, que eixa esborra les dades de totes les webs, no només d'esta. Si només vols llevar el d'esta pàgina, gasta la manera ràpida."
+    ]
+   }
+  },
+  {
+   "titulo": {
+    "es": "Borrarlo en Edge",
+    "va": "Esborrar-ho en Edge"
+   },
+   "parrafos": {
+    "es": [
+     "1. Haz clic en los tres puntos de arriba a la derecha.",
+     "2. Entra en Configuración.",
+     "3. Entra en Privacidad, búsqueda y servicios.",
+     "4. Busca Eliminar datos de exploración y pulsa Elegir lo que se debe borrar.",
+     "5. Marca Cookies y otros datos del sitio y pulsa Borrar ahora.",
+     "Si solo quieres quitar lo de esta web, con la página abierta haz clic en el iconito que hay a la izquierda de la dirección y busca la opción de eliminar los datos del sitio."
+    ],
+    "va": [
+     "1. Fes clic en els tres punts de dalt a la dreta.",
+     "2. Entra en Configuración.",
+     "3. Entra en Privacidad, búsqueda y servicios.",
+     "4. Busca Eliminar datos de exploración i toca Elegir lo que se debe borrar.",
+     "5. Marca Cookies y otros datos del sitio i toca Borrar ahora.",
+     "Si només vols llevar el d'esta web, amb la pàgina oberta fes clic en la icona que hi ha a l'esquerra de l'adreça i busca l'opció d'eliminar les dades del lloc."
+    ]
+   }
+  },
+  {
+   "titulo": {
+    "es": "Borrarlo en Firefox",
+    "va": "Esborrar-ho en Firefox"
+   },
+   "parrafos": {
+    "es": [
+     "1. Haz clic en las tres rayas de arriba a la derecha.",
+     "2. Entra en Ajustes.",
+     "3. Entra en Privacidad y seguridad.",
+     "4. Baja hasta Cookies y datos del sitio y pulsa Limpiar datos.",
+     "5. Marca Cookies y datos del sitio y pulsa Limpiar.",
+     "Si prefieres quitar solo esta web, en esa misma pantalla pulsa Administrar datos, busca la dirección de esta página, selecciónala y pulsa Eliminar seleccionados."
+    ],
+    "va": [
+     "1. Fes clic en les tres ratlles de dalt a la dreta.",
+     "2. Entra en Ajustes.",
+     "3. Entra en Privacidad y seguridad.",
+     "4. Baixa fins a Cookies y datos del sitio i toca Limpiar datos.",
+     "5. Marca Cookies y datos del sitio i toca Limpiar.",
+     "Si t'estimes més llevar només esta web, en eixa mateixa pantalla toca Administrar datos, busca l'adreça d'esta pàgina, selecciona-la i toca Eliminar seleccionados."
+    ]
+   }
+  },
+  {
+   "titulo": {
+    "es": "Borrarlo en Safari",
+    "va": "Esborrar-ho en Safari"
+   },
+   "parrafos": {
+    "es": [
+     "En un Mac:",
+     "1. Abre Safari y, en el menú de arriba, pulsa Safari y luego Ajustes (en versiones antiguas pone Preferencias).",
+     "2. Entra en la pestaña Privacidad.",
+     "3. Pulsa Gestionar datos de sitios web.",
+     "4. Busca la dirección de esta página, selecciónala y pulsa Eliminar.",
+     "En un iPhone o un iPad:",
+     "1. Abre los Ajustes del teléfono (el icono de la rueda dentada), no Safari.",
+     "2. Baja por la lista hasta Safari y entra. En los iPhone más nuevos, Safari está dentro de Apps.",
+     "3. Pulsa Borrar historial y datos de sitios web y confirma.",
+     "Ese último paso borra los datos de todas las webs, no solo de esta."
+    ],
+    "va": [
+     "En un Mac:",
+     "1. Obri Safari i, en el menú de dalt, toca Safari i després Ajustes (en versions antigues posa Preferencias).",
+     "2. Entra en la pestanya Privacidad.",
+     "3. Toca Gestionar datos de sitios web.",
+     "4. Busca l'adreça d'esta pàgina, selecciona-la i toca Eliminar.",
+     "En un iPhone o un iPad:",
+     "1. Obri els Ajustes del telèfon (la icona de la roda dentada), no Safari.",
+     "2. Baixa per la llista fins a Safari i entra. En els iPhone més nous, Safari està dins d'Apps.",
+     "3. Toca Borrar historial y datos de sitios web i confirma.",
+     "Eixe últim pas esborra les dades de totes les webs, no només d'esta."
+    ]
+   }
+  },
+  {
+   "titulo": {
+    "es": "Si algún día pongo alguna herramienta para contar visitas",
+    "va": "Si algun dia fique alguna ferramenta per a comptar visites"
+   },
+   "parrafos": {
+    "es": [
+     "Hoy no hay ninguna. Pero si algún día pusiera uno de esos contadores, o añadiera un vídeo, un mapa o cualquier cosa de un tercero que sí deje cookies, harían falta tres cosas, y las tres estarían antes de activar nada:",
+     "1. Un aviso al entrar, con el botón de rechazar tan fácil y tan a la vista como el de aceptar. Sin casillas marcadas de antemano y sin trucos para cansarte hasta que aceptes.",
+     "2. Nada instalado hasta que tú digas que sí. Si no aceptas, no se activa y la web funciona igual.",
+     "3. Esta misma página actualizada, con el detalle de qué se guarda, quién lo guarda, cuánto dura y cómo cambiar de opinión cuando quieras.",
+     "Mientras esta página diga lo que dice hoy, es que no hay nada de eso."
+    ],
+    "va": [
+     "Hui no n'hi ha cap. Però si algun dia ficara un d'eixos comptadors, o afegira un vídeo, un mapa o qualsevol cosa d'un tercer que sí que deixe cookies, farien falta tres coses, i les tres estarien abans d'activar res:",
+     "1. Un avís en entrar, amb el botó de rebutjar tan fàcil i tan a la vista com el d'acceptar. Sense caselles marcades per endavant i sense trucs per a cansar-te fins que acceptes.",
+     "2. Res instal·lat fins que tu digues que sí. Si no acceptes, no s'activa i la web funciona igual.",
+     "3. Esta mateixa pàgina actualitzada, amb el detall de què es guarda, qui ho guarda, quant dura i com canviar d'opinió quan vullgues.",
+     "Mentres esta pàgina diga el que diu hui, és que no hi ha res d'això."
+    ]
+   }
+  },
+  {
+   "titulo": {
+    "es": "Y tus datos personales",
+    "va": "I les teues dades personals"
+   },
+   "parrafos": {
+    "es": [
+     "Navegar por esta web no me deja a mí ningún dato tuyo. El servidor que aloja las páginas sí registra tu dirección IP en sus propios registros técnicos, como hace cualquier servidor, pero yo no los consulto ni los recibo. Te lo cuento con detalle en la política de privacidad.",
+     "Aquí no hay registro de usuarios, no hay contador de visitas y no hay nada que se envíe a un servidor mío. El formulario de contacto tampoco: lo que escribes en él se queda en tu navegador y solo sirve para dejarte preparado un mensaje de WhatsApp o un correo que envías tú, si quieres.",
+     "Otra cosa es que me llames por teléfono, me escribas un WhatsApp o me mandes un correo. Ahí sí me das datos tuyos (tu nombre, tu teléfono, lo que me cuentes), y los uso solo para atenderte. De eso te informo en la política de privacidad, incluidas las empresas que hay por medio cuando hablamos por WhatsApp o por correo."
+    ],
+    "va": [
+     "Navegar per esta web no em deixa a mi cap dada teua. El servidor que allotja les pàgines sí que registra la teua adreça IP en els seus propis registres tècnics, com fa qualsevol servidor, però jo no els consulte ni els rep. T'ho conte amb detall en la política de privacitat.",
+     "Ací no hi ha registre d'usuaris, no hi ha comptador de visites i no hi ha res que s'envie a cap servidor meu. El formulari de contacte tampoc: el que hi escrius es queda en el teu navegador i només servix per a deixar-te preparat un missatge de WhatsApp o un correu que envies tu, si vols.",
+     "Una altra cosa és que em crides, m'escrigues un WhatsApp o m'envies un correu. Ahí sí que em dones dades teues (el teu nom, el teu telèfon, el que em contes), i les use només per a atendre't. D'això t'informe en la política de privacitat, incloses les empreses que hi ha pel mig quan parlem per WhatsApp o per correu."
+    ]
+   }
+  },
+  {
+   "titulo": {
+    "es": "Quién responde de esta web",
+    "va": "Qui respon d'esta web"
+   },
+   "parrafos": {
+    "es": [
+     "Néstor Soriano López. Servicio informático a domicilio en La Font de la Figuera. A los pueblos de alrededor también voy, avisando con antelación.",
+     "Si tienes cualquier duda sobre lo que pone aquí, o prefieres que te lo explique por teléfono, llámame al 644 21 91 18 o escríbeme a nestorlafont@gmail.com. Te lo explico con calma y sin palabras raras."
+    ],
+    "va": [
+     "Néstor Soriano López. Servici informàtic a domicili a la Font de la Figuera. Als pobles del voltant també hi vaig, avisant amb antelació.",
+     "Si tens qualsevol dubte sobre el que posa ací, o t'estimes més que t'ho explique per telèfon, crida'm al 644 21 91 18 o escriu-me a nestorlafont@gmail.com. T'ho explique amb calma i sense paraules rares."
+    ]
+   }
+  },
+  {
+   "titulo": {
+    "es": "Última actualización",
+    "va": "Última actualització"
+   },
+   "parrafos": {
+    "es": [
+     "15 de septiembre de 2026. Si cambia algo de lo que pone aquí, cambio también esta fecha."
+    ],
+    "va": [
+     "15 de setembre de 2026. Si canvia alguna cosa del que posa ací, canvie també esta data."
+    ]
+   }
+  }
+ ]
+}

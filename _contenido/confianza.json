@@ -1,0 +1,382 @@
+{
+ "como_funciona": {
+  "titulo": {
+   "es": "Cómo funciona",
+   "va": "Com funciona"
+  },
+  "pasos": [
+   {
+    "titulo": {
+     "es": "Me llamas y me cuentas",
+     "va": "Em crides i m'ho contes"
+    },
+    "desc": {
+     "es": "Me llamas por teléfono y me explicas lo que pasa como sepas, sin nombres técnicos. Con que me digas qué ves en la pantalla o qué ha dejado de ir, ya me hago una idea. Llamar y preguntar es gratis. Y si te da apuro llamar tú, que me llame tu hijo, tu hija o un nieto y me lo cuente.",
+     "va": "Em crides i em contes el que passa com sàpies, sense noms tècnics. Si em dius què veus en la pantalla o què ha deixat d'anar, ja em faig una idea. Cridar i preguntar és gratis. I si et fa cosa cridar tu, que em cride el teu fill, la teua filla o un net i m'ho conte."
+    }
+   },
+   {
+    "titulo": {
+     "es": "Quedamos día y hora",
+     "va": "Quedem dia i hora"
+    },
+    "desc": {
+     "es": "Buscamos un rato que te vaya bien, por la mañana o por la tarde, y voy yo a tu casa con lo que haga falta. Antes de salir te llamo desde el 644 21 91 18 y te digo a qué hora llego. Voy solo y, si quieres ver el DNI, te lo enseño en la puerta.",
+     "va": "Busquem una estona que et vaja bé, de matí o de vesprada, i vaig jo a casa teua amb el que faça falta. Abans d'eixir et cride des del 644 21 91 18 i et dic a quina hora aplegue. Vaig jo a soles i, si vols vore el DNI, te l'ensenye a la porta."
+    }
+   },
+   {
+    "titulo": {
+     "es": "Te digo el precio",
+     "va": "Et dic el preu"
+    },
+    "desc": {
+     "es": "Miro el problema delante de ti, te digo qué tiene y cuánto cuesta, y tú decides si seguimos o no.",
+     "va": "Mire el problema davant de tu, et dic què té i quant costa, i tu decidixes si seguim o no."
+    }
+   },
+   {
+    "titulo": {
+     "es": "Lo arreglo y te explico",
+     "va": "Ho arregle i t'ho explique"
+    },
+    "desc": {
+     "es": "Lo dejo funcionando y te cuento con palabras normales qué le pasaba, y si quieres te lo apunto en un papel para que no se te olvide. Lo normal es que esté en tu casa entre una hora y hora y media; si va a ser más largo, te lo digo antes de empezar.",
+     "va": "Ho deixe funcionant i et conte amb paraules normals què li passava, i si vols t'ho apunte en un paper perquè no se t'oblide. El normal és que estiga a casa teua entre una hora i hora i mitja; si ha de durar més, t'ho dic abans de començar."
+    }
+   }
+  ]
+ },
+ "compromisos": {
+  "titulo": {
+   "es": "Mis compromisos contigo",
+   "va": "Els meus compromisos amb tu"
+  },
+  "items": [
+   {
+    "titulo": {
+     "es": "Preguntar es gratis",
+     "va": "Preguntar és gratis"
+    },
+    "desc": {
+     "es": "Llamar y preguntar no te cuesta nada. Te digo por teléfono qué creo que pasa y si hace falta que vaya. Aunque al final no me necesites, por eso no te cobro.",
+     "va": "Cridar i preguntar no et costa res. Et dic per telèfon què crec que passa i si fa falta que vaja. I si al final no em necessites, per això no et cobre res."
+    }
+   },
+   {
+    "titulo": {
+     "es": "El precio, antes de empezar",
+     "va": "El preu, abans de començar"
+    },
+    "desc": {
+     "es": "Te digo lo que cuesta antes de tocar nada. Si por el camino aparece otra cosa, paro y te lo cuento antes de seguir.",
+     "va": "Et dic el que costa abans de tocar res. Si pel camí ix una altra cosa, pare i t'ho conte abans de seguir."
+    }
+   },
+   {
+    "titulo": {
+     "es": "Papeles claros y tu derecho a echarte atrás",
+     "va": "Papers clars i el teu dret a fer-te arrere"
+    },
+    "desc": {
+     "es": "Te doy el presupuesto por escrito antes de empezar y te dejo una copia firmada. Ahí viene también el plazo de catorce días que la ley te da para echarte atrás, y te lo explico antes de tocar nada.",
+     "va": "Et done el pressupost per escrit abans de començar i et deixe una còpia firmada. Ahí ve també el termini de catorze dies que la llei et dona per a fer-te arrere, i t'ho explique abans de tocar res."
+    }
+   },
+   {
+    "titulo": {
+     "es": "Tres meses de garantía",
+     "va": "Tres mesos de garantia"
+    },
+    "desc": {
+     "es": "La reparación te la garantizo tres meses, que es lo que marca la ley. Si vuelve a fallar lo mismo dentro de ese plazo, vuelvo y no te cuesta nada.",
+     "va": "El que t'arregle t'ho garantisc tres mesos, que és el que marca la llei. Si torna a fallar el mateix dins d'eixe temps, torne i no et costa res."
+    }
+   },
+   {
+    "titulo": {
+     "es": "Voy yo a tu casa",
+     "va": "Vaig jo a casa teua"
+    },
+    "desc": {
+     "es": "No tienes que cargar con el ordenador ni ir a ningún sitio. Voy yo, con las herramientas y con tiempo.",
+     "va": "No has de carregar amb l'ordinador ni anar a cap lloc. Vaig jo, amb les ferramentes i amb temps."
+    }
+   },
+   {
+    "titulo": {
+     "es": "Puedes quedarte a mi lado",
+     "va": "Pots quedar-te al meu costat"
+    },
+    "desc": {
+     "es": "Puedes quedarte mirando todo el rato, y me gusta que lo hagas: te voy contando lo que toco. No me molestas y no tienes que ofrecerme nada ni recoger la casa antes de que llegue.",
+     "va": "Pots quedar-te mirant tota l'estona, i m'agrada que ho faces: et vaig contant el que toque. No em molestes, i no cal que m'oferisques res ni que arreplegues la casa abans que aplegue."
+    }
+   },
+   {
+    "titulo": {
+     "es": "Si no tiene arreglo, te lo digo",
+     "va": "Si no té arreglo, t'ho dic"
+    },
+    "desc": {
+     "es": "Cuando un aparato no merece la pena arreglarlo, te lo digo claro y no te cobro un arreglo que no he hecho.",
+     "va": "Quan un aparell no val la pena arreglar-lo, t'ho dic clar i no et cobre un arreglo que no he fet."
+    }
+   },
+   {
+    "titulo": {
+     "es": "Te lo explico con palabras normales",
+     "va": "T'ho explique amb paraules normals"
+    },
+    "desc": {
+     "es": "Te cuento qué le pasaba y qué he hecho sin palabras raras, y si quieres te lo dejo apuntado en un papel, paso a paso.",
+     "va": "Et conte què li passava i què he fet sense paraules rares, i si vols t'ho deixe apuntat en un paper, pas a pas."
+    }
+   },
+   {
+    "titulo": {
+     "es": "Tus cosas son tuyas",
+     "va": "Les teues coses són teues"
+    },
+    "desc": {
+     "es": "No miro tus fotos ni tus documentos más de lo necesario para arreglar el problema, y lo que vea se queda ahí.",
+     "va": "No mire les teues fotos ni els teus documents més del necessari per a arreglar el problema, i el que veja es queda ahí."
+    }
+   },
+   {
+    "titulo": {
+     "es": "Sin prisas",
+     "va": "Sense presses"
+    },
+    "desc": {
+     "es": "No me voy corriendo. Si hay que repetirte una cosa tres veces, se repite las veces que haga falta.",
+     "va": "No me'n vaig corrents. Si t'ho he de repetir tres voltes, t'ho repetisc les voltes que faça falta."
+    }
+   },
+   {
+    "titulo": {
+     "es": "Puedes llamarme después",
+     "va": "Pots cridar-me després"
+    },
+    "desc": {
+     "es": "Si al día siguiente se te ha olvidado algo de lo que te expliqué, me llamas. Una duda pequeña por teléfono no te la cobro.",
+     "va": "Si l'endemà se t'ha oblidat alguna cosa del que et vaig explicar, em crides. Un dubte xicotet per telèfon no te'l cobre."
+    }
+   }
+  ]
+ },
+ "estafas": {
+  "titulo": {
+   "es": "Aviso importante: cuidado con las estafas",
+   "va": "Avís important: alerta amb les estafes"
+  },
+  "intro": {
+   "es": [
+    "Hay gente que llama por teléfono diciendo que es de Microsoft, de la compañía de la luz, del banco o del servicio técnico. Hablan rápido, te dicen que tienes un virus o un problema urgente y que hay que arreglarlo ahora mismo. Es mentira, y le pasa a mucha gente.",
+    "Nunca des por teléfono las claves del banco, ni los códigos que llegan por SMS, ni el número entero de la tarjeta. Y no instales ningún programa que te pidan por teléfono para ver tu pantalla desde fuera (lo que se llama control remoto), por muy bien que hablen y por muy oficial que suene.",
+    "Yo tampoco te lo voy a pedir nunca. Néstor no te pedirá por teléfono las claves del banco, ni códigos que te llegan al móvil, ni que instales nada sin estar yo delante o sin haberlo hablado antes contigo. Si alguien te llama diciendo que va de mi parte y te pide eso, no soy yo."
+   ],
+   "va": [
+    "Hi ha gent que et crida per telèfon dient que és de Microsoft, de la companyia de la llum, del banc o del servici tècnic. Parlen molt ràpid, et diuen que tens un virus o un problema urgent i que cal arreglar-ho ara mateix. És mentida, i li passa a molta gent.",
+    "No dones mai per telèfon les claus del banc, ni els codis que t'arriben per SMS, ni el número de la targeta sencer. I no fiques cap programa que et demanen per telèfon per a vore la teua pantalla des de fora (el que diuen control remot), per molt bé que parlen i per molt oficial que parega.",
+    "Jo tampoc t'ho demanaré mai. Néstor no et demanarà per telèfon les claus del banc, ni codis que t'arriben al mòbil, ni que fiques res sense estar jo davant o sense haver-ho parlat abans amb tu. Si algú et crida dient que va de part meua i et demana això, no soc jo."
+   ]
+  },
+  "senales": {
+   "titulo": {
+    "es": "Si te pasa esto, cuelga y llámame",
+    "va": "Si et passa això, penja i crida'm"
+   },
+   "items": {
+    "es": [
+     "Te llaman de repente y te dicen que tu ordenador tiene un virus o que está enviando cosas raras.",
+     "Te meten prisa: que si no lo haces ahora mismo pierdes el dinero, la línea o la luz.",
+     "Te piden claves, el PIN de la tarjeta o un código que te acaba de llegar por SMS.",
+     "Te piden que instales un programa para poder ver o manejar tu pantalla desde fuera.",
+     "Te dicen que tu cuenta tiene un problema y que muevas el dinero a otra cuenta 'segura'.",
+     "Te llega un mensaje o un correo con un enlace (esa palabra azul o subrayada que se toca para ir a otra página) y al tocarlo te pide tus datos o tu contraseña."
+    ],
+    "va": [
+     "Et criden de colp i et diuen que el teu ordinador té un virus o que està enviant coses rares.",
+     "Et fan córrer: que si no ho fas ara mateix perds els diners, la línia o la llum.",
+     "Et demanen claus, el PIN de la targeta o un codi que t'acaba d'arribar per SMS.",
+     "Et demanen que fiques un programa per a poder vore o manejar la teua pantalla des de fora.",
+     "Et diuen que el teu compte té un problema i que passes els diners a un altre compte 'segur'.",
+     "T'arriba un missatge o un correu amb un enllaç (eixa paraula blava o subratllada que es toca per a anar a una altra pàgina) i quan el toques et demana les teues dades o la teua contrasenya."
+    ]
+   }
+  },
+  "cierre": {
+   "es": "No pasa nada por colgar. Cuelga, respira y llámame, aunque sea para preguntar. Prefiero mirarlo diez veces para nada que enterarme tarde de que te han liado.",
+   "va": "No passa res per penjar. Penja, respira i crida'm, encara que siga per a preguntar. M'estime més mirar-ho deu voltes per a res que saber-ho tard, quan ja te l'han feta."
+  }
+ },
+ "faq": {
+  "titulo": {
+   "es": "Preguntas frecuentes",
+   "va": "Preguntes freqüents"
+  },
+  "items": [
+   {
+    "p": {
+     "es": "¿Tengo que llevar el ordenador a algún sitio?",
+     "va": "He de portar l'ordinador a algun lloc?"
+    },
+    "r": {
+     "es": "No. Voy yo a tu casa con las herramientas y lo miro allí mismo. Solo si hay que abrirlo o cambiar una pieza y no se puede hacer en tu casa te lo diría, y siempre lo hablamos antes.",
+     "va": "No. Vaig jo a casa teua amb les ferramentes i ho mire allí mateix. Només t'ho diria si cal obrir-lo o canviar una peça i no es pot fer a casa teua, i sempre ho parlem abans."
+    }
+   },
+   {
+    "p": {
+     "es": "¿Cuánto cuesta y cómo se paga?",
+     "va": "Quant costa i com es paga?"
+    },
+    "r": {
+     "es": "Llamar y preguntar es gratis. Si hace falta que vaya, la primera hora en tu casa son 35 €, con el IVA y el viaje dentro, y ahí va mirarlo y dejártelo arreglado si se puede en ese rato. El precio te lo digo por teléfono antes de ir y ese es el que pagas. No pido nada por adelantado: se paga cuando el trabajo está hecho, en efectivo, por Bizum o por transferencia. En efectivo tranquilamente, que no hace falta que sepas hacer Bizum.",
+     "va": "Cridar i preguntar és gratis. Si fa falta que vaja, la primera hora a casa teua són 35 €, amb l'IVA i el viatge dins, i ahí entra mirar-ho i deixar-t'ho arreglat si es pot en eixa estona. El preu te'l dic per telèfon abans d'anar i eixe és el que pagues. No demane res per avançat: es paga quan la faena està feta, en efectiu, per Bizum o per transferència. En efectiu, tranquil, que no cal que sàpies fer Bizum."
+    }
+   },
+   {
+    "p": {
+     "es": "¿Haces factura?",
+     "va": "Fas factura?"
+    },
+    "r": {
+     "es": "Sí, siempre, la pidas o no. A todo el mundo le doy al menos una factura simplificada con mis datos. Si necesitas la factura completa con tu nombre y tu NIF, dímelo y te la hago. A los negocios, autónomos y agricultores se la hago completa siempre.",
+     "va": "Sí, sempre, la demanes o no. A tot el món li done almenys una factura simplificada amb les meues dades. Si necessites la factura completa amb el teu nom i el teu NIF, digues-m'ho i te la faig. Als negocis, autònoms i llauradors els la faig completa sempre."
+    }
+   },
+   {
+    "p": {
+     "es": "¿En cuánto tiempo puedes venir?",
+     "va": "Quant tardes a vindre?"
+    },
+    "r": {
+     "es": "Normalmente entre uno y tres días. Si es urgente (te has quedado sin internet, o no puedes imprimir un papel que tienes que entregar mañana), dímelo al llamar y miro de ir el mismo día o al día siguiente. Lo normal es que esté en tu casa entre una hora y hora y media. Trabajo solo, así que siempre te diré la verdad sobre cuándo puedo.",
+     "va": "Normalment entre un i tres dies. Si és urgent (t'has quedat sense internet, o no pots imprimir un paper que has d'entregar demà), digues-m'ho quan em crides i mire d'anar el mateix dia o l'endemà. El normal és que estiga a casa teua entre una hora i hora i mitja. Treballe a soles, així que sempre et diré la veritat de quan puc."
+    }
+   },
+   {
+    "p": {
+     "es": "¿Qué horario tienes y qué pasa si no me lo coges?",
+     "va": "Quin horari tens i què passa si no m'ho agafes?"
+    },
+    "r": {
+     "es": "De lunes a viernes, de 9 a 14 y de 16 a 20. Los sábados por la mañana, de 10 a 13. Si no te lo cojo es que estoy trabajando en otra casa: llámame otra vez o mándame un WhatsApp y te vuelvo a llamar el mismo día. No me molestas.",
+     "va": "De dilluns a divendres, de 9 a 14 i de 16 a 20. Els dissabtes de matí, de 10 a 13. Si no t'ho agafe és que estic fent faena en una altra casa: torna a cridar-me o envia'm un WhatsApp i et torne a cridar el mateix dia. No em molestes."
+    }
+   },
+   {
+    "p": {
+     "es": "¿Puede llamarte mi hijo o mi nieto por mí?",
+     "va": "Em pot cridar el meu fill o el meu net per mi?"
+    },
+    "r": {
+     "es": "Sí, y pasa muchas veces. Si te da apuro llamar tú, que me llame tu hijo, tu hija o un nieto y me lo cuente, aunque vivan fuera del pueblo. Yo quedo con quien haga falta, voy a tu casa igual y después le cuento por WhatsApp qué he hecho y qué te he dejado apuntado. Y si lo prefieren, me lo pagan ellos por Bizum desde donde estén.",
+     "va": "Sí, i passa moltes voltes. Si et fa cosa cridar tu, que em cride el teu fill, la teua filla o un net i m'ho conte, encara que visquen fora del poble. Jo quede amb qui faça falta, vaig a casa teua igual i després li conte per WhatsApp què he fet i què t'he deixat apuntat. I si ho volen, m'ho paguen ells per Bizum des d'on estiguen."
+    }
+   },
+   {
+    "p": {
+     "es": "¿Vas a los pueblos de alrededor? ¿Hay que avisar con antelación?",
+     "va": "Vas als pobles del voltant? Cal avisar amb temps?"
+    },
+    "r": {
+     "es": "Sí voy, pero avisando. Vivo y trabajo en La Font de la Figuera, así que aquí en el pueblo puedo ir el mismo día o al siguiente. A Moixent, Vallada, Montesa, Canals, L'Alcúdia de Crespins, Xàtiva, Fontanars dels Alforins, Enguera, Ontinyent y la comarca en general también voy, pero hay que avisar con unos días para cuadrarlo con el resto de visitas de ese día. Por el viaje no te cobro nada. Solo en los que caen más lejos (Almansa, Villena, Caudete, Bocairent, Banyeres de Mariola y Beneixama) son 15 € más, y te lo digo por teléfono antes de salir.",
+     "va": "Sí que hi vaig, però avisant. Visc i treballe a la Font de la Figuera, així que ací al poble puc anar el mateix dia o l'endemà. A Moixent, Vallada, Montesa, Canals, l'Alcúdia de Crespins, Xàtiva, Fontanars dels Alforins, Enguera, Ontinyent i la comarca en general també hi vaig, però cal avisar uns dies abans per a quadrar-ho amb les altres visites d'eixe dia. Pel viatge no et cobre res. Només als que queden més lluny (Almansa, Villena, Caudete, Bocairent, Banyeres de Mariola i Beneixama) són 15 € més, i t'ho dic per telèfon abans d'eixir."
+    }
+   },
+   {
+    "p": {
+     "es": "¿Vas a mirar mis fotos y mis cosas?",
+     "va": "Miraràs les meues fotos i les meues coses?"
+    },
+    "r": {
+     "es": "No. Miro lo justo para arreglar lo que me has pedido y nada más. Si para recuperar fotos o documentos hay que abrir carpetas, te lo digo antes y lo hacemos contigo delante.",
+     "va": "No. Mire el just per a arreglar el que m'has demanat i res més. Si per a recuperar fotos o documents cal obrir carpetes, t'ho dic abans i ho fem amb tu davant."
+    }
+   },
+   {
+    "p": {
+     "es": "¿Y si al final no tiene arreglo?",
+     "va": "I si al final no té arreglo?"
+    },
+    "r": {
+     "es": "Te lo digo claro y sin darle vueltas, y no te cobro un arreglo que no he hecho. Además te explico qué opciones tienes y, si te interesa, te oriento sobre qué comprar y en qué no hace falta gastar.",
+     "va": "T'ho dic clar i sense donar-li voltes, i no et cobre un arreglo que no he fet. A més t'explique quines opcions tens i, si t'interessa, t'aconselle què comprar i en què no cal gastar-te els diners."
+    }
+   },
+   {
+    "p": {
+     "es": "¿Y si a los dos días vuelve a fallar lo mismo?",
+     "va": "I si al cap de dos dies torna a fallar el mateix?"
+    },
+    "r": {
+     "es": "Vuelvo y no te lo cobro. Si lo que te he arreglado vuelve a fallar en los tres meses siguientes, me llamas y voy otra vez sin cobrarte nada. Si al llegar veo que lo que falla es otra cosa distinta, te lo digo claro antes de tocar nada.",
+     "va": "Torne i no t'ho cobre. Si el que t'he arreglat torna a fallar en els tres mesos següents, em crides i hi torne sense cobrar-te res. Si quan aplegue veig que el que falla és una altra cosa distinta, t'ho dic clar abans de tocar res."
+    }
+   },
+   {
+    "p": {
+     "es": "¿Puedes venir un sábado o por la tarde?",
+     "va": "Pots vindre un dissabte o per la vesprada?"
+    },
+    "r": {
+     "es": "Muchas veces sí. Voy bastante por las tardes y algún sábado por la mañana también. Dímelo cuando me llames y buscamos el rato que te vaya bien.",
+     "va": "Moltes voltes sí. Vaig prou de vesprada i algun dissabte de matí també. Digues-m'ho quan em crides i busquem l'estona que et vaja bé."
+    }
+   },
+   {
+    "p": {
+     "es": "¿Me enseñas a hacerlo yo para no llamarte cada vez?",
+     "va": "M'ensenyes a fer-ho jo per a no haver de cridar-te cada volta?"
+    },
+    "r": {
+     "es": "Claro que sí, y me parece lo mejor. Te lo explico despacio, las veces que haga falta, y si quieres te lo dejo apuntado paso a paso en un papel. Lo que quiero es que la próxima vez lo hagas tú.",
+     "va": "Clar que sí, i em pareix el millor. T'ho explique a poc a poc, les voltes que faça falta, i si vols t'ho deixe apuntat pas a pas en un paper. El que vull és que la pròxima volta ho faces tu."
+    }
+   },
+   {
+    "p": {
+     "es": "¿Arreglas móviles y tabletas o solo ordenadores?",
+     "va": "Arregles mòbils i tauletes o només ordinadors?"
+    },
+    "r": {
+     "es": "También móviles y tabletas: correo, wifi, aplicaciones, copias de seguridad, pasar las fotos al ordenador y dejarlos ordenados. Si te han robado el WhatsApp o no te acuerdas de la contraseña, intento recuperarlo por los pasos oficiales, y si no se puede, no te lo cobro. Lo que no hago es cambiar pantallas ni baterías; para eso te digo dónde llevarlo.",
+     "va": "També mòbils i tauletes: correu, wifi, aplicacions, còpies de seguretat, passar les fotos a l'ordinador i deixar-los ordenats. Si t'han robat el WhatsApp o no te'n recordes de la contrasenya, intente recuperar-ho pels passos oficials, i si no es pot, no t'ho cobre. El que no faig és canviar pantalles ni bateries; per a això et dic on portar-ho."
+    }
+   },
+   {
+    "p": {
+     "es": "¿Me haces los trámites por internet?",
+     "va": "Em fas els tràmits per internet?"
+    },
+    "r": {
+     "es": "No. Los trámites no los hago yo: eso lo haces tú, o tu gestoría, tu cooperativa o la oficina que toque. Lo que sí hago es dejarte el ordenador y el móvil funcionando para que los hagas tú. Las claves las escribes tú y no me las quedo.",
+     "va": "No. Els tràmits no te'ls faig jo: això ho fas tu, o la teua gestoria, la cooperativa o l'oficina que toque. El que sí que faig és deixar-te l'ordinador i el mòbil funcionant perquè els faces tu. Les claus les escrius tu i jo no me les guarde."
+    }
+   },
+   {
+    "p": {
+     "es": "¿También haces cosas para negocios?",
+     "va": "També fas coses per a negocis?"
+    },
+    "r": {
+     "es": "Sí. Para un bar, una tienda, un taller o una cooperativa: mantener los ordenadores y las copias de seguridad, la red y el wifi del local, la página web y la ficha de Google, el correo con el nombre del negocio, instalar el programa de facturas que elijas con tu gestor y automatizar tareas repetitivas, es decir, que el ordenador haga solo lo que ahora haces a mano. La contabilidad, los impuestos y los papeles con la administración no los llevo yo: eso es de tu gestoría o de tu cooperativa.",
+     "va": "Sí. Per a un bar, una botiga, un taller o una cooperativa: mantindre els ordinadors i les còpies de seguretat, la xarxa i el wifi del local, la pàgina web i la fitxa de Google, el correu amb el nom del negoci, ficar el programa de factures que tries amb el teu gestor i automatitzar faenes que es repetixen, és a dir, que l'ordinador faça a soles el que ara fas a mà. La comptabilitat, els impostos i els papers amb l'administració no els porte jo: això és cosa de la teua gestoria o de la teua cooperativa."
+    }
+   },
+   {
+    "p": {
+     "es": "¿Puedes ayudarme sin venir a casa?",
+     "va": "Pots ajudar-me sense vindre a casa?"
+    },
+    "r": {
+     "es": "Para cosas sencillas sí: lo vemos por teléfono, o me conecto a tu pantalla contigo delante, siempre después de haberlo hablado tú y yo. Si el problema es del aparato, del wifi o de los cables, hay que ir a verlo. Y recuerda: no instales nunca nada de control remoto porque te lo pida alguien que te ha llamado de golpe.",
+     "va": "Per a coses senzilles sí: ho veem per telèfon, o em connecte a la teua pantalla amb tu davant, sempre després d'haver-ho parlat tu i jo. Si el problema és de l'aparell, del wifi o dels cables, cal anar a vore-ho. I recorda: no fiques mai cap programa de control remot perquè t'ho demane algú que t'ha cridat de colp."
+    }
+   }
+  ]
+ }
+}

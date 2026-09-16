@@ -1,0 +1,144 @@
+{
+ "nombre": {
+  "recomendado": {
+   "es": "Néstor el Informático",
+   "va": "Néstor l'Informàtic"
+  },
+  "alternativas": [
+   {
+    "nombre": "Néstor, el informático del pueblo / Néstor, l'informàtic del poble",
+    "por_que": "Es como te van a nombrar en el bar de todas formas, así que el boca a boca ya trabaja a favor. El punto flojo es que suena atado a La Font y un negocio de Xàtiva o Almansa puede verlo pequeño."
+   },
+   {
+    "nombre": "Néstor Soriano, informática a domicilio / Néstor Soriano, informàtica a domicili",
+    "por_que": "Nombre y apellido dan seriedad para facturar a empresas y gestorías, y deja claro desde el principio que vas tú a casa. A cambio es largo de decir por teléfono y de poner en un cartel o en una furgoneta."
+   }
+  ]
+ },
+ "claim": {
+  "es": "Te lo arreglo y te lo explico",
+  "va": "T'ho arregle i t'ho explique"
+ },
+ "microcopy": {
+  "es": {
+   "nav_servicios": "Servicios",
+   "nav_precios": "Precios",
+   "nav_sobre_mi": "Quién soy",
+   "nav_faq": "Preguntas frecuentes",
+   "nav_contacto": "Contacto",
+   "nav_zona": "Dónde voy",
+   "boton_llamar": "Llamar al 644 21 91 18",
+   "boton_whatsapp": "Escribir por WhatsApp",
+   "boton_email": "Enviar un correo",
+   "boton_presupuesto": "Pedir presupuesto sin compromiso",
+   "etiqueta_telefono": "Teléfono",
+   "etiqueta_horario": "Horario",
+   "etiqueta_zona": "Zona donde trabajo",
+   "aviso_idioma": "Puedes leer esta web en castellano o en valenciano.",
+   "boton_idioma_es": "Castellano",
+   "boton_idioma_va": "Valenciano",
+   "texto_tamano_letra": "Tamaño de la letra",
+   "boton_letra_normal": "Normal",
+   "boton_letra_grande": "Grande",
+   "boton_letra_muy_grande": "Muy grande",
+   "volver_arriba": "Volver arriba",
+   "saltar_al_contenido": "Ir al contenido",
+   "pie_derechos": "Néstor Soriano López. Todos los derechos reservados.",
+   "pie_hecho_por": "Web hecha por mí, Néstor Soriano.",
+   "enlace_aviso_legal": "Aviso legal",
+   "enlace_privacidad": "Privacidad",
+   "enlace_cookies": "Cookies",
+   "form_titulo": "Cuéntame qué te pasa",
+   "form_nombre": "Tu nombre",
+   "form_pueblo": "Tu pueblo",
+   "form_telefono": "Tu teléfono",
+   "form_problema": "Qué te pasa",
+   "form_placeholder_problema": "Por ejemplo: el ordenador va muy lento y no puedo imprimir.",
+   "form_enviar_whatsapp": "Enviar por WhatsApp",
+   "form_enviar_email": "Enviar por correo",
+   "form_nota_privacidad": "Uso tus datos solo para contestarte. No se los doy a nadie.",
+   "form_error_generico": "Algo no ha ido bien. Prueba otra vez o llámame al 644 21 91 18.",
+   "urgencias": "Llamar y preguntar es gratis. No te compromete a nada.",
+   "cta_principal": "Llámame y lo vemos",
+   "cta_secundaria": "Mira qué hago"
+  },
+  "va": {
+   "nav_servicios": "Servicis",
+   "nav_precios": "Preus",
+   "nav_sobre_mi": "Qui soc",
+   "nav_faq": "Preguntes freqüents",
+   "nav_contacto": "Contacte",
+   "nav_zona": "On vaig",
+   "boton_llamar": "Cridar al 644 21 91 18",
+   "boton_whatsapp": "Escriure per WhatsApp",
+   "boton_email": "Enviar un correu",
+   "boton_presupuesto": "Demanar pressupost sense compromís",
+   "etiqueta_telefono": "Telèfon",
+   "etiqueta_horario": "Horari",
+   "etiqueta_zona": "Zona on treballe",
+   "aviso_idioma": "Pots llegir esta web en castellà o en valencià.",
+   "boton_idioma_es": "Castellà",
+   "boton_idioma_va": "Valencià",
+   "texto_tamano_letra": "Tamany de la lletra",
+   "boton_letra_normal": "Normal",
+   "boton_letra_grande": "Gran",
+   "boton_letra_muy_grande": "Molt gran",
+   "volver_arriba": "Tornar a dalt",
+   "saltar_al_contenido": "Anar al contingut",
+   "pie_derechos": "Néstor Soriano López. Tots els drets reservats.",
+   "pie_hecho_por": "Web feta per mi, Néstor Soriano.",
+   "enlace_aviso_legal": "Avís legal",
+   "enlace_privacidad": "Privacitat",
+   "enlace_cookies": "Cookies",
+   "form_titulo": "Conta'm què et passa",
+   "form_nombre": "El teu nom",
+   "form_pueblo": "El teu poble",
+   "form_telefono": "El teu telèfon",
+   "form_problema": "Què et passa",
+   "form_placeholder_problema": "Per exemple: l'ordinador va molt lent i no puc imprimir.",
+   "form_enviar_whatsapp": "Enviar per WhatsApp",
+   "form_enviar_email": "Enviar per correu",
+   "form_nota_privacidad": "Les teues dades només les use per a contestar-te. No les passe a ningú.",
+   "form_error_generico": "Alguna cosa no ha anat bé. Torna-ho a provar o crida'm al 644 21 91 18.",
+   "urgencias": "Cridar i preguntar és gratis. No et compromet a res.",
+   "cta_principal": "Crida'm i ho veem",
+   "cta_secundaria": "Mira què faig"
+  }
+ },
+ "cta_bloques": [
+  {
+   "titulo": {
+    "es": "Llámame y me lo cuentas",
+    "va": "Crida'm i m'ho contes"
+   },
+   "texto": {
+    "es": "Llamar no te compromete a nada. Me dices qué te pasa y yo te digo si tiene solución, cuánto puede costar y cuándo puedo pasarme. Si no hace falta que vaya, te lo digo también.",
+    "va": "Cridar no et compromet a res. Em dius què et passa i jo et dic si té solució, quant pot costar i quan puc passar-me. Si no cal que vaja, també t'ho dic."
+   }
+  },
+  {
+   "titulo": {
+    "es": "¿No sabes cómo explicarlo? No pasa nada",
+    "va": "No saps com explicar-ho? No passa res"
+   },
+   "texto": {
+    "es": "Hazle una foto a la pantalla con el móvil y mándamela por WhatsApp. Muchas veces con eso ya sé qué está pasando.",
+    "va": "Fes-li una foto a la pantalla amb el mòbil i envia-me-la per WhatsApp. Moltes voltes amb això ja sé què passa."
+   }
+  },
+  {
+   "titulo": {
+    "es": "¿Tienes un negocio en el pueblo?",
+    "va": "Tens un negoci al poble?"
+   },
+   "texto": {
+    "es": "Página web, hojas de cálculo, facturas, copias de seguridad o tareas que repites cada día y te quitan horas. Lo miramos juntos, te digo qué se puede hacer y lo dejo funcionando.",
+    "va": "Pàgina web, fulls de càlcul, factures, còpies de seguretat o faenes que repetixes cada dia i et lleven hores. Ho mirem junts, et dic què es pot fer i ho deixe funcionant."
+   }
+  }
+ ],
+ "mensaje_whatsapp_prellenado": {
+  "es": "Hola Néstor, te escribo desde la web. Quería preguntarte una cosa: ",
+  "va": "Hola Néstor, t'escric des de la web. Volia preguntar-te una cosa: "
+ }
+}

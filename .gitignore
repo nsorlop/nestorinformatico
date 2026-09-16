@@ -1,0 +1,14 @@
+# Copia preparada para publicar como vista previa. No hace falta en el repositorio.
+_artefacto/
+
+# El repositorio es publico: la estrategia de lanzamiento y los informes de
+# auditoria se quedan solo en el ordenador de Nestor.
+LANZAMIENTO.md
+_revision/*.txt
+
+# Configuracion local del editor y del servidor de vista previa
+.claude/
+
+# Ficheros sueltos de trabajo
+__pycache__/
+*.pyc

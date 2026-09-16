@@ -1,0 +1,1283 @@
+/* ==========================================================================
+   Néstor Soriano · Informática a domicilio · La Font de la Figuera
+   Hoja de estilos principal.
+
+   Criterios de diseño (no los cambies sin motivo):
+   - Base de 20 px. Todo en rem, para que los botones de tamaño de letra
+     agranden la página entera de golpe.
+   - Contraste alto y botones de 60 px de alto como mínimo: el público
+     principal son personas mayores.
+   - Cero peticiones a servidores ajenos. Las fuentes están en /fonts.
+   ========================================================================== */
+
+/* --------------------------------------------------------------------------
+   1. Paleta y variables
+   -------------------------------------------------------------------------- */
+/* Paleta: "persiana i calç".
+   Verd fosc de persiana valenciana sobre paret encalada.
+   UN solo color manda en toda la página y es el mismo del botón de llamar,
+   que es lo único que esta web tiene que conseguir. El ocre aparece en dosis
+   pequeñas (antetítulos, el bloque de desarrollo, el foco del teclado) y el
+   rojo está reservado al aviso de estafas. Los grises van tirados hacia el
+   verde para que parezcan elegidos y no heredados. */
+:root {
+  --ink:        #14201c;
+  --ink-2:      #4a5a53;
+  --ink-3:      #63726b;
+  --bg:         #f6f5f1;
+  --bg-2:       #eceae3;
+  --surface:    #ffffff;
+  --line:       #dcdad1;
+  --line-2:     #b4b1a4;
+
+  /* Verde de persiana: el color de la casa y el del botón de llamar */
+  --verd:       #16483a;
+  --verd-d:     #0d3228;
+  --verd-l:     #e3ece7;
+
+  /* Ocre quemado: sólo detalles */
+  --or:         #9d6410;
+  --or-l:       #f7efdc;
+
+  /* Pimentón: sólo el aviso de estafas */
+  --pebre:      #9e2b14;
+  --pebre-l:    #fbeae5;
+
+  /* Banda oscura de la sección de desarrollo */
+  --fosc:       #101f1a;
+  --fosc-2:     #1a3129;
+  --fosc-ink:   #ecebe2;
+  --fosc-ink-2: #9cb1a8;
+  --fosc-line:  #294439;
+
+  --cta-tel-bg: #16483a;
+  --cta-wa-bg:  #14705a;
+  --cta-mail-bg:#16483a;
+  --cta-fg:     #ffffff;
+
+  --foco:       #b3730f;
+
+  --radio:      6px;
+  --radio-g:    12px;
+  --sombra:     0 1px 2px rgba(20, 32, 28, .07), 0 6px 18px -10px rgba(20, 32, 28, .28);
+
+  --ancho:      68rem;
+  --texto:      36rem;  /* medida de lectura cómoda */
+
+  --sans: 'Atkinson Hyperlegible', 'Segoe UI', system-ui, -apple-system, Arial, sans-serif;
+  --slab: 'Bitter', Georgia, 'Times New Roman', serif;
+
+  color-scheme: light;
+}
+
+/* Modo oscuro. Se definen SOLO los tokens; ningún componente pinta colores
+   dentro de un bloque de tema, para que la web se vea bien en los tres
+   estados: claro, oscuro y "el del sistema". */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --ink:        #e8e7de;
+    --ink-2:      #a8b4ad;
+    --ink-3:      #87948d;
+    --bg:         #101715;
+    --bg-2:       #17201d;
+    --surface:    #18221f;
+    --line:       #2a3531;
+    --line-2:     #42514b;
+
+    --verd:       #74c2a6;
+    --verd-d:     #9edcc4;
+    --verd-l:     #123029;
+
+    --or:         #dfb45f;
+    --or-l:       #2a2213;
+
+    --pebre:      #f0907a;
+    --pebre-l:    #2e1712;
+
+    --fosc:       #0b1211;
+    --fosc-2:     #151f1c;
+    --fosc-ink:   #e8e7de;
+    --fosc-ink-2: #9cb1a8;
+    --fosc-line:  #264037;
+
+    --cta-tel-bg: #1d6b53;
+    --cta-wa-bg:  #1a8064;
+    --cta-mail-bg:#1d6b53;
+    --cta-fg:     #ffffff;
+
+    --foco:       #f0c14b;
+    --sombra:     0 1px 2px rgba(0, 0, 0, .5), 0 6px 18px -10px rgba(0, 0, 0, .7);
+
+    color-scheme: dark;
+  }
+}
+
+:root[data-theme="dark"] {
+  --ink:        #e8e7de;
+  --ink-2:      #a8b4ad;
+  --ink-3:      #87948d;
+  --bg:         #101715;
+  --bg-2:       #17201d;
+  --surface:    #18221f;
+  --line:       #2a3531;
+  --line-2:     #42514b;
+
+  --verd:       #74c2a6;
+  --verd-d:     #9edcc4;
+  --verd-l:     #123029;
+
+  --or:         #dfb45f;
+  --or-l:       #2a2213;
+
+  --pebre:      #f0907a;
+  --pebre-l:    #2e1712;
+
+  --fosc:       #0b1211;
+  --fosc-2:     #151f1c;
+  --fosc-ink:   #e8e7de;
+  --fosc-ink-2: #9cb1a8;
+  --fosc-line:  #264037;
+
+  --cta-tel-bg: #1d6b53;
+  --cta-wa-bg:  #1a8064;
+  --cta-mail-bg:#1d6b53;
+  --cta-fg:     #ffffff;
+
+  --foco:       #f0c14b;
+  --sombra:     0 1px 2px rgba(0, 0, 0, .5), 0 6px 18px -10px rgba(0, 0, 0, .7);
+
+  color-scheme: dark;
+}
+
+/* --------------------------------------------------------------------------
+   2. Tamaño de letra base
+   -------------------------------------------------------------------------- */
+html { font-size: 112.5%; }   /* 18 px: comodo de leer sin que la pagina se dispare */
+
+/* --------------------------------------------------------------------------
+   3. Base
+   -------------------------------------------------------------------------- */
+*, *::before, *::after { box-sizing: border-box; }
+
+html { scroll-padding-top: 1rem; }
+@media (min-width: 46rem) { html { scroll-padding-top: 6.5rem; } }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--sans);
+  font-size: 1rem;
+  line-height: 1.65;
+  -webkit-text-size-adjust: 100%;
+  text-rendering: optimizeLegibility;
+  overflow-wrap: break-word;
+  padding-bottom: 5.5rem; /* hueco para la barra fija del móvil */
+}
+
+@media (min-width: 46rem) {
+  body { padding-bottom: 0; }
+}
+
+h1, h2, h3, h4 {
+  font-family: var(--slab);
+  font-weight: 700;
+  line-height: 1.15;
+  text-wrap: balance;
+  margin: 0;
+  color: var(--ink);
+}
+
+h1 { font-size: clamp(2rem, 6vw, 2.9rem); }
+h2 { font-size: clamp(1.55rem, 4.2vw, 2.1rem); }
+h3 { font-size: 1.2rem; font-weight: 600; }
+h4 { font-size: 1.05rem; font-weight: 600; }
+
+p { margin: 0; }
+
+a { color: var(--verd); text-underline-offset: .18em; text-decoration-thickness: .08em; }
+a:hover { color: var(--verd-d); }
+
+strong, b { font-weight: 700; }
+
+ul, ol { margin: 0; padding-left: 1.3em; }
+li { margin: .35em 0; }
+
+img, svg { max-width: 100%; height: auto; }
+
+:focus-visible {
+  outline: 4px solid var(--foco);
+  outline-offset: 3px;
+  border-radius: 3px;
+}
+
+::selection { background: var(--or-l); color: var(--ink); }
+
+/* Enlace de salto para lectores de pantalla y teclado */
+.saltar {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -140%);
+  z-index: 200;
+  background: var(--verd-d);
+  color: #fff;
+  padding: .8rem 1.4rem;
+  font-weight: 700;
+  border-radius: 0 0 var(--radio) var(--radio);
+  transition: transform .15s ease;
+}
+.saltar:focus { transform: translate(-50%, 0); color: #fff; }
+
+.oculto-visual {
+  position: absolute !important;
+  width: 1px; height: 1px;
+  margin: -1px; padding: 0; border: 0;
+  clip-path: inset(50%);
+  overflow: hidden; white-space: nowrap;
+}
+
+/* --------------------------------------------------------------------------
+   4. Rejilla y contenedores
+   -------------------------------------------------------------------------- */
+.env {
+  width: 100%;
+  max-width: var(--ancho);
+  margin-inline: auto;
+  padding-inline: 1.2rem;
+}
+
+@media (min-width: 40rem) { .env { padding-inline: 2rem; } }
+
+.seccion { padding-block: clamp(2.1rem, 5vw, 3.4rem); }
+.seccion + .seccion { border-top: 1px solid var(--line); }
+
+.seccion--alt { background: var(--bg-2); border-top: 1px solid var(--line); }
+.seccion--alt + .seccion { border-top: 1px solid var(--line); }
+
+.seccion__cab { display: flex; flex-direction: column; gap: .6rem; margin-bottom: 1.6rem; }
+.seccion__cab p { max-width: var(--texto); font-size: 1.08rem; color: var(--ink-2); }
+
+.eyebrow {
+  font-size: .8rem;
+  font-weight: 700;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  color: var(--or);
+}
+
+.lead { font-size: 1.15rem; color: var(--ink-2); max-width: var(--texto); }
+
+/* --------------------------------------------------------------------------
+   5. Barra superior
+   -------------------------------------------------------------------------- */
+.barra {
+  position: static;
+  z-index: 100;
+  background: var(--surface);
+  border-bottom: 2px solid var(--line);
+}
+
+/* En el movil la barra NO se queda pegada arriba: con los controles de idioma
+   y de tamano de letra ocuparia un tercio de la pantalla. Abajo ya esta fija
+   la franja de llamar. A partir de tableta si que se queda pegada. */
+@media (min-width: 46rem) {
+  .barra { position: sticky; top: 0; }
+}
+
+.barra__int {
+  display: flex;
+  align-items: center;
+  gap: .8rem 1.2rem;
+  flex-wrap: wrap;
+  padding-block: .7rem;
+}
+
+.marca { display: flex; align-items: center; gap: .65rem; text-decoration: none; color: inherit; margin-right: auto; }
+.marca__icono { flex: 0 0 auto; width: 2.5rem; height: 2.5rem; }
+.marca__txt { display: flex; flex-direction: column; line-height: 1.12; }
+.marca__nom { font-family: var(--slab); font-weight: 700; font-size: 1.12rem; }
+.marca__sub { font-size: .8rem; color: var(--ink-2); }
+
+.controles { display: flex; align-items: center; gap: .5rem; flex-wrap: wrap; }
+
+/* Selector de idioma y de tamaño de letra: mismo patrón visual */
+.grupo {
+  display: flex;
+  align-items: center;
+  gap: .3rem;
+  border: 2px solid var(--line-2);
+  border-radius: var(--radio);
+  padding: .2rem;
+  background: var(--surface);
+}
+.grupo__et {
+  font-size: .8rem;
+  font-weight: 700;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: var(--ink-2);
+  padding-inline: .45rem .2rem;
+}
+.grupo a, .grupo button {
+  font: inherit;
+  font-weight: 700;
+  font-size: 1rem;
+  line-height: 1;
+  min-height: 2.6rem;
+  min-width: 2.6rem;
+  padding: .5rem .85rem;
+  border: 0;
+  border-radius: 4px;
+  background: transparent;
+  color: var(--ink-2);
+  cursor: pointer;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+.grupo a:hover, .grupo button:hover { background: var(--verd-l); color: var(--verd-d); }
+.grupo [aria-current="true"], .grupo [aria-pressed="true"] {
+  background: var(--verd);
+  color: #fff;
+}
+:root[data-theme="dark"] .grupo [aria-current="true"],
+:root[data-theme="dark"] .grupo [aria-pressed="true"] { color: #0c1319; }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .grupo [aria-current="true"],
+  :root:not([data-theme="light"]) .grupo [aria-pressed="true"] { color: #0c1319; }
+}
+
+.barra__tel {
+  display: none;
+  align-items: center;
+  gap: .5rem;
+  background: var(--cta-tel-bg);
+  color: var(--cta-fg);
+  font-weight: 700;
+  font-size: 1.05rem;
+  padding: .6rem 1rem;
+  min-height: 3rem;
+  border-radius: var(--radio);
+  text-decoration: none;
+  white-space: nowrap;
+}
+.barra__tel:hover { background: var(--verd-d); color: var(--cta-fg); }
+@media (min-width: 62rem) { .barra__tel { display: inline-flex; } }
+
+/* --------------------------------------------------------------------------
+   6. Barra fija inferior (móvil): llamar y WhatsApp siempre a mano
+   -------------------------------------------------------------------------- */
+.franja {
+  position: fixed;
+  inset: auto 0 0 0;
+  z-index: 110;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1px;
+  background: var(--line-2);
+  border-top: 2px solid var(--line-2);
+  box-shadow: 0 -6px 20px -12px rgba(0,0,0,.5);
+}
+.franja a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: .5rem;
+  min-height: 4.2rem;
+  font-weight: 700;
+  font-size: 1.1rem;
+  text-decoration: none;
+  color: var(--cta-fg);
+  padding: .5rem;
+  text-align: center;
+}
+.franja .f-tel { background: var(--cta-tel-bg); }
+.franja .f-wa  { background: var(--cta-wa-bg); }
+.franja svg { flex: 0 0 auto; }
+
+@media (min-width: 46rem) { .franja { display: none; } }
+
+/* --------------------------------------------------------------------------
+   7. Portada
+   -------------------------------------------------------------------------- */
+.hero { padding-block: clamp(1.8rem, 4.5vw, 3rem); }
+
+.hero__grid {
+  display: grid;
+  gap: 2rem;
+  align-items: start;
+}
+@media (min-width: 58rem) {
+  .hero__grid { grid-template-columns: minmax(0, 1.15fr) minmax(19rem, .85fr); gap: 3rem; }
+}
+
+.hero__ubi {
+  display: inline-flex;
+  align-items: center;
+  gap: .5rem;
+  font-weight: 700;
+  font-size: .95rem;
+  color: var(--verd);
+  background: var(--verd-l);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: .4rem .95rem;
+  margin-bottom: 1.1rem;
+}
+
+.hero h1 { margin-bottom: 1rem; }
+.hero__sub { font-size: 1.22rem; color: var(--ink-2); max-width: 34rem; margin-bottom: 1.6rem; }
+
+.hero__puntos {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 1.8rem;
+  display: grid;
+  gap: .6rem;
+  max-width: 34rem;
+}
+.hero__puntos li {
+  display: grid;
+  grid-template-columns: 1.6rem 1fr;
+  gap: .6rem;
+  align-items: start;
+  margin: 0;
+  font-size: 1.05rem;
+}
+.hero__puntos svg { margin-top: .25rem; color: var(--verd); }
+
+/* Placa del teléfono: el elemento más visible de la página */
+.placa {
+  background: var(--surface);
+  border: 3px solid var(--ink);
+  border-radius: var(--radio-g);
+  padding: 1.5rem 1.3rem;
+  box-shadow: var(--sombra);
+  text-align: center;
+}
+.placa__et {
+  font-size: .82rem;
+  font-weight: 700;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  color: var(--ink-2);
+  margin-bottom: .5rem;
+}
+.placa__num {
+  display: block;
+  font-family: var(--slab);
+  font-weight: 700;
+  font-size: clamp(2rem, 8vw, 2.9rem);
+  line-height: 1.05;
+  color: var(--ink);
+  text-decoration: none;
+  font-variant-numeric: tabular-nums;
+  margin-bottom: .2rem;
+  word-spacing: .1em;
+}
+.placa__num:hover { color: var(--verd-d); text-decoration: underline; }
+.placa__nota { font-size: .95rem; color: var(--ink-2); margin-bottom: 1.1rem; }
+.placa__botones { display: grid; gap: .6rem; }
+.placa__pie {
+  margin-top: 1.1rem;
+  padding-top: .9rem;
+  border-top: 1px solid var(--line);
+  font-size: .96rem;
+  color: var(--ink-2);
+  display: grid;
+  gap: .35rem;
+  text-align: left;
+}
+.placa__pie div { display: grid; grid-template-columns: 1.3rem 1fr; gap: .5rem; align-items: start; }
+
+/* --------------------------------------------------------------------------
+   8. Botones
+   -------------------------------------------------------------------------- */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: .6rem;
+  min-height: 3.5rem;
+  padding: .75rem 1.4rem;
+  font: inherit;
+  font-weight: 700;
+  font-size: 1.1rem;
+  line-height: 1.25;
+  border: 2px solid transparent;
+  border-radius: var(--radio);
+  text-decoration: none;
+  cursor: pointer;
+  text-align: center;
+  transition: background-color .12s ease, color .12s ease;
+}
+.btn svg { flex: 0 0 auto; }
+.btn--tel  { background: var(--cta-tel-bg); color: var(--cta-fg); }
+.btn--tel:hover  { background: var(--verd-d); color: var(--cta-fg); }
+.btn--wa   { background: var(--cta-wa-bg); color: var(--cta-fg); }
+.btn--wa:hover   { background: var(--verd-d); color: var(--cta-fg); }
+.btn--mail { background: var(--cta-mail-bg); color: var(--cta-fg); }
+.btn--mail:hover { background: var(--verd-d); color: var(--cta-fg); }
+.btn--linea {
+  background: var(--verd-l);
+  color: var(--verd-d);
+  border-color: var(--verd);
+}
+.btn--linea:hover { background: var(--verd); color: var(--cta-fg); border-color: var(--verd); }
+.btn--ancho { width: 100%; }
+
+/* --------------------------------------------------------------------------
+   9. Tira de confianza
+   -------------------------------------------------------------------------- */
+.tira {
+  background: var(--verd-l);
+  border-block: 1px solid var(--line);
+}
+.tira ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 1rem 2rem;
+  padding-block: 1.3rem;
+}
+@media (min-width: 44rem) { .tira ul { grid-template-columns: repeat(3, 1fr); } }
+.tira li {
+  margin: 0;
+  display: grid;
+  grid-template-columns: 1.7rem 1fr;
+  gap: .6rem;
+  align-items: start;
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--ink);
+}
+.tira svg { margin-top: .2rem; color: var(--verd); }
+
+/* --------------------------------------------------------------------------
+   10. Servicios, en tres niveles
+   -------------------------------------------------------------------------- */
+.nivel + .nivel { margin-top: 3.2rem; }
+
+.nivel__cab {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: .6rem 1rem;
+  padding-bottom: .8rem;
+  border-bottom: 3px solid var(--ink);
+  margin-bottom: 1.6rem;
+}
+.nivel__cab h3 { font-size: clamp(1.3rem, 3.4vw, 1.7rem); font-weight: 700; }
+.nivel__para {
+  font-size: .8rem;
+  font-weight: 700;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: var(--surface);
+  background: var(--ink);
+  padding: .25rem .65rem;
+  border-radius: 999px;
+}
+.nivel__entrada { width: 100%; font-size: 1.05rem; color: var(--ink-2); max-width: var(--texto); }
+
+/* Nivel 1: lista abierta y aireada, tipografía mayor. Es el que más se lee. */
+.lista-serv { list-style: none; margin: 0; padding: 0; display: grid; gap: 0; }
+.lista-serv > li {
+  margin: 0;
+  padding-block: 1.25rem;
+  border-bottom: 1px solid var(--line);
+  display: grid;
+  gap: .45rem;
+}
+.lista-serv > li:first-child { padding-top: 0; }
+.serv__tit { display: flex; align-items: baseline; gap: .6rem; font-size: 1.15rem; font-weight: 700; }
+.serv__tit .punto { flex: 0 0 auto; width: .6rem; height: .6rem; border-radius: 50%; background: var(--verd); transform: translateY(-.15em); }
+.serv__desc { color: var(--ink-2); max-width: 44rem; }
+.serv__ej { display: flex; flex-wrap: wrap; gap: .45rem; margin-top: .2rem; }
+.serv__ej span {
+  font-size: .96rem;
+  color: var(--ink-2);
+  background: var(--bg-2);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: .22rem .75rem;
+}
+:root[data-theme="dark"] .serv__ej span { background: var(--bg); }
+
+/* Nivel 2: bloques con fondo suave */
+.rejilla-serv { display: grid; gap: 1rem; }
+@media (min-width: 46rem) { .rejilla-serv { grid-template-columns: repeat(2, 1fr); } }
+.bloque-serv {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-left: 5px solid var(--verd);
+  border-radius: var(--radio);
+  padding: 1.15rem 1.25rem;
+  display: grid;
+  gap: .4rem;
+  align-content: start;
+}
+.bloque-serv h4 { font-size: 1.08rem; }
+.bloque-serv p { color: var(--ink-2); font-size: .98rem; }
+.bloque-serv .serv__ej span { background: var(--bg); }
+
+/* Nivel 3: banda oscura. Aquí se enseña lo que sabe hacer de verdad. */
+.banda-fosca {
+  background: var(--fosc);
+  color: var(--fosc-ink);
+  border-radius: var(--radio-g);
+  padding: clamp(1.5rem, 4vw, 2.6rem);
+  margin-top: 3.2rem;
+}
+.banda-fosca h3, .banda-fosca h4 { color: var(--fosc-ink); }
+.banda-fosca .nivel__cab { border-bottom-color: var(--fosc-line); }
+.banda-fosca .nivel__para { background: var(--or); color: #1b1405; }
+.banda-fosca .nivel__entrada { color: var(--fosc-ink-2); }
+.banda-fosca .rejilla-serv { grid-template-columns: 1fr; }
+@media (min-width: 46rem) { .banda-fosca .rejilla-serv { grid-template-columns: repeat(2, 1fr); } }
+.banda-fosca .bloque-serv {
+  background: var(--fosc-2);
+  border-color: var(--fosc-line);
+  border-left-color: var(--or);
+}
+.banda-fosca .bloque-serv p { color: var(--fosc-ink-2); }
+.banda-fosca .serv__ej span {
+  background: transparent;
+  border-color: var(--fosc-line);
+  color: var(--fosc-ink-2);
+}
+.banda-fosca a { color: #9fd0f0; }
+.nota-fosca {
+  margin-top: 1.4rem;
+  padding-top: 1.2rem;
+  border-top: 1px solid var(--fosc-line);
+  color: var(--fosc-ink-2);
+  font-size: .98rem;
+  max-width: 46rem;
+}
+
+.no-hago {
+  margin-top: 2.4rem;
+  background: var(--bg-2);
+  border: 1px solid var(--line);
+  border-radius: var(--radio);
+  padding: 1.2rem 1.3rem;
+}
+.no-hago h4 { margin-bottom: .5rem; }
+.no-hago ul { color: var(--ink-2); }
+
+/* --------------------------------------------------------------------------
+   11. Cómo funciona
+   -------------------------------------------------------------------------- */
+.pasos { list-style: none; margin: 0; padding: 0; display: grid; gap: 1.1rem; counter-reset: paso; }
+@media (min-width: 52rem) { .pasos { grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr)); } }
+.pasos li {
+  margin: 0;
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: .5rem 1rem;
+  align-items: start;
+}
+.pasos li::before {
+  counter-increment: paso;
+  content: counter(paso);
+  grid-row: span 2;
+  width: 3rem; height: 3rem;
+  display: grid; place-items: center;
+  font-family: var(--slab);
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: var(--surface);
+  background: var(--verd);
+  border-radius: 50%;
+}
+:root[data-theme="dark"] .pasos li::before { color: #0c1319; }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .pasos li::before { color: #0c1319; }
+}
+.pasos h3 { align-self: center; }
+.pasos p { grid-column: 2; color: var(--ink-2); }
+
+/* --------------------------------------------------------------------------
+   12. Compromisos
+   -------------------------------------------------------------------------- */
+.compromisos { list-style: none; margin: 0; padding: 0; display: grid; gap: 1.1rem; }
+@media (min-width: 46rem) { .compromisos { grid-template-columns: repeat(2, 1fr); } }
+.compromisos li { margin: 0; display: grid; grid-template-columns: 1.9rem 1fr; gap: .2rem .7rem; }
+.compromisos svg { grid-row: span 2; margin-top: .2rem; color: var(--verd); }
+.compromisos strong { font-size: 1.05rem; }
+.compromisos span { color: var(--ink-2); }
+
+/* --------------------------------------------------------------------------
+   13. Precios
+   -------------------------------------------------------------------------- */
+.tabla-envoltorio { overflow-x: auto; border: 1px solid var(--line); border-radius: var(--radio); background: var(--surface); }
+table.tarifas { width: 100%; border-collapse: collapse; min-width: 30rem; }
+table.tarifas caption { text-align: left; padding: 1rem 1.1rem; font-size: .95rem; color: var(--ink-2); border-bottom: 1px solid var(--line); }
+table.tarifas th, table.tarifas td { padding: .95rem 1.1rem; text-align: left; vertical-align: top; border-bottom: 1px solid var(--line); }
+table.tarifas thead th { font-size: .82rem; letter-spacing: .1em; text-transform: uppercase; color: var(--ink-2); background: var(--bg-2); }
+table.tarifas tbody th { font-weight: 700; font-size: 1.05rem; }
+table.tarifas td.incluye { color: var(--ink-2); font-size: .98rem; }
+table.tarifas td.precio { font-weight: 700; white-space: nowrap; font-variant-numeric: tabular-nums; color: var(--ink); }
+table.tarifas tbody tr:last-child th, table.tarifas tbody tr:last-child td { border-bottom: 0; }
+
+.notas-precio { margin-top: 1.2rem; color: var(--ink-2); font-size: .98rem; max-width: 46rem; }
+
+/* --------------------------------------------------------------------------
+   14. Zona de servicio
+   -------------------------------------------------------------------------- */
+.zona { display: grid; gap: 1.6rem; }
+@media (min-width: 46rem) { .zona { grid-template-columns: repeat(2, 1fr); } }
+.zona__caja { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radio); padding: 1.2rem 1.3rem; }
+.zona__caja h3 { margin-bottom: .3rem; }
+.zona__caja .sub { font-size: .96rem; color: var(--ink-2); margin-bottom: .9rem; }
+.pueblos { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: .45rem; }
+.pueblos li { margin: 0; }
+.pueblos span {
+  display: inline-block;
+  font-size: .98rem;
+  padding: .3rem .8rem;
+  border-radius: 999px;
+  border: 1px solid var(--line-2);
+  background: var(--bg);
+}
+.pueblos .base { background: var(--verd-l); border-color: var(--verd); font-weight: 700; }
+
+/* --------------------------------------------------------------------------
+   15. Aviso de estafas
+   -------------------------------------------------------------------------- */
+.estafa {
+  background: var(--pebre-l);
+  border: 2px solid var(--pebre);
+  border-radius: var(--radio-g);
+  padding: clamp(1.3rem, 4vw, 2.2rem);
+}
+.estafa__cab { display: flex; align-items: center; gap: .8rem; margin-bottom: 1rem; }
+.estafa__cab svg { flex: 0 0 auto; color: var(--pebre); }
+.estafa__cab h2 { font-size: clamp(1.35rem, 3.6vw, 1.8rem); }
+.estafa p { max-width: 46rem; }
+.estafa p + p { margin-top: .8rem; }
+.estafa__senales { margin-top: 1.4rem; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radio); padding: 1.1rem 1.3rem; }
+.estafa__senales h3 { margin-bottom: .6rem; }
+.estafa__senales ul { margin: 0; }
+.estafa__cierre { margin-top: 1.3rem; font-weight: 700; font-size: 1.08rem; }
+
+/* --------------------------------------------------------------------------
+   16. Quién soy
+   -------------------------------------------------------------------------- */
+.sobre { display: grid; gap: 2.2rem; }
+@media (min-width: 56rem) { .sobre { grid-template-columns: minmax(0, 1.25fr) minmax(17rem, .75fr); gap: 3rem; } }
+.sobre__bio { display: grid; gap: .9rem; max-width: var(--texto); font-size: 1.05rem; }
+.credenciales { list-style: none; margin: 0; padding: 0; display: grid; gap: 0; border: 1px solid var(--line); border-radius: var(--radio); background: var(--surface); overflow: hidden; }
+.credenciales li { margin: 0; padding: .85rem 1.1rem; border-bottom: 1px solid var(--line); display: grid; gap: .1rem; }
+.credenciales li:last-child { border-bottom: 0; }
+.credenciales dt, .credenciales .et { font-size: 1rem; font-weight: 700; color: var(--or); }
+.credenciales .val { font-size: 1rem; }
+
+.proyectos { display: grid; gap: 1rem; margin-top: 2.2rem; }
+@media (min-width: 52rem) { .proyectos { grid-template-columns: repeat(3, 1fr); } }
+.proyecto { border-top: 3px solid var(--verd); padding-top: .9rem; display: grid; gap: .35rem; align-content: start; }
+.proyecto h4 { font-family: var(--slab); }
+.proyecto p { color: var(--ink-2); font-size: .98rem; }
+.proyecto .para-ti { color: var(--ink); font-weight: 600; }
+
+/* --------------------------------------------------------------------------
+   17. Preguntas frecuentes
+   -------------------------------------------------------------------------- */
+.faq { display: grid; gap: .7rem; max-width: 50rem; }
+.faq details {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--radio);
+}
+.faq details[open] { border-color: var(--line-2); }
+.faq summary {
+  list-style: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: .8rem;
+  padding: 1rem 1.2rem;
+  min-height: 3.5rem;
+  font-weight: 700;
+  font-size: 1.06rem;
+}
+.faq summary::-webkit-details-marker { display: none; }
+.faq summary::after {
+  content: "";
+  margin-left: auto;
+  flex: 0 0 auto;
+  width: .85rem; height: .85rem;
+  border-right: 3px solid var(--verd);
+  border-bottom: 3px solid var(--verd);
+  transform: rotate(45deg) translate(-.15em, -.15em);
+  transition: transform .15s ease;
+}
+.faq details[open] summary::after { transform: rotate(-135deg) translate(-.1em, -.1em); }
+.faq summary:hover { background: var(--verd-l); }
+.faq .resp { padding: 0 1.2rem 1.2rem; color: var(--ink-2); max-width: 44rem; }
+
+/* --------------------------------------------------------------------------
+   18. Llamadas a la acción intercaladas
+   -------------------------------------------------------------------------- */
+.cta {
+  background: var(--verd-l);
+  border: 2px solid var(--verd);
+  border-radius: var(--radio-g);
+  padding: clamp(1.3rem, 4vw, 2rem);
+  display: grid;
+  gap: 1rem;
+  align-items: center;
+}
+@media (min-width: 48rem) { .cta { grid-template-columns: 1fr auto; gap: 2rem; } }
+.cta h2 { font-size: clamp(1.3rem, 3.4vw, 1.7rem); margin-bottom: .35rem; }
+.cta p { color: var(--ink-2); max-width: 38rem; }
+.cta__botones { display: grid; gap: .6rem; }
+@media (min-width: 30rem) { .cta__botones { grid-auto-flow: column; } }
+@media (min-width: 48rem) { .cta__botones { grid-auto-flow: row; min-width: 15rem; } }
+
+/* --------------------------------------------------------------------------
+   19. Contacto y formulario
+   -------------------------------------------------------------------------- */
+.contacto { display: grid; gap: 2.2rem; }
+@media (min-width: 56rem) { .contacto { grid-template-columns: minmax(19rem, .85fr) minmax(0, 1.15fr); gap: 3rem; } }
+
+.vias { display: grid; gap: .8rem; align-content: start; }
+.via {
+  display: grid;
+  grid-template-columns: 3rem 1fr;
+  gap: .1rem 1rem;
+  align-items: center;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--radio);
+  padding: 1rem 1.15rem;
+  text-decoration: none;
+  color: var(--ink);
+  min-height: 4.5rem;
+}
+.via:hover { border-color: var(--verd); background: var(--verd-l); color: var(--ink); }
+.via__ic { grid-row: span 2; display: grid; place-items: center; width: 3rem; height: 3rem; border-radius: 50%; color: #fff; }
+.via__ic--tel { background: var(--cta-tel-bg); }
+.via__ic--wa  { background: var(--cta-wa-bg); }
+.via__ic--mail{ background: var(--cta-mail-bg); }
+.via__et { font-size: .82rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: var(--ink-2); }
+.via__val { font-weight: 700; font-size: 1.15rem; font-variant-numeric: tabular-nums; overflow-wrap: anywhere; }
+
+.horario { background: var(--bg-2); border: 1px solid var(--line); border-radius: var(--radio); padding: 1rem 1.15rem; font-size: .98rem; }
+.horario h3 { font-size: 1rem; margin-bottom: .4rem; }
+.horario p { color: var(--ink-2); }
+
+.formulario {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--radio-g);
+  padding: clamp(1.2rem, 4vw, 1.9rem);
+}
+.formulario h3 { margin-bottom: .4rem; }
+.formulario > p.ayuda { color: var(--ink-2); margin-bottom: 1.3rem; max-width: 34rem; }
+.campo { display: grid; gap: .4rem; margin-bottom: 1.1rem; }
+.campo label { font-weight: 700; font-size: 1.02rem; }
+.campo .pista { font-size: .96rem; color: var(--ink-2); font-weight: 400; }
+.campo input, .campo textarea {
+  font: inherit;
+  font-size: 1.05rem;
+  color: var(--ink);
+  background: var(--bg);
+  border: 2px solid var(--line-2);
+  border-radius: var(--radio);
+  padding: .75rem .9rem;
+  min-height: 3.2rem;
+  width: 100%;
+}
+.campo textarea { min-height: 7rem; resize: vertical; line-height: 1.5; }
+.campo input:focus, .campo textarea:focus { border-color: var(--verd); background: var(--surface); }
+.form__botones { display: grid; gap: .7rem; margin-top: 1.4rem; }
+@media (min-width: 34rem) { .form__botones { grid-template-columns: 1fr 1fr; } }
+.form__nota { margin-top: 1.1rem; font-size: .96rem; color: var(--ink-2); }
+.form__nota a { color: var(--verd); }
+
+/* --------------------------------------------------------------------------
+   20. Pie
+   -------------------------------------------------------------------------- */
+.pie { background: var(--fosc); color: var(--fosc-ink-2); padding-block: 2.6rem 2rem; }
+.pie a { color: #9fd0f0; }
+.pie__grid { display: grid; gap: 1.8rem; }
+@media (min-width: 48rem) { .pie__grid { grid-template-columns: 1.3fr 1fr 1fr; gap: 2.4rem; } }
+.pie h3 { color: var(--fosc-ink); font-size: 1rem; margin-bottom: .6rem; }
+.pie ul { list-style: none; margin: 0; padding: 0; }
+.pie li { margin: .4rem 0; }
+.pie__marca { font-family: var(--slab); font-weight: 700; font-size: 1.15rem; color: var(--fosc-ink); }
+.pie__legal { margin-top: 2rem; padding-top: 1.4rem; border-top: 1px solid var(--fosc-line); font-size: .96rem; display: grid; gap: .5rem; }
+
+/* --------------------------------------------------------------------------
+   21. Páginas legales
+   -------------------------------------------------------------------------- */
+.legal { padding-block: 2.6rem 4rem; }
+.legal__nav { display: flex; flex-wrap: wrap; gap: .5rem; margin-bottom: 2.4rem; }
+.legal__nav a {
+  display: inline-flex; align-items: center;
+  min-height: 3rem; padding: .5rem 1.1rem;
+  border: 2px solid var(--line-2); border-radius: var(--radio);
+  background: var(--surface); color: var(--ink);
+  font-weight: 700; text-decoration: none; font-size: 1rem;
+}
+.legal__nav a:hover { border-color: var(--verd); background: var(--verd-l); color: var(--verd-d); }
+
+.doc { max-width: 44rem; }
+.doc + .doc { margin-top: 4rem; padding-top: 3rem; border-top: 3px solid var(--ink); }
+.doc > h2 { font-size: clamp(1.6rem, 4.4vw, 2.1rem); margin-bottom: .4rem; }
+.doc .fecha { font-size: .96rem; color: var(--ink-3); margin-bottom: 1.8rem; }
+.doc h3 { margin-top: 2rem; margin-bottom: .6rem; font-size: 1.15rem; }
+.doc p { margin-bottom: .9rem; }
+.doc ul, .doc ol { margin-bottom: .9rem; color: var(--ink-2); }
+.doc p { color: var(--ink-2); }
+.doc .llano {
+  background: var(--verd-l);
+  border-left: 5px solid var(--verd);
+  border-radius: 0 var(--radio) var(--radio) 0;
+  padding: .85rem 1.1rem;
+  margin-bottom: 1rem;
+  color: var(--ink);
+  font-weight: 600;
+}
+.doc .llano::before {
+  content: attr(data-et);
+  display: block;
+  font-size: .8rem;
+  font-weight: 700;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: var(--verd);
+  margin-bottom: .2rem;
+}
+.pendiente {
+  background: var(--or-l);
+  border: 2px dashed var(--or);
+  border-radius: var(--radio);
+  padding: 1rem 1.2rem;
+  margin-bottom: 1.6rem;
+  color: var(--ink);
+}
+.pendiente strong { color: var(--or); }
+mark.hueco {
+  background: var(--or-l);
+  color: var(--ink);
+  border-bottom: 2px dotted var(--or);
+  padding: 0 .15em;
+  font-weight: 700;
+}
+
+/* --------------------------------------------------------------------------
+   22. Utilidades y estados
+   -------------------------------------------------------------------------- */
+.centro { text-align: center; }
+.mt-2 { margin-top: 2rem; }
+.sin-js-ocultar { display: none; }
+html.js .sin-js-ocultar { display: revert; }
+html.js .solo-sin-js { display: none; }
+
+:target { scroll-margin-top: 1rem; }
+@media (min-width: 46rem) { :target { scroll-margin-top: 7rem; } }
+
+@media (prefers-reduced-motion: no-preference) {
+  html { scroll-behavior: smooth; }
+}
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: .01ms !important; transition-duration: .01ms !important; }
+}
+
+/* --------------------------------------------------------------------------
+   23. Impresión: para quien quiera imprimirla y dejarla al lado del teléfono
+   -------------------------------------------------------------------------- */
+@media print {
+  body { background: #fff; color: #000; padding: 0; font-size: 11pt; }
+  .barra, .nav, .franja, .controles, .aviso-idioma, .cta,
+  .form__botones, .faq__pista, .saltar { display: none !important; }
+  .placa { border: 2pt solid #000; page-break-inside: avoid; }
+  .seccion { padding-block: 1rem; page-break-inside: avoid; }
+  .banda-fosca, .seccion.banda-fosca, .pie { background: #fff !important; color: #000 !important; }
+  .banda-fosca h3, .banda-fosca h4, .pie h3, .pie__marca { color: #000 !important; }
+  .banda-fosca .bloque-serv { background: #fff !important; border: 1pt solid #666 !important; }
+  .banda-fosca p, .pie, .pie a { color: #333 !important; }
+  .faq details { border: 1pt solid #999; }
+  .faq .resp { display: block !important; }
+  a[href^="http"]::after { content: " (" attr(href) ")"; font-size: 9pt; color: #555; }
+  a[href^="#"]::after, a[href^="tel"]::after, a[href^="mailto"]::after { content: ""; }
+}
+
+/* --------------------------------------------------------------------------
+   24. Aviso de idioma (sólo aparece si el navegador va en el otro idioma)
+   -------------------------------------------------------------------------- */
+.aviso-idioma { background: var(--or-l); border-bottom: 1px solid var(--or); }
+.aviso-idioma__int {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: .8rem 1rem;
+  padding-block: .8rem;
+}
+.aviso-idioma p { margin-right: auto; font-weight: 600; }
+.aviso-idioma .btn { min-height: 2.8rem; font-size: 1rem; padding: .5rem 1rem; }
+.aviso-idioma button[data-cerrar-aviso] {
+  display: grid; place-items: center;
+  width: 2.8rem; height: 2.8rem;
+  border: 2px solid var(--line-2);
+  border-radius: var(--radio);
+  background: transparent;
+  color: var(--ink-2);
+  cursor: pointer;
+}
+.aviso-idioma button[data-cerrar-aviso]:hover { background: var(--surface); color: var(--ink); }
+
+/* --------------------------------------------------------------------------
+   25. Menú principal
+   La web tiene varias páginas y el menú va siempre a la vista, sin
+   desplegables: en el móvil se parten en dos filas y ya está.
+   -------------------------------------------------------------------------- */
+.nav { border-top: 1px solid var(--line); background: var(--surface); }
+.nav ul {
+  list-style: none; margin: 0; padding: 0;
+  display: flex; flex-wrap: wrap; gap: 0 .2rem;
+}
+.nav li { margin: 0; }
+.nav a {
+  display: inline-flex; align-items: center;
+  min-height: 3rem;
+  padding: .55rem .85rem;
+  font-weight: 700;
+  font-size: 1rem;
+  color: var(--ink-2);
+  text-decoration: none;
+  border-bottom: 3px solid transparent;
+}
+.nav a:hover { color: var(--verd-d); background: var(--verd-l); }
+.nav a[aria-current="page"] { color: var(--ink); border-bottom-color: var(--verd); }
+
+/* --------------------------------------------------------------------------
+   26. Portada: los problemas, con las palabras de la gente
+   -------------------------------------------------------------------------- */
+.problemas {
+  list-style: none; margin: 0; padding: 0;
+  display: grid; gap: .55rem 1.8rem;
+  grid-template-columns: repeat(auto-fit, minmax(17rem, 1fr));
+}
+.problemas li {
+  margin: 0;
+  display: grid; grid-template-columns: 1.4rem 1fr; gap: .55rem;
+  align-items: start;
+  font-size: 1.02rem;
+}
+.problemas svg { margin-top: .28rem; color: var(--verd); }
+.problemas__pie { margin-top: 1.4rem; color: var(--ink-2); }
+.problemas__pie a {
+  display: inline-flex; align-items: center; gap: .35rem;
+  font-weight: 700; white-space: nowrap;
+}
+
+/* --------------------------------------------------------------------------
+   27. Portada: las tres tarjetas de servicios
+   -------------------------------------------------------------------------- */
+.tarjetas { display: grid; gap: 1rem; }
+@media (min-width: 52rem) { .tarjetas { grid-template-columns: repeat(3, 1fr); } }
+.tarjeta {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-top: 4px solid var(--verd);
+  border-radius: var(--radio);
+  padding: 1.2rem 1.3rem 1.1rem;
+  display: flex; flex-direction: column; gap: .3rem;
+}
+.tarjeta__ic { color: var(--verd); line-height: 1; margin-bottom: .2rem; }
+.tarjeta h3 { font-size: 1.15rem; font-weight: 700; }
+.tarjeta__et {
+  font-size: .8rem; font-weight: 700; letter-spacing: .1em; text-transform: uppercase;
+  color: var(--or); margin-bottom: .5rem;
+}
+.tarjeta ul { list-style: none; padding: 0; margin: 0 0 1rem; }
+.tarjeta li {
+  margin: 0; padding: .4rem 0;
+  border-bottom: 1px solid var(--line);
+  font-size: .98rem;
+}
+.tarjeta li.mas { color: var(--ink-3); font-style: italic; border-bottom: 0; }
+.tarjeta__enlace {
+  margin-top: auto;
+  display: inline-flex; align-items: center; gap: .4rem;
+  font-weight: 700; text-decoration: none;
+  min-height: 2.6rem;
+}
+.tarjeta__enlace:hover { text-decoration: underline; }
+
+/* La tercera tarjeta, la de desarrollo, se distingue del resto */
+.tarjeta:last-child { border-top-color: var(--or); }
+.tarjeta:last-child .tarjeta__ic { color: var(--or); }
+
+/* --------------------------------------------------------------------------
+   28. Zona de servicio en la portada
+   -------------------------------------------------------------------------- */
+.zona__caja--base {
+  background: var(--verd-l);
+  border-color: var(--verd);
+  border-left: 5px solid var(--verd);
+}
+.zona__ic { color: var(--verd); line-height: 1; margin-bottom: .3rem; }
+.zona__caja--base h3 { font-size: 1.3rem; }
+.zona__caja .sub a { display: inline-flex; align-items: center; gap: .35rem; font-weight: 700; }
+
+/* --------------------------------------------------------------------------
+   29. Páginas interiores
+   -------------------------------------------------------------------------- */
+.seccion--intro { padding-top: clamp(1.8rem, 4vw, 2.6rem); }
+.seccion--intro .seccion__cab h1 { margin-bottom: .2rem; }
+.seccion--intro .seccion__cab p { font-size: 1.1rem; }
+
+/* En la página de servicios cada bloque es una sección entera */
+.seccion .nivel__cab { margin-bottom: 1.4rem; }
+.seccion.banda-fosca {
+  background: var(--fosc);
+  color: var(--fosc-ink);
+  border-radius: 0;
+  margin-top: 0;
+  padding-block: clamp(2.2rem, 5vw, 3.4rem);
+}
+.seccion.banda-fosca .rejilla-serv { grid-template-columns: 1fr; }
+@media (min-width: 46rem) {
+  .seccion.banda-fosca .rejilla-serv { grid-template-columns: repeat(2, 1fr); }
+}
+
+.pie__tel { margin-top: .8rem; font-size: 1.7rem; font-weight: 700; font-variant-numeric: tabular-nums; }
+.pie__tel a { text-decoration: none; color: var(--fosc-ink); }
+.pie__tel a:hover { text-decoration: underline; color: #a9dcc6; }
+
+.legal > .env > h1 { margin-bottom: 1.2rem; }
+
+/* --------------------------------------------------------------------------
+   30. La tabla de precios en el móvil
+   Una tabla que se arrastra de lado no la maneja nadie. Por debajo de 40 rem
+   cada fila se convierte en una ficha con su etiqueta delante.
+   -------------------------------------------------------------------------- */
+@media (max-width: 39.99rem) {
+  .tabla-envoltorio { border: 0; background: transparent; overflow-x: visible; }
+  table.tarifas { min-width: 0; display: block; }
+  table.tarifas thead { display: none; }
+  table.tarifas tbody, table.tarifas tr, table.tarifas th, table.tarifas td { display: block; }
+  table.tarifas tr {
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-left: 5px solid var(--verd);
+    border-radius: var(--radio);
+    padding: .9rem 1.1rem;
+    margin-bottom: .7rem;
+  }
+  table.tarifas tbody th {
+    padding: 0 0 .3rem;
+    border-bottom: 0;
+    font-size: 1.08rem;
+  }
+  table.tarifas td { padding: 0; border-bottom: 0; }
+  table.tarifas td.incluye { margin-bottom: .55rem; }
+  table.tarifas td.precio {
+    white-space: normal;
+    font-size: 1.05rem;
+    color: var(--verd);
+    border-top: 1px solid var(--line);
+    padding-top: .55rem;
+  }
+  table.tarifas td.precio::before {
+    content: attr(data-et) " ";
+    font-size: .8rem; font-weight: 700; letter-spacing: .1em;
+    text-transform: uppercase; color: var(--ink-3);
+    display: block;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   31. Información básica de protección de datos junto al formulario
+   Es la "capa 1" que exige el RGPD en el momento de recoger los datos.
+   Va discreta, pero legible: nada de letra de 12 px.
+   -------------------------------------------------------------------------- */
+.capa1 {
+  margin-top: 1.2rem;
+  padding: 1rem 1.15rem;
+  background: var(--bg-2);
+  border: 1px solid var(--line);
+  border-radius: var(--radio);
+  font-size: .96rem;
+  color: var(--ink-2);
+}
+.capa1__tit {
+  font-weight: 700;
+  color: var(--ink);
+  margin-bottom: .6rem;
+}
+.capa1 dl { margin: 0; display: grid; gap: .4rem; }
+.capa1 dl > div { display: grid; grid-template-columns: 8.5rem 1fr; gap: .2rem .8rem; }
+@media (max-width: 30rem) {
+  .capa1 dl > div { grid-template-columns: 1fr; gap: 0; }
+}
+.capa1 dt { font-weight: 700; color: var(--ink); }
+.capa1 dd { margin: 0; }
+.capa1 > p:last-child { margin-top: .8rem; }
+.capa1 a { font-weight: 700; }
+
+/* La pista del acordeón: mucha gente mayor no sabe que una pregunta se toca */
+.faq__pista {
+  margin-bottom: 1rem;
+  font-weight: 700;
+  color: var(--verd);
+  display: flex;
+  align-items: center;
+  gap: .5rem;
+}
+.faq__pista::before {
+  content: "";
+  flex: 0 0 auto;
+  width: .7rem; height: .7rem;
+  border-right: 3px solid var(--verd);
+  border-bottom: 3px solid var(--verd);
+  transform: rotate(45deg) translateY(-.1em);
+}
+
+/* La pista del acordeón: mucha gente mayor no sabe que una pregunta se toca */
+.faq__pista {
+  margin-bottom: 1rem;
+  font-weight: 700;
+  color: var(--verd);
+  display: flex;
+  align-items: center;
+  gap: .5rem;
+}
+.faq__pista::before {
+  content: "";
+  flex: 0 0 auto;
+  width: .7rem; height: .7rem;
+  border-right: 3px solid var(--verd);
+  border-bottom: 3px solid var(--verd);
+  transform: rotate(45deg) translateY(-.1em);
+}
+
+/* --------------------------------------------------------------------------
+   32. "Así sabrás que soy yo"
+   La contraparte del aviso de estafas. El aviso solo, sin esto, deja a una
+   persona que vive sola con el miedo puesto y sin salida.
+   -------------------------------------------------------------------------- */
+.identidad {
+  background: var(--verd-l);
+  border: 2px solid var(--verd);
+  border-radius: var(--radio-g);
+  padding: clamp(1.3rem, 4vw, 2rem);
+}
+.identidad__cab { display: flex; align-items: center; gap: .8rem; margin-bottom: .9rem; }
+.identidad__cab svg { flex: 0 0 auto; color: var(--verd); }
+.identidad__cab h2 { font-size: clamp(1.3rem, 3.4vw, 1.65rem); }
+.identidad > p { max-width: 46rem; margin-bottom: 1.1rem; }
+.identidad ul { list-style: none; margin: 0; padding: 0; display: grid; gap: .6rem; }
+.identidad li {
+  margin: 0;
+  display: grid; grid-template-columns: 1.4rem 1fr; gap: .6rem;
+  align-items: start;
+}
+.identidad li svg { margin-top: .25rem; color: var(--verd); }

@@ -1,0 +1,8 @@
+# GitHub Pages construye el sitio con Jekyll. Las paginas HTML no llevan
+# cabecera de Jekyll, asi que se copian tal cual. Las carpetas que empiezan
+# por "_" (_contenido, _revision) no se publican nunca.
+# Esto evita que tambien se publiquen el generador y la documentacion.
+exclude:
+  - README.md
+  - build.py
+  - LANZAMIENTO.md

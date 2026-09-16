@@ -1,0 +1,624 @@
+{
+ "titulo": {
+  "es": "Política de privacidad y protección de datos",
+  "va": "Política de privacitat i protecció de dades"
+ },
+ "intro": {
+  "es": [
+   "Esta página explica qué hago con tus datos personales cuando me llamas, me escribes o vengo a tu casa a arreglarte el ordenador. Está escrita para que se entienda, sin palabras raras.",
+   "Cada apartado empieza con un resumen en lenguaje normal y después viene el detalle legal, por si lo necesitas o por si quieres enseñárselo a tu gestoría.",
+   "Este texto cumple con el Reglamento (UE) 2016/679, que es el reglamento europeo de protección de datos (el famoso RGPD), y con la Ley Orgánica 3/2018, de protección de datos personales y garantía de los derechos digitales (la LOPDGDD).",
+   "Hay una parte que me importa especialmente: el apartado sobre el acceso a tus equipos y a tu información. Mi trabajo consiste en entrar en tu casa y tocar tu ordenador, donde tienes tus fotos, tu correo y a veces tus cosas del banco. Ahí explico con detalle qué hago y qué no hago.",
+   "Si algo no te queda claro, llámame al 644 21 91 18 y te lo explico por teléfono. No hace falta que entiendas de informática para saber qué pasa con tus datos."
+  ],
+  "va": [
+   "Esta pàgina explica què faig amb les teues dades personals quan em crides, m'escrius o vinc a ta casa a arreglar-te l'ordinador. Està escrita perquè s'entenga, sense paraules rares.",
+   "Cada apartat comença amb un resum en llenguatge normal i després ve el detall legal, per si el necessites o per si vols ensenyar-lo a la teua gestoria.",
+   "Este text complix amb el Reglament (UE) 2016/679, que és el reglament europeu de protecció de dades (el famós RGPD), i amb la Llei Orgànica 3/2018, de protecció de dades personals i garantia dels drets digitals (la LOPDGDD).",
+   "Hi ha una part que m'importa especialment: l'apartat sobre l'accés als teus equips i a la teua informació. La meua faena consistix a entrar a ta casa i tocar el teu ordinador, on tens les teues fotos, el teu correu i de vegades les teues coses del banc. Ahí explique amb detall què faig i què no faig.",
+   "Si alguna cosa no et queda clara, crida'm al 644 21 91 18 i t'ho explique. No fa falta que entengues d'informàtica per a saber què passa amb les teues dades."
+  ]
+ },
+ "secciones": [
+  {
+   "titulo": {
+    "es": "1. Quién soy y quién responde de tus datos",
+    "va": "1. Qui soc i qui respon de les teues dades"
+   },
+   "resumen_llano": {
+    "es": "Detrás de esta web no hay una empresa grande ni un call center. Soy una persona, trabajo solo y soy yo quien responde de tus datos.",
+    "va": "Darrere d'esta web no hi ha cap empresa gran ni cap centraleta. Soc una persona, treballe a soles i soc jo qui respon de les teues dades."
+   },
+   "parrafos": {
+    "es": [
+     "El responsable del tratamiento de tus datos personales es Néstor Soriano López, que presta servicios informáticos a domicilio en La Font de la Figuera y la comarca.",
+     "Responsable del tratamiento quiere decir, en palabras normales, que soy yo quien decide qué datos se recogen, para qué se usan y cuánto tiempo se guardan. Y quien responde si algo se hace mal.",
+     "Trabajo solo. No tengo empleados, ni comerciales, ni empresa de telemarketing detrás. Los únicos que ven algo son mi gestoría, para llevar las facturas, y las empresas cuyas herramientas uso para hablar contigo, que son el correo de Google y el WhatsApp de Meta. Están todas con nombre y apellidos en el apartado 7, sin esconder ninguna.",
+     "Por el tamaño y el tipo de actividad, no estoy obligado a nombrar un Delegado de Protección de Datos, porque mi actividad principal no consiste en observar a las personas de forma habitual y sistemática ni en tratar a gran escala datos sensibles, que son los supuestos del artículo 37 del RGPD y del artículo 34 de la Ley Orgánica 3/2018. Para cualquier asunto de datos te atiendo yo directamente, en el teléfono y el correo de abajo."
+    ],
+    "va": [
+     "El responsable del tractament de les teues dades personals és Néstor Soriano López, que presta servicis informàtics a domicili a la Font de la Figuera i la comarca.",
+     "Responsable del tractament vol dir, en paraules normals, que soc jo qui decidix quines dades s'arrepleguen, per a què s'usen i quant de temps es guarden. I qui respon si alguna cosa es fa malament.",
+     "Treballe a soles. No tinc empleats, ni comercials, ni cap empresa de telemàrqueting darrere. Els únics que veuen alguna cosa són la meua gestoria, per a portar les factures, i les empreses de les ferramentes que use per a parlar amb tu, que són el correu de Google i el WhatsApp de Meta. Estan totes amb nom i cognoms en l'apartat 7, sense amagar-ne cap.",
+     "Per la grandària i el tipus d'activitat, no estic obligat a nomenar un Delegat de Protecció de Dades, perquè la meua activitat principal no consistix a observar les persones de manera habitual i sistemàtica ni a tractar a gran escala dades sensibles, que són els supòsits de l'article 37 del RGPD i de l'article 34 de la Llei Orgànica 3/2018. Per a qualsevol assumpte de dades t'atenc jo directament, al telèfon i al correu de baix."
+    ]
+   },
+   "lista": {
+    "es": [
+     "Responsable: Néstor Soriano López",
+     "Ubicación: La Font de la Figuera (Valencia)",
+     "Teléfono: 644 21 91 18",
+     "Correo electrónico: nestorlafont@gmail.com",
+     "Actividad: servicios informáticos a domicilio para particulares y pequeños negocios"
+    ],
+    "va": [
+     "Responsable: Néstor Soriano López",
+     "Ubicació: la Font de la Figuera (València)",
+     "Telèfon: 644 21 91 18",
+     "Correu electrònic: nestorlafont@gmail.com",
+     "Activitat: servicis informàtics a domicili per a particulars i negocis xicotets"
+    ]
+   }
+  },
+  {
+   "titulo": {
+    "es": "2. Qué datos trato y de dónde salen",
+    "va": "2. Quines dades tracte i d'on ixen"
+   },
+   "resumen_llano": {
+    "es": "Solo me quedo con lo justo para poder ir a tu casa, arreglarte el problema y hacerte la factura. Nada más.",
+    "va": "Només em quede amb el just per a poder anar a ta casa, arreglar-te el problema i fer-te la factura. Res més."
+   },
+   "parrafos": {
+    "es": [
+     "Los datos que trato salen siempre de una de estas vías: me los das tú, los genera la propia factura, o los veo sin querer dentro de tu equipo mientras lo arreglo.",
+     "No compro listados de nadie. No saco datos de redes sociales. No te busco por internet. Si tengo un dato tuyo es porque me lo has dado tú o porque ha salido de trabajar en tu equipo.",
+     "No pido ni quiero datos de salud, religión, ideología, afiliación sindical ni nada parecido. Son lo que la ley llama categorías especiales de datos y en mi trabajo no hacen ninguna falta. Si por lo que sea aparecen en tu equipo, ni los toco ni los apunto.",
+     "Darme tus datos no es obligatorio por ley, pero sin nombre, teléfono y dirección no puedo ir a tu casa, y sin los datos fiscales no puedo hacerte una factura correcta."
+    ],
+    "va": [
+     "Les dades que tracte ixen sempre d'una d'estes vies: me les dones tu, les genera la mateixa factura, o les veig sense voler dins del teu equip mentres l'arregle.",
+     "No compre llistats a ningú. No trac dades de xarxes socials. No et busque per internet. Si tinc una dada teua és perquè me l'has donada tu o perquè ha eixit de treballar en el teu equip.",
+     "No demane ni vull dades de salut, religió, ideologia, afiliació sindical ni res paregut. Són el que la llei diu categories especials de dades i en la meua faena no fan cap falta. Si pel motiu que siga apareixen en el teu equip, ni les toque ni les apunte.",
+     "Donar-me les teues dades no és obligatori per llei, però sense nom, telèfon i adreça no puc anar a ta casa, i sense les dades fiscals no puc fer-te una factura correcta."
+    ]
+   },
+   "lista": {
+    "es": [
+     "Datos que me das tú al llamar, escribir por WhatsApp o mandar un correo: nombre y apellidos, teléfono, dirección donde tengo que ir y la descripción de la avería o de lo que necesitas.",
+     "Datos de facturación, si pides factura: nombre o razón social, DNI o NIF, dirección fiscal e importe del servicio. Si pagas por transferencia o por Bizum, también queda el dato de la cuenta o del número desde el que pagas.",
+     "Datos técnicos del aparato: marca, modelo, número de serie, sistema operativo y qué le pasa. Esto lo apunto para saber qué he hecho en cada visita y poder atenderte mejor la próxima vez.",
+     "Información que hay dentro de tu equipo. Al reparar un ordenador o un móvil es inevitable ver cosas: nombres de archivos, una foto que aparece al abrir una carpeta, el asunto de un correo, el nombre de tu usuario. Esto se llama acceso incidental y está explicado con detalle en el apartado 4.",
+     "Si me escribes por WhatsApp, ese mensaje pasa antes por los servidores de WhatsApp, que tiene sus propias condiciones y su propia política de privacidad. Yo solo trato lo que me escribes ahí. Si prefieres no usar WhatsApp, llámame por teléfono y listo."
+    ],
+    "va": [
+     "Dades que em dones tu quan em crides, m'escrius per WhatsApp o m'envies un correu: nom i cognoms, telèfon, adreça on he d'anar i la descripció de l'avaria o del que necessites.",
+     "Dades de facturació, si demanes factura: nom o raó social, DNI o NIF, adreça fiscal i import del servici. Si pagues per transferència o per Bizum, també queda la dada del compte o del número des del qual pagues.",
+     "Dades tècniques de l'aparell: marca, model, número de sèrie, sistema operatiu i què li passa. Això ho apunte per a saber què he fet en cada visita i poder atendre't millor la pròxima vegada.",
+     "Informació que hi ha dins del teu equip. Quan es repara un ordinador o un mòbil és inevitable vore coses: noms d'arxius, una foto que apareix en obrir una carpeta, l'assumpte d'un correu, el nom del teu usuari. Això es diu accés incidental i està explicat amb detall en l'apartat 4.",
+     "Si m'escrius per WhatsApp, eixe missatge passa abans pels servidors de WhatsApp, que té les seues pròpies condicions i la seua pròpia política de privacitat. Jo només tracte el que m'escrius ahí. Si preferixes no usar WhatsApp, crida'm i ja està."
+    ]
+   }
+  },
+  {
+   "titulo": {
+    "es": "3. Para qué uso tus datos y con qué derecho",
+    "va": "3. Per a què use les teues dades i amb quin dret"
+   },
+   "resumen_llano": {
+    "es": "Uso tus datos para tres cosas: ir a arreglarte el problema, hacerte la factura y poder responderte si después hay alguna duda. Para nada más.",
+    "va": "Use les teues dades per a tres coses: anar a arreglar-te el problema, fer-te la factura i poder respondre't si després hi ha algun dubte. Per a res més."
+   },
+   "parrafos": {
+    "es": [
+     "La ley obliga a decir no solo para qué se usan los datos, sino con qué derecho se usan. A eso se le llama base jurídica, y cada finalidad tiene que tener la suya. Aquí lo tienes separado, cosa por cosa.",
+     "Si en algún momento quisiera usar tus datos para algo distinto de lo que pone aquí, te lo pediría antes y tú decidirías."
+    ],
+    "va": [
+     "La llei obliga a dir no només per a què s'usen les dades, sinó amb quin dret s'usen. A això se li diu base jurídica, i cada finalitat ha de tindre la seua. Ací ho tens separat, cosa per cosa.",
+     "Si en algun moment volguera usar les teues dades per a alguna cosa diferent del que posa ací, t'ho demanaria abans i tu decidiries."
+    ]
+   },
+   "lista": {
+    "es": [
+     "Atender tu llamada o tu mensaje y prestarte el servicio (ir a tu casa, mirar qué pasa, reparar, instalar, configurar o enseñarte a usar algo). Base jurídica: la ejecución de un contrato o la aplicación de medidas previas a petición tuya (artículo 6.1.b del RGPD). En cristiano: me has pedido un trabajo y necesito tus datos para poder hacerlo.",
+     "Hacerte un presupuesto antes de que decidas. Misma base jurídica: medidas precontractuales a petición tuya (artículo 6.1.b del RGPD). Si al final no aceptas, borro el presupuesto y tus datos cuando ya no hagan falta.",
+     "Emitir la factura y cumplir con Hacienda y con la contabilidad. Base jurídica: cumplimiento de una obligación legal (artículo 6.1.c del RGPD), en relación con la normativa fiscal y mercantil que me obliga a facturar y a guardar los justificantes.",
+     "Guardar un historial breve de las visitas y de lo que se ha hecho en tu equipo, para poder atenderte mejor la próxima vez y para poder responder si hay una reclamación o una garantía. Base jurídica: interés legítimo (artículo 6.1.f del RGPD). He valorado que este uso es razonable, que no te perjudica y que tú mismo esperas que apunte lo que hice. Aun así puedes oponerte y lo respeto, aunque entonces empezaremos de cero cada vez.",
+     "Responderte si me escribes con una consulta que al final no acaba en trabajo. Base jurídica: interés legítimo (artículo 6.1.f del RGPD) en atender a quien me pregunta.",
+     "Mandarte publicidad, promociones o boletines: no lo hago. Si algún día quisiera hacerlo, te pediría el consentimiento antes (artículo 6.1.a del RGPD) y podrías retirarlo cuando quisieras, sin dar explicaciones. Y si algún día te mando un aviso sobre un servicio parecido al que ya te hice (por ejemplo, recordarte que toca revisar las copias de seguridad), lo haré solo si has sido cliente mío, como permite el artículo 21.2 de la Ley 34/2002, siempre con una forma sencilla de decirme que no quieres más avisos, y bastará con que me contestes «no» para que deje de mandártelos.",
+     "Decisiones automatizadas o elaboración de perfiles: no hago ninguna. No hay ningún programa que decida nada sobre ti. Todo lo decide una persona, que soy yo."
+    ],
+    "va": [
+     "Atendre't quan em crides o m'envies un missatge i prestar-te el servici (anar a ta casa, mirar què passa, reparar, instal·lar, configurar o ensenyar-te a usar alguna cosa). Base jurídica: l'execució d'un contracte o l'aplicació de mesures prèvies a petició teua (article 6.1.b del RGPD). Dit clar: m'has demanat una faena i necessite les teues dades per a poder fer-la.",
+     "Fer-te un pressupost abans que decidisques. La mateixa base jurídica: mesures precontractuals a petició teua (article 6.1.b del RGPD). Si al final no acceptes, esborre el pressupost i les teues dades quan ja no facen falta.",
+     "Emetre la factura i complir amb Hisenda i amb la comptabilitat. Base jurídica: compliment d'una obligació legal (article 6.1.c del RGPD), en relació amb la normativa fiscal i mercantil que m'obliga a facturar i a guardar els justificants.",
+     "Guardar un historial breu de les visites i del que s'ha fet en el teu equip, per a poder atendre't millor la pròxima vegada i per a poder respondre si hi ha una reclamació o una garantia. Base jurídica: interés legítim (article 6.1.f del RGPD). He valorat que este ús és raonable, que no et perjudica i que tu mateix esperes que apunte el que vaig fer. Així i tot pots oposar-t'hi i ho respecte, encara que en eixe cas començarem de zero cada vegada.",
+     "Respondre't si m'escrius amb una consulta que al final no acaba en faena. Base jurídica: interés legítim (article 6.1.f del RGPD) en atendre qui em pregunta.",
+     "Enviar-te publicitat, promocions o butlletins: no ho faig. Si algun dia volguera fer-ho, et demanaria el consentiment abans (article 6.1.a del RGPD) i podries retirar-lo quan volgueres, sense donar explicacions. I si algun dia t'envie un avís sobre un servici paregut al que ja et vaig fer (per exemple, recordar-te que toca revisar les còpies de seguretat), ho faré només si has sigut client meu, com permet l'article 21.2 de la Llei 34/2002, sempre amb una manera senzilla de dir-me que no en vols més, i només caldrà que em contestes «no» perquè deixe d'enviar-te'ls.",
+     "Decisions automatitzades o elaboració de perfils: no en faig cap. No hi ha cap programa que decidisca res sobre tu. Tot ho decidix una persona, que soc jo."
+    ]
+   }
+  },
+  {
+   "titulo": {
+    "es": "4. Acceso a tus equipos y a tu información",
+    "va": "4. Accés als teus equips i a la teua informació"
+   },
+   "resumen_llano": {
+    "es": "Este es el apartado más importante de todos. Entro en tu casa y toco tu ordenador, donde están tus fotos, tu correo y a veces tus cosas del banco. Aquí te digo exactamente qué hago y qué no hago, y lo puedes comprobar mientras estoy trabajando.",
+    "va": "Este és l'apartat més important de tots. Entre a ta casa i toque el teu ordinador, on estan les teues fotos, el teu correu i de vegades les teues coses del banc. Ací et dic exactament què faig i què no faig, i ho pots comprovar mentres estic treballant."
+   },
+   "parrafos": {
+    "es": [
+     "Cuando arreglo un ordenador, un móvil o una tableta, es materialmente imposible no ver nada. Para quitar un virus hay que mirar carpetas. Para configurar el correo hay que abrir el programa de correo. Para recuperar unas fotos hay que ver las fotos. A esto se le llama acceso incidental: no voy buscando tu información, pero pasa por delante.",
+     "Lo que sí puedo garantizarte es cómo me comporto con eso. Los compromisos de abajo no son palabras bonitas: son cosas concretas que puedes comprobar mientras estoy en tu casa, porque trabajo delante de ti y te enseño la pantalla siempre que me lo pidas.",
+     "Deber de secreto. Todo lo que vea en tu equipo es secreto. No se lo cuento a nadie: ni a tu familia, ni a tus vecinos, ni a otro cliente, ni a nadie del pueblo. Y es una obligación permanente: sigue en pie cuando acabo el trabajo, cuando pasan los años y aunque algún día deje de dedicarme a esto. Está en el artículo 5.1.f del RGPD (principio de integridad y confidencialidad) y en el artículo 5 de la Ley Orgánica 3/2018.",
+     "Contraseñas del banco: nunca. No te voy a pedir jamás las claves de tu banca online, ni el PIN de la tarjeta, ni los códigos de un solo uso que llegan por SMS o por la aplicación del banco. Ni por teléfono, ni en persona, ni por WhatsApp. Si alguien te los pide diciendo que va de mi parte, no soy yo: cuelga y llámame al 644 21 91 18.",
+     "Contraseñas del equipo: a veces sí hacen falta. Sin la clave de arranque del ordenador o sin la del wifi no se puede entrar a reparar. En ese caso te la pido delante de ti, la uso solo mientras dura la reparación y no la apunto en ningún sitio. Cuando acabo te recomiendo que la cambies, y si no sabes cómo hacerlo te enseño ahí mismo, sin cobrarte nada por eso. Es la manera más limpia de quedarnos los dos tranquilos.",
+     "Si durante una reparación apareciera de forma evidente contenido gravemente ilegal, por ejemplo material de abuso sexual infantil, pararía el trabajo y lo pondría en conocimiento de las autoridades, como obliga la ley. No es una amenaza ni una vigilancia, porque no voy husmeando en nada. Es lo que haría cualquier persona ante algo así, y prefiero decirlo claro antes que callarlo. En ese caso concreto, el tratamiento de esa información se ampararía en el cumplimiento de una obligación legal y en la protección de intereses vitales de otra persona (artículos 6.1.c y 6.1.d del RGPD), en relación con el deber de denunciar los delitos de que se tiene conocimiento que establecen los artículos 259 y 262 de la Ley de Enjuiciamiento Criminal. No copiaría, no guardaría ni difundiría ese material bajo ningún concepto: pondría el hecho en conocimiento de las Fuerzas y Cuerpos de Seguridad y dejaría el equipo tal como está, para que sean ellos quienes actúen."
+    ],
+    "va": [
+     "Quan arregle un ordinador, un mòbil o una tauleta, és materialment impossible no vore res. Per a llevar un virus s'han de mirar carpetes. Per a configurar el correu s'ha d'obrir el programa de correu. Per a recuperar unes fotos s'han de vore les fotos. A això se li diu accés incidental: no vaig buscant la teua informació, però passa per davant.",
+     "El que sí que et puc garantir és com em comporte amb això. Els compromisos de baix no són paraules boniques: són coses concretes que pots comprovar mentres estic a ta casa, perquè treballe davant de tu i t'ensenye la pantalla sempre que m'ho demanes.",
+     "Deure de secret. Tot el que veja en el teu equip és secret. No li ho conte a ningú: ni a la teua família, ni als teus veïns, ni a un altre client, ni a ningú del poble. I és una obligació permanent: continua en peu quan acabe la faena, quan passen els anys i encara que algun dia deixe de dedicar-me a això. Està en l'article 5.1.f del RGPD (principi d'integritat i confidencialitat) i en l'article 5 de la Llei Orgànica 3/2018.",
+     "Contrasenyes del banc: mai. No et demanaré mai les claus de la teua banca en línia, ni el PIN de la targeta, ni els codis d'un sol ús que t'apleguen per SMS o per l'aplicació del banc. Ni per telèfon, ni en persona, ni per WhatsApp. Si algú te'ls demana dient que va de part meua, no soc jo: penja i crida'm al 644 21 91 18.",
+     "Contrasenyes de l'equip: de vegades sí que fan falta. Sense la clau d'arrancada de l'ordinador o sense la del wifi no es pot entrar a reparar. En eixe cas te la demane davant de tu, la use només mentres dura la reparació i no l'apunte enlloc. Quan acabe et recomane que la canvies, i si no saps com fer-ho t'ho ensenye ahí mateix, sense cobrar-te res per això. És la manera més neta de quedar-nos els dos tranquils.",
+     "Si durant una reparació apareguera de manera evident contingut greument il·legal, per exemple material d'abús sexual infantil, pararia la faena i ho posaria en coneixement de les autoritats, com obliga la llei. No és cap amenaça ni cap vigilància, perquè no vaig furgant en res. És el que faria qualsevol persona davant d'una cosa així, i preferisc dir-ho clar abans que callar-m'ho. En eixe cas concret, el tractament d'eixa informació s'empararia en el compliment d'una obligació legal i en la protecció d'interessos vitals d'una altra persona (articles 6.1.c i 6.1.d del RGPD), en relació amb el deure de denunciar els delictes de què es té coneixement que establixen els articles 259 i 262 de la Llei d'Enjudiciament Criminal. No copiaria, no guardaria ni difondria eixe material de cap manera: posaria el fet en coneixement de les Forces i Cossos de Seguretat i deixaria l'equip tal com està, perquè siguen ells qui actuen."
+    ]
+   },
+   "lista": {
+    "es": [
+     "Accedo solo a lo estrictamente necesario para resolver el problema que me has pedido. Si la avería es del wifi, no abro tus fotos.",
+     "No copio, no extraigo ni me quedo con archivos tuyos. Ni fotos, ni documentos, ni correos, ni contactos. La única excepción es que tú me pidas expresamente una copia de seguridad o una recuperación de datos.",
+     "Si me pides una copia de seguridad, la hago en un soporte tuyo siempre que se pueda: tu disco duro externo, tu pendrive o tu nube. Así tus datos no salen nunca de tus manos.",
+     "Si no hay más remedio que usar un disco mío (por ejemplo, porque hay que formatear y no tienes dónde dejar los archivos mientras tanto), te aviso antes, queda apuntado por escrito en el parte de trabajo y lo borro de forma segura en cuanto el trabajo está acabado. El plazo máximo es de 30 días naturales desde que te devuelvo el equipo, y si antes me confirmas que ya lo tienes todo bien, lo borro en ese mismo momento.",
+     "Borrado seguro quiere decir que no basta con mandar los archivos a la papelera. Se hace un borrado que sobrescribe los datos, o se destruye la clave de cifrado del disco, de manera que no se puedan recuperar ni con programas especiales.",
+     "No leo el contenido de tus correos, ni miro tus fotos una por una, ni abro documentos por curiosidad. Si tengo que abrir algo para comprobar que la reparación ha funcionado (por ejemplo, abrir una foto para ver que se ha recuperado bien), lo hago delante de ti y cerrándolo enseguida.",
+     "No instalo nada que sirva para vigilarte: ni programas de control remoto que se queden puestos sin que lo sepas, ni registradores de teclado, ni nada parecido. Si dejo instalado un antivirus o una herramienta, te digo cuál es, para qué sirve y cómo quitarla.",
+     "No conecto tu equipo a cuentas mías ni dejo sesiones mías abiertas en tu ordenador. Y si por una prueba tengo que iniciar sesión con algo mío, cierro sesión delante de ti.",
+     "No hago fotos de tu pantalla ni de tu casa. Si para un informe técnico hiciera falta una captura, te la enseño y te pido permiso antes.",
+     "Todo lo que hago en tu equipo te lo puedo explicar. Si quieres, te quedas al lado mirando. No me molesta, al contrario: así ves que no hay truco.",
+     "Si hay que llevarse el equipo porque la reparación no se puede hacer en tu casa, te doy un resguardo con lo que me llevo. Mientras está conmigo se guarda en un sitio cerrado con llave y solo se enciende para lo que haga falta reparar.",
+     "Cuando acabo un trabajo, no me quedo con ningún acceso a tus cosas: ni cuentas, ni claves, ni carpetas compartidas, ni copias."
+    ],
+    "va": [
+     "Accedisc només al que és estrictament necessari per a resoldre el problema que m'has demanat. Si l'avaria és del wifi, no obri les teues fotos.",
+     "No copie, no extrac ni em quede amb arxius teus. Ni fotos, ni documents, ni correus, ni contactes. L'única excepció és que tu em demanes expressament una còpia de seguretat o una recuperació de dades.",
+     "Si em demanes una còpia de seguretat, la faig en un suport teu sempre que es puga: el teu disc dur extern, el teu pendrive o el teu núvol. Així les teues dades no ixen mai de les teues mans.",
+     "Si no hi ha més remei que usar un disc meu (per exemple, perquè s'ha de formatar i no tens on deixar els arxius mentrestant), t'avise abans, queda apuntat per escrit en el full de faena i l'esborre de manera segura en acabar la faena. El termini màxim és de 30 dies naturals des que et torne l'equip, i si abans em confirmes que ja ho tens tot bé, l'esborre en eixe mateix moment.",
+     "Esborrat segur vol dir que no basta amb tirar els arxius a la paperera. Es fa un esborrat que sobreescriu les dades, o es destruïx la clau de xifrat del disc, de manera que no es puguen recuperar ni amb programes especials.",
+     "No llig el contingut dels teus correus, ni mire les teues fotos una per una, ni obri documents per curiositat. Si he d'obrir alguna cosa per a comprovar que la reparació ha funcionat (per exemple, obrir una foto per a vore que s'ha recuperat bé), ho faig davant de tu i tancant-ho de seguida.",
+     "No instal·le res que servisca per a vigilar-te: ni programes de control remot que es queden ficats sense que ho sàpies, ni registradors de teclat, ni res paregut. Si deixe instal·lat un antivirus o una ferramenta, et dic quina és, per a què servix i com llevar-la.",
+     "No connecte el teu equip a comptes meus ni deixe sessions meues obertes en el teu ordinador. I si per una prova he d'iniciar sessió amb alguna cosa meua, tanque la sessió davant de tu.",
+     "No faig fotos de la teua pantalla ni de ta casa. Si per a un informe tècnic fera falta una captura, te l'ensenye i et demane permís abans.",
+     "Tot el que faig en el teu equip t'ho puc explicar. Si vols, et quedes al costat mirant. No em molesta, al contrari: així veus que no hi ha cap truc.",
+     "Si m'he d'endur l'equip perquè la reparació no es pot fer a ta casa, et done un resguard amb el que me n'enduc. Mentres està amb mi es guarda en un lloc tancat amb clau i només s'encén per al que faça falta reparar.",
+     "Quan acabe una faena, no em quede amb cap accés a les teues coses: ni comptes, ni claus, ni carpetes compartides, ni còpies."
+    ]
+   }
+  },
+  {
+   "titulo": {
+    "es": "5. Asistencia remota",
+    "va": "5. Assistència remota"
+   },
+   "resumen_llano": {
+    "es": "Si alguna vez te ayudo desde mi casa entrando en tu ordenador por internet, será siempre con tu permiso, contigo delante viendo la pantalla y cerrando la sesión al acabar.",
+    "va": "Si alguna vegada t'ajude des de ma casa entrant en el teu ordinador per internet, serà sempre amb el teu permís, amb tu davant veient la pantalla i tancant la sessió en acabar."
+   },
+   "parrafos": {
+    "es": [
+     "La asistencia remota es cuando, en lugar de ir a tu casa, me conecto a tu ordenador por internet y veo tu pantalla para arreglarte algo. Es cómodo para cosas pequeñas y te ahorra esperar a que pueda desplazarme, pero es también el momento en que más hay que cuidar la confianza.",
+     "Por eso lo hago siempre con las reglas de abajo, sin excepciones. Y si prefieres que vaya en persona aunque tardemos un poco más, se hace así y ya está.",
+     "Un aviso que conviene repetir mucho, sobre todo si eres una persona mayor: hay estafadores que llaman por teléfono diciendo que son del servicio técnico, de Microsoft, de tu operador o del banco, y piden instalar un programa de control remoto para arreglar un problema que no existe. Después vacían la cuenta. Yo nunca te llamaré de improviso para eso. Si te llaman y dudas, cuelga y llámame tú al 644 21 91 18. Nunca es molestia."
+    ],
+    "va": [
+     "L'assistència remota és quan, en compte d'anar a ta casa, em connecte al teu ordinador per internet i veig la teua pantalla per a arreglar-te alguna cosa. És còmode per a coses xicotetes i t'estalvia esperar que jo puga anar, però és també el moment en què més s'ha de cuidar la confiança.",
+     "Per això ho faig sempre amb les regles de baix, sense excepcions. I si preferixes que hi vaja en persona encara que tardem una mica més, es fa així i ja està.",
+     "Un avís que convé repetir molt, sobretot si eres una persona major: hi ha estafadors que criden dient que són del servici tècnic, de Microsoft, del teu operador o del banc, i demanen instal·lar un programa de control remot per a arreglar un problema que no existix. Després buiden el compte. Jo no et cridaré mai de colp per a això. Si et criden i dubtes, penja i crida'm tu al 644 21 91 18. Mai no és cap molèstia."
+    ]
+   },
+   "lista": {
+    "es": [
+     "Solo con tu autorización expresa, pedida en ese mismo momento. Nunca doy por hecho un permiso que me diste una vez anterior.",
+     "Con un programa que instalamos juntos y que abres tú. Tú me das el código de acceso que aparece en tu pantalla. Sin ese código, yo no puedo entrar.",
+     "Contigo delante del ordenador y viendo la pantalla todo el rato. Si te tienes que ir a hacer algo, paramos y lo dejamos para otro momento.",
+     "Antes de empezar te digo qué voy a hacer, y te aviso si en algún paso va a hacer falta abrir algo tuyo.",
+     "No grabo la sesión ni hago capturas de pantalla sin decírtelo antes.",
+     "Al acabar, cierro la sesión y te enseño en tu propia pantalla que se ha cerrado. Si el programa se queda instalado porque lo quieres tener a mano para otra vez, sin un código nuevo que solo tú ves, nadie puede entrar. Y si lo prefieres, lo desinstalamos en el momento.",
+     "No hago asistencia remota para operaciones con tu banco. Si hay que hacer algo con la banca online, lo haces tú, con tus claves y en tu propio dispositivo, y yo como mucho te voy diciendo de palabra dónde tienes que pinchar.",
+     "Tampoco hago asistencia remota para meter tus datos en ningún sitio: eso lo escribes tú."
+    ],
+    "va": [
+     "Només amb la teua autorització expressa, demanada en eixe mateix moment. No done mai per fet un permís que em vas donar una vegada anterior.",
+     "Amb un programa que instal·lem junts i que obris tu. Tu em dones el codi d'accés que apareix en la teua pantalla. Sense eixe codi, jo no puc entrar.",
+     "Amb tu davant de l'ordinador i veient la pantalla tota l'estona. Si te n'has d'anar a fer alguna cosa, parem i ho deixem per a un altre moment.",
+     "Abans de començar et dic què faré, i t'avise si en algun pas farà falta obrir alguna cosa teua.",
+     "No grave la sessió ni faig captures de pantalla sense dir-t'ho abans.",
+     "En acabar, tanque la sessió i t'ensenye en la teua pròpia pantalla que s'ha tancat. Si el programa es queda instal·lat perquè el vols tindre a mà per a un altre dia, sense un codi nou que només veus tu, ningú no pot entrar. I si ho preferixes, el desinstal·lem en el moment.",
+     "No faig assistència remota per a operacions amb el teu banc. Si s'ha de fer alguna cosa amb la banca en línia, la fas tu, amb les teues claus i en el teu propi dispositiu, i jo com a molt et vaig dient de paraula on has de pitjar.",
+     "Tampoc faig assistència remota per a ficar les teues dades enlloc: això ho escrius tu."
+    ]
+   }
+  },
+  {
+   "titulo": {
+    "es": "6. Cuánto tiempo guardo tus datos",
+    "va": "6. Quant de temps guarde les teues dades"
+   },
+   "resumen_llano": {
+    "es": "No guardo tus datos para siempre. Los de contacto, mientras seas cliente y un tiempo después por si hay reclamaciones. Las facturas, lo que obliga la ley. Lo demás se borra.",
+    "va": "No guarde les teues dades per a sempre. Les de contacte, mentres sigues client i un temps després per si hi ha reclamacions. Les factures, el que obliga la llei. La resta s'esborra."
+   },
+   "parrafos": {
+    "es": [
+     "Los plazos no me los invento: unos vienen de la ley y otros del tiempo que se puede tardar en reclamar algo. Estos son:",
+     "Cuando se cumplen los plazos, los datos se borran de forma segura o se bloquean. Bloquear quiere decir guardarlos apartados y sin usarlos, solo a disposición de jueces, tribunales y administraciones públicas mientras no prescriban las responsabilidades. Es lo que dice el artículo 32 de la Ley Orgánica 3/2018."
+    ],
+    "va": [
+     "Els terminis no me'ls invente: uns venen de la llei i altres del temps que es pot tardar a reclamar alguna cosa. Estos són:",
+     "Quan es complixen els terminis, les dades s'esborren de manera segura o es bloquegen. Bloquejar vol dir guardar-les apartades i sense usar-les, només a disposició de jutges, tribunals i administracions públiques mentres no prescriguen les responsabilitats. És el que diu l'article 32 de la Llei Orgànica 3/2018."
+    ]
+   },
+   "lista": {
+    "es": [
+     "Datos de contacto e historial de visitas: mientras dure nuestra relación y, después, hasta que prescriban las posibles reclamaciones. Para los contratos de servicios ese plazo es de cinco años (artículo 1964.2 del Código Civil). En la práctica cuento cinco años desde el último servicio que te hice.",
+     "Facturas y justificantes contables: seis años desde el último apunte contable, porque lo exige el artículo 30 del Código de Comercio.",
+     "Datos con efecto fiscal: cuatro años, que es el plazo que tiene Hacienda para revisar o reclamar (artículos 66 y siguientes de la Ley 58/2003, General Tributaria). Como los seis años del Código de Comercio son más largos, en la práctica mandan los seis.",
+     "Presupuestos que no acaban en trabajo: un año como máximo, y antes si me dices que ya no te interesa.",
+     "Copias de seguridad hechas en un soporte mío: 30 días naturales como máximo desde que te devuelvo el equipo, y antes si me confirmas que ya lo tienes todo. Después, borrado seguro.",
+     "Mensajes de WhatsApp o correos sobre un trabajo ya cerrado: los borro cuando ya no hacen falta y, en todo caso, dentro del plazo de cinco años de arriba.",
+     "Contraseñas de tus equipos o de tu wifi: no las guardo. Se usan en el momento y ya está. No quedan apuntadas en ningún papel ni en ningún archivo.",
+     "Partes de trabajo, presupuestos aceptados y los papeles que firmas antes de empezar (la solicitud de que empiece ya, la renuncia al presupuesto): cinco años desde el servicio. Son la prueba de lo que acordamos tú y yo, y me protegen a mí tanto como a ti.",
+     "Justificantes de la garantía del material que te vendo: tres años desde que te lo entrego, que es lo que dura la garantía legal, más el tiempo que pueda tardar una reclamación. Los justificantes de una reparación los guardo al menos los tres meses de garantía, y en la práctica van dentro del plazo de cinco años de arriba.",
+     "Los cuatro años de Hacienda se cuentan desde que acaba el plazo para presentar la declaración correspondiente, no desde el día del servicio. En algún caso concreto la ley alarga ese plazo, y entonces se alarga también la conservación."
+    ],
+    "va": [
+     "Dades de contacte i historial de visites: mentres dure la nostra relació i, després, fins que prescriguen les possibles reclamacions. Per als contractes de servicis eixe termini és de cinc anys (article 1964.2 del Codi Civil). A la pràctica compte cinc anys des de l'últim servici que et vaig fer.",
+     "Factures i justificants comptables: sis anys des de l'últim apunt comptable, perquè ho exigix l'article 30 del Codi de Comerç.",
+     "Dades amb efecte fiscal: quatre anys, que és el termini que té Hisenda per a revisar o reclamar (articles 66 i següents de la Llei 58/2003, General Tributària). Com que els sis anys del Codi de Comerç són més llargs, a la pràctica manen els sis.",
+     "Pressupostos que no acaben en faena: un any com a màxim, i abans si em dius que ja no t'interessa.",
+     "Còpies de seguretat fetes en un suport meu: 30 dies naturals com a màxim des que et torne l'equip, i abans si em confirmes que ja ho tens tot. Després, esborrat segur.",
+     "Missatges de WhatsApp o correus sobre una faena ja tancada: els esborre quan ja no fan falta i, en tot cas, dins del termini de cinc anys de dalt.",
+     "Contrasenyes dels teus equips o del teu wifi: no les guarde. S'usen en el moment i ja està. No queden apuntades en cap paper ni en cap arxiu.",
+     "Fulls de faena, pressupostos acceptats i els papers que firmes abans de començar (la sol·licitud que comence ja, la renúncia al pressupost): cinc anys des del servici. Són la prova del que vam acordar tu i jo, i em protegixen a mi tant com a tu.",
+     "Justificants de la garantia del material que et venc: tres anys des que te l'entregue, que és el que dura la garantia legal, més el temps que puga tardar una reclamació. Els justificants d'una reparació els guarde com a mínim els tres mesos de garantia, i a la pràctica van dins del termini de cinc anys de dalt.",
+     "Els quatre anys d'Hisenda es compten des que acaba el termini per a presentar la declaració corresponent, no des del dia del servici. En algun cas concret la llei allarga eixe termini, i en eixe cas s'allarga també la conservació."
+    ]
+   }
+  },
+  {
+   "titulo": {
+    "es": "7. A quién le doy tus datos",
+    "va": "7. A qui done les teues dades"
+   },
+   "resumen_llano": {
+    "es": "No vendo ni cedo tus datos a nadie para publicidad. Pero uso el correo de Google y el WhatsApp de Meta, y eso hay que contarlo: aquí están todos, con nombre y apellidos.",
+    "va": "No venc ni cedisc les teues dades a ningú per a publicitat. Però use el correu de Google i el WhatsApp de Meta, i això s'ha de contar: ací estan tots, amb nom i cognoms."
+   },
+   "parrafos": {
+    "es": [
+     "La regla es sencilla: tus datos no se venden, no se ceden para publicidad y no circulan en ninguna lista de clientes. Lo que sí tengo que contarte es qué empresas hay por medio cuando hablamos, porque las hay.",
+     "Las únicas excepciones son las de abajo, y todas existen porque hacen falta para poder trabajar legalmente o porque lo manda la ley.",
+     "Para poder trabajar uso herramientas de otras empresas, y prefiero decírtelo con nombres y apellidos en vez de esconderlo detrás de un «no cedo datos a nadie».",
+     "Estas empresas tienen matriz en Estados Unidos, así que sí hay transferencias internacionales de datos fuera del Espacio Económico Europeo. Están amparadas en la decisión de adecuación de la Comisión Europea de 10 de julio de 2023 sobre el Marco de Privacidad de Datos UE-EE. UU., en el que están certificadas, y en las cláusulas contractuales tipo aprobadas por la Comisión, que son el otro mecanismo de garantía del capítulo V del RGPD. Si esa decisión dejara de estar en vigor, buscaría otra vía con esas mismas garantías o cambiaría de herramienta, y lo diría aquí antes de hacerlo.",
+     "Si prefieres que no haya ninguna empresa de por medio, llámame por teléfono o dímelo cuando venga a tu casa. Una llamada y una libreta no dejan tus datos en ningún servidor. Con la llamada intervienen tu operadora y la mía, y los dos teléfonos móviles, que registran el número y la hora como hacen con cualquier llamada, pero ni ellas ni yo guardamos ahí nada de lo que me cuentes.",
+     "No te digo esto para asustarte. Te lo digo porque es la verdad y porque, si te importa, tienes una alternativa fácil: el teléfono."
+    ],
+    "va": [
+     "La regla és senzilla: les teues dades no es venen, no es cedixen per a publicitat i no circulen en cap llista de clients. El que sí que t'he de contar és quines empreses hi ha pel mig quan parlem, perquè n'hi ha.",
+     "Les úniques excepcions són les de baix, i totes existixen perquè fan falta per a poder treballar legalment o perquè ho mana la llei.",
+     "Per a poder treballar use ferramentes d'altres empreses, i preferisc dir-t'ho amb noms i cognoms en compte d'amagar-ho darrere d'un «no cedisc dades a ningú».",
+     "Estes empreses tenen matriu als Estats Units, així que sí que hi ha transferències internacionals de dades fora de l'Espai Econòmic Europeu. Estan emparades en la decisió d'adequació de la Comissió Europea de 10 de juliol de 2023 sobre el Marc de Privacitat de Dades UE-EUA, en el qual estan certificades, i en les clàusules contractuals tipus aprovades per la Comissió, que són l'altre mecanisme de garantia del capítol V del RGPD. Si eixa decisió deixara d'estar en vigor, buscaria una altra via amb eixes mateixes garanties o canviaria de ferramenta, i ho diria ací abans de fer-ho.",
+     "Si preferixes que no hi haja cap empresa pel mig, crida'm o digues-m'ho quan vaja a ta casa. Parlar per telèfon i apuntar-ho en una llibreta no deixa les teues dades en cap servidor. Quan em crides hi intervenen la teua operadora i la meua, i els dos telèfons mòbils, que registren el número i l'hora com fan sempre que algú crida, però ni elles ni jo guardem ahí res del que em contes.",
+     "No t'ho dic per a espantar-te. T'ho dic perquè és la veritat i perquè, si t'importa, tens una alternativa fàcil: el telèfon."
+    ]
+   },
+   "lista": {
+    "es": [
+     "Google Ireland Limited, por el correo electrónico. Los correos que me mandas y los que te mando yo se guardan en sus servidores. Mi dirección es una cuenta de Gmail.",
+     "Meta Platforms Ireland Limited, si me escribes por WhatsApp. El contenido de los mensajes va cifrado de extremo a extremo y Meta no lo lee, pero sí trata tu número de teléfono y el hecho de que hablas conmigo, con sus propias condiciones, que no dependen de mí.",
+     "GitHub, Inc., que es la empresa donde están guardadas las páginas de esta web. Cuando abres una página, su servidor anota en sus registros técnicos la dirección IP desde la que entras, la fecha y la hora, igual que hace cualquier servidor de internet. Yo no veo esos registros, no tengo ninguna herramienta que cuente visitas y no puedo saber quién eres.",
+     "Tu operadora de teléfono y la mía, si me llamas o me mandas un mensaje. Eso pasa con cualquier llamada que hagas a cualquier sitio, y ahí yo no pinto nada.",
+     "Mi asesoría o gestoría, para llevar la contabilidad y presentar los impuestos. Accede solo a las facturas, nunca a nada que tenga que ver con tus equipos. Con la asesoría hay firmado un contrato de encargo del tratamiento, que es el que exige el artículo 28 del RGPD.",
+     "La Agencia Tributaria y la Seguridad Social, cuando la ley obliga a informar.",
+     "La entidad bancaria, para poder cobrar el servicio si pagas por transferencia o por Bizum.",
+     "Jueces, tribunales, Fuerzas y Cuerpos de Seguridad y administraciones públicas, cuando lo pidan legalmente y tenga obligación de atenderlo.",
+     "Y nadie más. No hay empresas de publicidad, ni redes sociales, ni plataformas de marketing, ni listas compartidas con otros técnicos. Las cuatro de arriba son herramientas para hablar contigo y para que la web esté en internet, no clientes a los que yo venda nada tuyo."
+    ],
+    "va": [
+     "Google Ireland Limited, pel correu electrònic. Els correus que m'envies i els que t'envie jo es guarden en els seus servidors. La meua adreça és un compte de Gmail.",
+     "Meta Platforms Ireland Limited, si m'escrius per WhatsApp. El contingut dels missatges va xifrat d'extrem a extrem i Meta no el llig, però sí que tracta el teu número de telèfon i el fet que parles amb mi, amb les seues pròpies condicions, que no depenen de mi.",
+     "GitHub, Inc., que és l'empresa on estan guardades les pàgines d'esta web. Quan obris una pàgina, el seu servidor anota en els seus registres tècnics l'adreça IP des de la qual entres, la data i l'hora, igual que fa qualsevol servidor d'internet. Jo no veig eixos registres, no tinc cap ferramenta que compte visites i no puc saber qui eres.",
+     "La teua operadora de telèfon i la meua, si em crides o m'envies un missatge. Això passa sempre que crides a qualsevol lloc, i ahí jo no hi pinte res.",
+     "La meua assessoria o gestoria, per a portar la comptabilitat i presentar els impostos. Accedix només a les factures, mai a res que tinga a vore amb els teus equips. Amb l'assessoria hi ha firmat un contracte d'encàrrec del tractament, que és el que exigix l'article 28 del RGPD.",
+     "L'Agència Tributària i la Seguretat Social, quan la llei obliga a informar.",
+     "L'entitat bancària, per a poder cobrar el servici si pagues per transferència o per Bizum.",
+     "Jutges, tribunals, Forces i Cossos de Seguretat i administracions públiques, quan ho demanen legalment i tinga obligació d'atendre-ho.",
+     "I ningú més. No hi ha empreses de publicitat, ni xarxes socials, ni plataformes de màrqueting, ni llistes compartides amb altres tècnics. Les quatre de dalt són ferramentes per a parlar amb tu i perquè la web estiga en internet, no clients a qui jo venga res teu."
+    ]
+   }
+  },
+  {
+   "titulo": {
+    "es": "8. Si eres una empresa o un autónomo: el contrato de encargo",
+    "va": "8. Si eres una empresa o un autònom: el contracte d'encàrrec"
+   },
+   "resumen_llano": {
+    "es": "Si tienes un negocio y toco un ordenador donde hay datos de tus clientes, de tus empleados o de tus pacientes, la ley me trata como a alguien que trabaja con datos tuyos. Y hay que firmar un papel, que te protege a ti.",
+    "va": "Si tens un negoci i toque un ordinador on hi ha dades dels teus clients, dels teus empleats o dels teus pacients, la llei em tracta com algú que treballa amb dades teues. I s'ha de firmar un paper, que et protegix a tu."
+   },
+   "parrafos": {
+    "es": [
+     "Ejemplos de los de aquí: la peluquería con la agenda de clientas, el taller con el fichero de vehículos y sus dueños, la tienda con la lista de pedidos, la gestoría con las nóminas, el fisio o la clínica con historiales, la cooperativa agrícola con los datos de los socios.",
+     "En esos casos tú eres el responsable del tratamiento, porque los datos son de tus clientes y eres tú quien decide qué se hace con ellos. Y yo soy el encargado del tratamiento, que quiere decir que los trato por cuenta tuya y solo siguiendo tus instrucciones.",
+     "El RGPD exige que eso se ponga por escrito, en lo que se llama contrato de encargo del tratamiento, regulado en el artículo 28 del RGPD. Lo tengo preparado, es corto y te lo doy firmado antes de empezar a trabajar. No te cuesta nada aparte de leerlo, y te cubre a ti si algún día te miran.",
+     "Si tienes un servidor, una base de datos o un programa de gestión con información sensible (historiales de salud, por ejemplo), lo hablamos antes de tocar nada y decidimos juntos cómo se hace la intervención, para que se toque lo mínimo y quede constancia de lo que se ha hecho.",
+     "Y una cosa práctica: si tu negocio tiene cámaras, ficheros de personal o una web que recoge datos, y ves que ahí hay cosas sin hacer, te lo digo, pero no soy asesor jurídico. Para eso está tu gestoría o un despacho especializado. Yo me ocupo de la parte técnica."
+    ],
+    "va": [
+     "Exemples de negocis d'ací: la perruqueria amb l'agenda de clientes, el taller amb el fitxer de vehicles i els seus amos, la botiga amb la llista de comandes, la gestoria amb les nòmines, el fisio o la clínica amb historials, la cooperativa agrícola amb les dades dels socis.",
+     "En eixos casos tu eres el responsable del tractament, perquè les dades són dels teus clients i eres tu qui decidix què se'n fa. I jo soc l'encarregat del tractament, que vol dir que les tracte per compte teu i només seguint les teues instruccions.",
+     "El RGPD exigix que això es pose per escrit, en el que es diu contracte d'encàrrec del tractament, regulat en l'article 28 del RGPD. El tinc preparat, és curt i te'l done firmat abans de començar a treballar. No et costa res, només llegir-lo, i et cobrix a tu si algun dia et miren.",
+     "Si tens un servidor, una base de dades o un programa de gestió amb informació sensible (historials de salut, per exemple), ho parlem abans de tocar res i decidim junts com es fa la intervenció, perquè es toque el mínim i quede constància del que s'ha fet.",
+     "I una cosa pràctica: si el teu negoci té càmeres, fitxers de personal o una web que arreplega dades, i veus que ahí hi ha coses per fer, t'ho dic, però no soc assessor jurídic. Per a això està la teua gestoria o un despatx especialitzat. Jo m'ocupe de la part tècnica."
+    ]
+   },
+   "lista": {
+    "es": [
+     "Qué dice ese contrato, como mínimo: el objeto, la duración, la naturaleza y la finalidad del trabajo, y qué tipo de datos y de personas afecta.",
+     "Que trato los datos únicamente siguiendo tus instrucciones documentadas, y que no los uso para nada mío.",
+     "Que guardo secreto, y que cualquiera que trabajase conmigo se comprometería a lo mismo. Como trabajo solo, en la práctica el compromiso es mío y de nadie más.",
+     "Las medidas de seguridad que aplico, que son las del artículo 32 del RGPD y las que tienes explicadas en el apartado 10.",
+     "Que no subcontrato a nadie sin tu autorización por escrito.",
+     "Que te ayudo si un cliente tuyo, un empleado o un paciente ejerce sus derechos y la petición me toca a mí de alguna manera.",
+     "Que te aviso sin dilación indebida si hay una brecha de seguridad que afecte a datos tuyos, para que tú puedas cumplir con tus plazos.",
+     "Que al acabar el trabajo borro o te devuelvo los datos, según lo que tú elijas, y que borro las copias que hubiera, salvo que la ley me obligue a conservarlas.",
+     "Que te pongo a disposición la información que necesites para comprobar que cumplo con todo esto."
+    ],
+    "va": [
+     "Què diu eixe contracte, com a mínim: l'objecte, la duració, la naturalesa i la finalitat de la faena, i quin tipus de dades i de persones afecta.",
+     "Que tracte les dades únicament seguint les teues instruccions documentades, i que no les use per a res meu.",
+     "Que guarde secret, i que qualsevol que treballara amb mi es comprometria al mateix. Com que treballe a soles, a la pràctica el compromís és meu i de ningú més.",
+     "Les mesures de seguretat que aplique, que són les de l'article 32 del RGPD i les que tens explicades en l'apartat 10.",
+     "Que no subcontracte ningú sense la teua autorització per escrit.",
+     "Que t'ajude si un client teu, un empleat o un pacient exercix els seus drets i la petició em toca a mi d'alguna manera.",
+     "Que t'avise sense dilació indeguda si hi ha una bretxa de seguretat que afecte dades teues, perquè tu pugues complir amb els teus terminis.",
+     "Que en acabar la faena esborre o et torne les dades, segons el que tu tries, i que esborre les còpies que hi haguera, menys si la llei m'obliga a conservar-les.",
+     "Que et pose a disposició la informació que necessites per a comprovar que complisc amb tot això."
+    ]
+   }
+  },
+  {
+   "titulo": {
+    "es": "9. Tus derechos sobre tus datos",
+    "va": "9. Els teus drets sobre les teues dades"
+   },
+   "resumen_llano": {
+    "es": "Tus datos son tuyos. Puedes pedirme ver lo que tengo, corregirlo o que lo borre. Es gratis y basta con una llamada o un correo. No hace falta ningún formulario raro ni ningún abogado.",
+    "va": "Les teues dades són teues. Pots demanar-me vore el que tinc, corregir-ho o que ho esborre. És gratis i només cal que em crides o m'envies un correu. No fa falta cap formulari rar ni cap advocat."
+   },
+   "parrafos": {
+    "es": [
+     "La ley te da una serie de derechos sobre tus datos. Los tienes explicados en la lista de abajo, en palabras normales.",
+     "Para ejercerlos, escríbeme a nestorlafont@gmail.com o llámame al 644 21 91 18 y dime qué quieres. Con que me digas quién eres y qué pides, sobra. Si la petición es delicada o no tengo claro con quién hablo, puedo pedirte que me enseñes el DNI, solo para asegurarme de que eres tú y no otra persona haciéndose pasar por ti.",
+     "Te respondo en el plazo de un mes desde que me lo pides. Si la petición es complicada, ese plazo se puede alargar dos meses más, pero entonces te aviso dentro del primer mes y te explico por qué (artículo 12.3 del RGPD).",
+     "Ejercer cualquiera de estos derechos es gratis. Solo podría cobrar un coste razonable si las peticiones fueran claramente infundadas o repetitivas, y aun así te lo diría antes de hacer nada.",
+     "Si crees que no te he atendido bien o que hago algo mal con tus datos, dímelo primero a mí y lo arreglamos. Y si aun así no quedas conforme, puedes reclamar ante la Agencia Española de Protección de Datos, que es el organismo público que vigila esto. Reclamar es gratuito y no hace falta abogado ni procurador.",
+     "Agencia Española de Protección de Datos. Web: www.aepd.es. Sede electrónica para presentar la reclamación por internet: sedeaepd.gob.es. Dirección postal: calle Jorge Juan 6, 28001 Madrid."
+    ],
+    "va": [
+     "La llei et dona una sèrie de drets sobre les teues dades. Els tens explicats en la llista de baix, en paraules normals.",
+     "Per a exercir-los, escriu-me a nestorlafont@gmail.com o crida'm al 644 21 91 18 i digues-me què vols. Només cal que em digues qui eres i què vols. Si la petició és delicada o no tinc clar amb qui parle, puc demanar-te que m'ensenyes el DNI, només per a assegurar-me que eres tu i no una altra persona fent-se passar per tu.",
+     "Et responc en el termini d'un mes des que m'ho demanes. Si la petició és complicada, eixe termini es pot allargar dos mesos més, però en eixe cas t'avise dins del primer mes i t'explique per què (article 12.3 del RGPD).",
+     "Exercir qualsevol d'estos drets és gratis. Només podria cobrar un cost raonable si les peticions foren clarament infundades o repetitives, i així i tot t'ho diria abans de fer res.",
+     "Si creus que no t'he atés bé o que faig alguna cosa malament amb les teues dades, digues-m'ho primer a mi i ho arreglem. I si així i tot no quedes conforme, pots reclamar davant de l'Agència Espanyola de Protecció de Dades, que és l'organisme públic que vigila això. Reclamar és gratuït i no fa falta advocat ni procurador.",
+     "Agència Espanyola de Protecció de Dades. Web: www.aepd.es. Seu electrònica per a presentar la reclamació per internet: sedeaepd.gob.es. Adreça postal: carrer Jorge Juan 6, 28001 Madrid."
+    ]
+   },
+   "lista": {
+    "es": [
+     "Acceso: que te diga qué datos tuyos tengo, de dónde salieron y para qué los uso.",
+     "Rectificación: que corrija un dato que está mal, por ejemplo si te has cambiado de casa o si tengo un teléfono equivocado.",
+     "Supresión, que es el llamado derecho al olvido: que borre tus datos cuando ya no hagan falta. Aviso honesto: las facturas no las puedo borrar antes de tiempo, porque la ley me obliga a guardarlas los plazos del apartado 6.",
+     "Oposición: que deje de usar tus datos para algo concreto, por ejemplo para el historial de visitas.",
+     "Limitación: que los guarde pero no los use, mientras se aclara alguna discusión sobre ellos.",
+     "Portabilidad: que te dé los datos que me hayas dado tú en un archivo normal, para que te los puedas llevar a otro sitio.",
+     "A no ser objeto de decisiones automatizadas ni de perfiles: como no hago ninguna, este derecho no se te va a aplicar nunca aquí, pero lo tienes igualmente.",
+     "A retirar el consentimiento en cualquier momento, si alguna vez lo has dado para algo concreto. Retirarlo no afecta a lo que ya se hizo antes de retirarlo."
+    ],
+    "va": [
+     "Accés: que et diga quines dades teues tinc, d'on van eixir i per a què les use.",
+     "Rectificació: que corregisca una dada que està malament, per exemple si t'has canviat de casa o si tinc un telèfon equivocat.",
+     "Supressió, el que es diu dret a l'oblit: que esborre les teues dades quan ja no facen falta. Avís honest: les factures no les puc esborrar abans de temps, perquè la llei m'obliga a guardar-les els terminis de l'apartat 6.",
+     "Oposició: que deixe d'usar les teues dades per a alguna cosa concreta, per exemple per a l'historial de visites.",
+     "Limitació: que les guarde però no les use, mentres s'aclarix alguna discussió sobre elles.",
+     "Portabilitat: que et done les dades que m'hages donat tu en un arxiu normal, perquè te les pugues emportar a un altre lloc.",
+     "A no ser objecte de decisions automatitzades ni de perfils: com que no en faig cap, este dret no se t'aplicarà mai ací, però el tens igualment.",
+     "A retirar el consentiment en qualsevol moment, si alguna vegada l'has donat per a alguna cosa concreta. Retirar-lo no afecta el que ja es va fer abans de retirar-lo."
+    ]
+   }
+  },
+  {
+   "titulo": {
+    "es": "10. Cómo protejo la información y qué pasa si hay un problema",
+    "va": "10. Com protegisc la informació i què passa si hi ha un problema"
+   },
+   "resumen_llano": {
+    "es": "Mi propio ordenador está protegido de verdad, no de boquilla. Y si alguna vez hubiera un problema de seguridad que te afectara, te lo diría. No lo escondería.",
+    "va": "El meu propi ordinador està protegit de veritat, no de boqueta. I si alguna vegada hi haguera un problema de seguretat que t'afectara, t'ho diria. No ho amagaria."
+   },
+   "parrafos": {
+    "es": [
+     "Las medidas que aplico son las que corresponden al riesgo de esta actividad, como pide el artículo 32 del RGPD. Y son las mismas que te recomiendo a ti, porque si yo no las cumpliera no tendría ninguna autoridad para pedírtelas.",
+     "Una brecha de seguridad es cualquier fallo que haga que unos datos se pierdan, se destruyan, se alteren o acaben en manos de quien no debe. Por ejemplo, que me roben el portátil, que alguien entre en mi correo o que se extravíe un disco con una copia.",
+     "Si pasara algo así, lo notificaría a la Agencia Española de Protección de Datos en un plazo máximo de 72 horas desde que lo detecte, que es lo que manda el artículo 33 del RGPD. Si no llegara a tiempo, tendría que explicar por qué me he retrasado.",
+     "Y si la brecha pudiera suponer un riesgo alto para ti, te avisaría a ti directamente y sin demora, contándote qué ha pasado, qué datos tuyos afecta, qué estoy haciendo para arreglarlo y qué te conviene hacer a ti (por ejemplo, cambiar una contraseña). Lo dice el artículo 34 del RGPD.",
+     "Te lo diría aunque quedara feo y aunque me costara un cliente. Prefiero eso a que te enteres por otro lado o a que no te enteres nunca."
+    ],
+    "va": [
+     "Les mesures que aplique són les que corresponen al risc d'esta activitat, com demana l'article 32 del RGPD. I són les mateixes que et recomane a tu, perquè si jo no les complira no tindria cap autoritat per a demanar-te-les.",
+     "Una bretxa de seguretat és qualsevol fallada que faça que unes dades es perden, es destruïsquen, s'alteren o acaben en mans de qui no deu. Per exemple, que em roben el portàtil, que algú entre en el meu correu o que s'extravie un disc amb una còpia.",
+     "Si passara alguna cosa així, ho notificaria a l'Agència Espanyola de Protecció de Dades en un termini màxim de 72 hores des que ho detecte, que és el que mana l'article 33 del RGPD. Si no hi aplegara a temps, hauria d'explicar per què m'he retardat.",
+     "I si la bretxa poguera suposar un risc alt per a tu, t'avisaria a tu directament i sense demora, contant-te què ha passat, quines dades teues afecta, què estic fent per a arreglar-ho i què et convé fer a tu (per exemple, canviar una contrasenya). Ho diu l'article 34 del RGPD.",
+     "T'ho diria encara que quedara lleig i encara que em costara un client. Preferisc això que no que te n'enteres per un altre costat o que no te n'enteres mai."
+    ]
+   },
+   "lista": {
+    "es": [
+     "El disco de mi ordenador y el de mi móvil están cifrados. Cifrar quiere decir que, si me roban el aparato, quien lo tenga no puede leer nada sin la clave.",
+     "Contraseñas largas y distintas para cada servicio, guardadas en un gestor de contraseñas. No en un papel, ni en un cuaderno, ni en un archivo de texto del escritorio.",
+     "Verificación en dos pasos (lo que llaman doble factor) en el correo y en las cuentas importantes. Es ese código adicional que hay que poner además de la contraseña, y hace que con robarte la clave no baste.",
+     "Sistema operativo y programas siempre actualizados, y protección antivirus al día.",
+     "Copias de seguridad de mi propia información, también cifradas, para no perder un parte de trabajo ni una factura tuya.",
+     "Los discos y pendrives que uso para trabajos de clientes se borran de forma segura al acabar cada trabajo. Cuando un disco se retira, se destruye físicamente o se borra de manera que no se pueda recuperar nada.",
+     "Los papeles con datos (partes de trabajo, facturas en papel, notas) se guardan cerrados con llave. Cuando toca destruirlos, se destruyen con destructora de papel, no se tiran enteros a la basura.",
+     "Al ordenador de trabajo solo accedo yo. Nadie de mi familia ni conocidos lo usan, ni para mirar el correo.",
+     "Si trabajo fuera de casa, no uso wifis públicas abiertas para nada que tenga que ver con datos de clientes.",
+     "Llevo un registro de las actividades de tratamiento, que es un documento interno donde queda apuntado qué datos trato, para qué y cuánto tiempo, tal como pide el artículo 30 del RGPD."
+    ],
+    "va": [
+     "El disc del meu ordinador i el del meu mòbil estan xifrats. Xifrar vol dir que, si em roben l'aparell, qui el tinga no pot llegir res sense la clau.",
+     "Contrasenyes llargues i diferents per a cada servici, guardades en un gestor de contrasenyes. No en un paper, ni en una llibreta, ni en un arxiu de text de l'escriptori.",
+     "Verificació en dos passos (el que diuen doble factor) en el correu i en els comptes importants. És eixe codi addicional que s'ha de ficar a més de la contrasenya, i fa que no baste amb robar-te la clau.",
+     "Sistema operatiu i programes sempre actualitzats, i protecció antivirus al dia.",
+     "Còpies de seguretat de la meua pròpia informació, també xifrades, per a no perdre un full de faena ni una factura teua.",
+     "Els discos i pendrives que use per a faenes de clients s'esborren de manera segura en acabar cada faena. Quan un disc es retira, es destruïx físicament o s'esborra de manera que no es puga recuperar res.",
+     "Els papers amb dades (fulls de faena, factures en paper, notes) es guarden tancats amb clau. Quan toca destruir-los, es destruïxen amb destructora de paper, no es tiren sencers al fem.",
+     "A l'ordinador de faena només accedisc jo. Ningú de la meua família ni coneguts l'usen, ni per a mirar el correu.",
+     "Si treballe fora de casa, no use wifis públiques obertes per a res que tinga a vore amb dades de clients.",
+     "Porte un registre de les activitats de tractament, que és un document intern on queda apuntat quines dades tracte, per a què i quant de temps, tal com demana l'article 30 del RGPD."
+    ]
+   }
+  },
+  {
+   "titulo": {
+    "es": "11. Menores de edad",
+    "va": "11. Menors d'edat"
+   },
+   "resumen_llano": {
+    "es": "Si el equipo es de un crío, quien me llama, quien me abre la puerta y quien autoriza el trabajo tiene que ser el padre, la madre o el tutor.",
+    "va": "Si l'equip és d'un xiquet, qui em crida, qui m'obri la porta i qui autoritza la faena ha de ser el pare, la mare o el tutor."
+   },
+   "parrafos": {
+    "es": [
+     "Mis servicios los contratan personas mayores de edad. Puedo reparar el ordenador o el móvil de un chaval, claro que sí, pero el encargo lo tiene que hacer un adulto responsable de él.",
+     "En España, un menor puede dar su consentimiento para el tratamiento de sus datos a partir de los 14 años (artículo 7 de la Ley Orgánica 3/2018). Por debajo de esa edad hace falta el consentimiento de quien tenga la patria potestad o la tutela. En cualquier caso, para contratar un servicio y pagarlo hace falta un adulto.",
+     "Si estoy trabajando en el equipo de un menor y aparece información suya, se aplica exactamente lo mismo que con cualquier otra persona: se mira solo lo necesario y se guarda secreto.",
+     "Y una cosa que digo por delante: si durante una reparación apareciera algo que hiciera temer de verdad por la seguridad de un menor, se lo comentaría a sus padres o tutores. No voy a hacer de policía ni a revisar nada, pero tampoco voy a mirar hacia otro lado si me lo encuentro de cara."
+    ],
+    "va": [
+     "Els meus servicis els contracten persones majors d'edat. Puc reparar l'ordinador o el mòbil d'un xicon, i tant, però l'encàrrec l'ha de fer un adult responsable d'ell.",
+     "A Espanya, un menor pot donar el seu consentiment per al tractament de les seues dades a partir dels 14 anys (article 7 de la Llei Orgànica 3/2018). Per davall d'eixa edat fa falta el consentiment de qui tinga la pàtria potestat o la tutela. En tot cas, per a contractar un servici i pagar-lo fa falta un adult.",
+     "Si estic treballant en l'equip d'un menor i apareix informació seua, s'aplica exactament el mateix que amb qualsevol altra persona: es mira només el necessari i es guarda secret.",
+     "I una cosa que dic per davant: si durant una reparació apareguera alguna cosa que fera témer de veritat per la seguretat d'un menor, ho comentaria als seus pares o tutors. No faré de policia ni revisaré res, però tampoc miraré cap a un altre costat si m'ho trobe de cara."
+    ]
+   },
+   "lista": {
+    "es": [],
+    "va": []
+   }
+  },
+  {
+   "titulo": {
+    "es": "12. Cómo te informo cuando me llamas, me escribes o vengo a tu casa",
+    "va": "12. Com t'informe quan em crides, m'escrius o vinc a ta casa"
+   },
+   "resumen_llano": {
+    "es": "Casi nadie se lee una web entera, y lo entiendo. Por eso te cuento lo básico de palabra y te lo dejo por escrito en el papel que firmas.",
+    "va": "Quasi ningú es llig una web sencera, i ho entenc. Per això et conte el bàsic de paraula i t'ho deixe per escrit en el paper que firmes."
+   },
+   "parrafos": {
+    "es": [
+     "La ley obliga a informarte en el momento en que recojo tus datos, no después (artículo 13 del RGPD). Y el momento de verdad no es cuando entras en esta página: es cuando me llamas por teléfono o cuando llamo yo a tu puerta.",
+     "Por eso, cuando cerramos el encargo te digo de palabra quién soy, para qué necesito tus datos y cuánto tiempo los guardo, y te lo dejo por escrito en el parte de trabajo, en el recuadro que tienes justo encima de la firma. Es esto, en corto:",
+     "Si quieres el detalle completo, esta misma página lo explica todo, y si prefieres que te lo cuente por teléfono, llámame al 644 21 91 18 y te lo explico las veces que haga falta."
+    ],
+    "va": [
+     "La llei obliga a informar-te en el moment en què arreplegue les teues dades, no després (article 13 del RGPD). I el moment de veritat no és quan entres en esta pàgina: és quan em crides o quan toque jo a la teua porta.",
+     "Per això, quan tanquem l'encàrrec et dic de paraula qui soc, per a què necessite les teues dades i quant de temps les guarde, i t'ho deixe per escrit en el full de faena, en el requadre que tens just damunt de la firma. És això, resumit:",
+     "Si vols el detall complet, esta mateixa pàgina ho explica tot, i si preferixes que t'ho conte per telèfon, crida'm al 644 21 91 18 i t'ho explique les voltes que faça falta."
+    ]
+   },
+   "lista": {
+    "es": [
+     "Responsable: Néstor Soriano López, La Font de la Figuera.",
+     "Finalidad: prestarte el servicio, facturarlo y poder atenderte después.",
+     "Base jurídica: el contrato que cerramos tú y yo, y mis obligaciones fiscales.",
+     "Conservación: los plazos legales del apartado 6.",
+     "Destinatarios: mi gestoría y la Administración. Si hablamos por WhatsApp o por correo, también las empresas del apartado 7.",
+     "Derechos: puedes acceder, rectificar, suprimir, oponerte, limitar y portar tus datos escribiendo a nestorlafont@gmail.com o llamando al 644 21 91 18, y reclamar ante la Agencia Española de Protección de Datos (www.aepd.es).",
+     "Información completa: https://nsorlop.github.io/nestorinformatico/legal.html"
+    ],
+    "va": [
+     "Responsable: Néstor Soriano López, la Font de la Figuera.",
+     "Finalitat: prestar-te el servici, facturar-lo i poder atendre't després.",
+     "Base jurídica: el contracte que tanquem tu i jo, i les meues obligacions fiscals.",
+     "Conservació: els terminis legals de l'apartat 6.",
+     "Destinataris: la meua gestoria i l'Administració. Si parlem per WhatsApp o per correu, també les empreses de l'apartat 7.",
+     "Drets: pots accedir, rectificar, suprimir, oposar-te, limitar i portar les teues dades escrivint a nestorlafont@gmail.com o cridant-me al 644 21 91 18, i reclamar davant de l'Agència Espanyola de Protecció de Dades (www.aepd.es).",
+     "Informació completa: https://nsorlop.github.io/nestorinformatico/legal.html"
+    ]
+   }
+  },
+  {
+   "titulo": {
+    "es": "13. El formulario de contacto de esta web",
+    "va": "13. El formulari de contacte d'esta web"
+   },
+   "resumen_llano": {
+    "es": "Lo que escribes en el formulario no se envía a ningún servidor. Solo sirve para dejarte el mensaje preparado, y lo mandas tú si quieres.",
+    "va": "El que escrius en el formulari no s'envia a cap servidor. Només servix per a deixar-te el missatge preparat, i l'envies tu si vols."
+   },
+   "parrafos": {
+    "es": [
+     "En la web hay un formulario con tu nombre, tu pueblo, tu teléfono y una casilla para contar qué te pasa. Conviene que sepas exactamente qué hace, porque no funciona como los formularios de otras webs.",
+     "No envía nada a ningún servidor, ni mío ni de nadie. Lo que escribes se queda dentro de tu navegador. Al pulsar el botón, lo único que ocurre es que se abre tu WhatsApp o tu programa de correo con el mensaje ya redactado, y eres tú quien decide si lo mandas, si lo cambias o si lo borras sin enviarlo.",
+     "Mientras no le des a enviar en tu WhatsApp o en tu correo, yo no recibo nada y no me entero de que has entrado en la web. Si cierras la página, lo escrito desaparece.",
+     "Cuando sí le das a enviar, ese mensaje me llega por WhatsApp o por correo, y a partir de ahí se le aplica todo lo que explican los apartados 2, 3, 6 y 7 de esta política: los mismos datos, las mismas finalidades, los mismos plazos y las mismas empresas de por medio.",
+     "Junto al botón tienes un aviso corto con lo esencial, y desde ahí se llega a esta página. Es lo que la ley llama información por capas: lo importante a la vista y el detalle a un clic."
+    ],
+    "va": [
+     "En la web hi ha un formulari amb el teu nom, el teu poble, el teu telèfon i una casella per a contar què et passa. Convé que sàpies exactament què fa, perquè no funciona com els formularis d'altres webs.",
+     "No envia res a cap servidor, ni meu ni de ningú. El que escrius es queda dins del teu navegador. En pitjar el botó, l'única cosa que passa és que s'obri el teu WhatsApp o el teu programa de correu amb el missatge ja redactat, i eres tu qui decidix si l'envies, si el canvies o si l'esborres sense enviar-lo.",
+     "Mentres no li dones a enviar en el teu WhatsApp o en el teu correu, jo no rep res i no m'entere que has entrat en la web. Si tanques la pàgina, el que has escrit desapareix.",
+     "Quan sí que li dones a enviar, eixe missatge m'aplega per WhatsApp o per correu, i a partir d'ahí se li aplica tot el que expliquen els apartats 2, 3, 6 i 7 d'esta política: les mateixes dades, les mateixes finalitats, els mateixos terminis i les mateixes empreses pel mig.",
+     "Al costat del botó tens un avís curt amb l'essencial, i des d'ahí pots entrar en esta pàgina. És el que la llei diu informació per capes: el que importa a la vista i el detall a un clic."
+    ]
+   },
+   "lista": {
+    "es": [],
+    "va": []
+   }
+  },
+  {
+   "titulo": {
+    "es": "14. Cambios en esta política",
+    "va": "14. Canvis en esta política"
+   },
+   "resumen_llano": {
+    "es": "Si cambio algo de este texto, lo verás aquí con la fecha. No hay letra pequeña escondida ni trampas.",
+    "va": "Si canvie alguna cosa d'este text, ho veuràs ací amb la data. No hi ha lletra menuda amagada ni cap trampa."
+   },
+   "parrafos": {
+    "es": [
+     "Esta política se puede actualizar si cambia la ley, si cambio la manera de trabajar o si añado algún servicio nuevo. Cuando pase, se publica aquí la versión nueva con su fecha, y la anterior deja de estar en vigor.",
+     "Si el cambio es importante y afecta a algo que ya habíamos hablado, te aviso por el mismo medio por el que hablamos normalmente: una llamada, un WhatsApp o un correo.",
+     "La fecha de la última actualización está al principio de esta página, encima del primer apartado. Si no coincide con lo que recuerdas, es que ha cambiado algo.",
+     "Si tienes cualquier duda sobre este texto, llámame al 644 21 91 18 o escríbeme a nestorlafont@gmail.com. Te lo explico con calma y las veces que haga falta, que para eso estoy."
+    ],
+    "va": [
+     "Esta política es pot actualitzar si canvia la llei, si canvie la manera de treballar o si afegisc algun servici nou. Quan passe, es publica ací la versió nova amb la seua data, i l'anterior deixa d'estar en vigor.",
+     "Si el canvi és important i afecta alguna cosa que ja havíem parlat, t'avise per on parlem normalment: et cride, t'envie un WhatsApp o t'escric un correu.",
+     "La data de l'última actualització està al principi d'esta pàgina, damunt del primer apartat. Si no coincidix amb el que recordes, és que ha canviat alguna cosa.",
+     "Si tens qualsevol dubte sobre este text, crida'm al 644 21 91 18 o escriu-me a nestorlafont@gmail.com. T'ho explique amb calma i les voltes que faça falta, que per a això estic."
+    ]
+   },
+   "lista": {
+    "es": [],
+    "va": []
+   }
+  }
+ ]
+}

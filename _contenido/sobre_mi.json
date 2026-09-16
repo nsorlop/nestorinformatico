@@ -1,0 +1,136 @@
+{
+  "titulo": {
+    "es": "Quién soy",
+    "va": "Qui soc"
+  },
+  "bio": {
+    "es": [
+      "Me llamo Néstor Soriano y soy de La Font de la Figuera. Aquí he crecido y aquí sigo. He montado esto por una cosa que veo cada día: para cualquier tontería con el ordenador o el móvil, la gente de los pueblos tiene que coger el coche, irse a Xàtiva o a Ontinyent, dejar el aparato una semana y volver otra vez a por él. Me parece una pérdida de tiempo enorme. Por eso voy yo a tu casa.",
+      "Soy graduado en Ingeniería Informática por la Universitat Politècnica de València, con mención en Computación. Lo cuento no por el título, sino por lo que significa en la práctica: que entiendo por qué fallan las cosas, no solo qué botón hay que tocar. Cuando algo se rompe, sé buscar la causa. Y cuando hace falta construir algo desde cero, también sé hacerlo.",
+      "He trabajado unos ocho meses en el departamento de sistemas de una empresa de Valencia, Medicarama. Allí hacía programas a medida para el trabajo del día a día, automatizaba tareas repetitivas que antes se hacían a mano una por una, trataba datos y resolvía las incidencias que iban saliendo. También desarrollé y puse en marcha un asistente con inteligencia artificial que responde preguntas sobre los documentos de la empresa, funcionando de verdad y con gente usándolo. Antes de eso estuve dando soporte técnico a usuarios, que es donde aprendes a explicarte.",
+      "Y ahora la parte que más me importa. Tengo paciencia. Te explico las cosas sin prisa y las veces que haga falta, con palabras normales. Aquí nadie se va a sentir tonto por preguntar. No hay preguntas tontas de informática, hay programas mal hechos y gente que nunca se ha sentado a explicarte cómo van. Si quieres entender lo que estoy tocando, te lo cuento mientras lo hago. Y si solo quieres que funcione y ya está, también me parece bien."
+    ],
+    "va": [
+      "Em dic Néstor Soriano i soc de la Font de la Figuera. Ací m'he criat i ací continue. He muntat açò per una cosa que veig cada dia: per qualsevol tonteria amb l'ordinador o el mòbil, la gent dels pobles ha d'agarrar el cotxe, anar-se'n a Xàtiva o a Ontinyent, deixar l'aparell una setmana i tornar una altra volta a arreplegar-lo. Em pareix una pèrdua de temps enorme. Per això vaig jo a casa teua.",
+      "Soc graduat en Enginyeria Informàtica per la Universitat Politècnica de València, amb menció en Computació. No ho dic pel títol, sinó pel que vol dir en la pràctica: que entenc per què fallen les coses, no només quin botó s'ha de tocar. Quan alguna cosa es trenca, sé buscar per què. I quan fa falta fer alguna cosa des de zero, també en sé.",
+      "He treballat uns huit mesos en el departament de sistemes d'una empresa de València, Medicarama. Allí feia programes a mida per a la faena de cada dia, automatitzava faenes repetitives que abans es feien a mà una per una, tractava dades i apanyava les incidències que anaven eixint. També vaig programar i posar en marxa un assistent amb intel·ligència artificial que respon preguntes sobre els documents de l'empresa, funcionant de veres i amb gent que l'usava. Abans d'això vaig estar donant suport tècnic a usuaris, que és on aprens a explicar-te.",
+      "I ara la part que més m'importa. Tinc paciència. T'explique les coses sense presses i les voltes que faça falta, amb paraules normals. Ací ningú es sentirà tonto per preguntar. No hi ha preguntes tontes d'informàtica, hi ha programes mal fets i gent que mai s'ha parat a explicar-te com van. Si vols entendre el que estic tocant, t'ho conte mentres ho faig. I si només vols que funcione i ja està, també em pareix bé."
+    ]
+  },
+  "credenciales": [
+    {
+      "etiqueta": {
+        "es": "Graduado en Ingeniería Informática",
+        "va": "Graduat en Enginyeria Informàtica"
+      },
+      "detalle": {
+        "es": "Universitat Politècnica de València, promoción 2022-2026. Proyecto final de carrera calificado con un 9,5 sobre 10.",
+        "va": "Universitat Politècnica de València, promoció 2022-2026. Projecte final de carrera qualificat amb un 9,5 sobre 10."
+      }
+    },
+    {
+      "etiqueta": {
+        "es": "Mención en Computación",
+        "va": "Menció en Computació"
+      },
+      "detalle": {
+        "es": "La rama de la carrera que va de resolver problemas con programas: algoritmos, datos e inteligencia artificial.",
+        "va": "La branca de la carrera que va de resoldre problemes amb programes: algoritmes, dades i intel·ligència artificial."
+      }
+    },
+    {
+      "etiqueta": {
+        "es": "Ocho meses en un departamento de sistemas",
+        "va": "Huit mesos en un departament de sistemes"
+      },
+      "detalle": {
+        "es": "En Medicarama (Instituto de Tecnología de Valencia, S.L.), de diciembre de 2025 a julio de 2026: programas a medida, automatización de tareas, tratamiento de datos e incidencias del día a día.",
+        "va": "En Medicarama (Instituto de Tecnología de Valencia, S.L.), de desembre de 2025 a juliol de 2026: programes a mida, automatització de tasques, tractament de dades i incidències del dia a dia."
+      }
+    },
+    {
+      "etiqueta": {
+        "es": "Asistente de inteligencia artificial en producción",
+        "va": "Assistent d'intel·ligència artificial en producció"
+      },
+      "detalle": {
+        "es": "Lo desarrollé y lo dejé funcionando de verdad, no en pruebas: responde preguntas sobre los documentos de la empresa y dice de dónde ha sacado cada respuesta.",
+        "va": "El vaig programar i el vaig deixar funcionant de veres, no de prova: respon preguntes sobre els documents de l'empresa i diu d'on ha tret cada resposta."
+      }
+    },
+    {
+      "etiqueta": {
+        "es": "Soporte técnico a usuarios",
+        "va": "Suport tècnic a usuaris"
+      },
+      "detalle": {
+        "es": "En F1 Connecting, de octubre a diciembre de 2025, atendiendo a gente que no es informática y quiere que su aparato funcione.",
+        "va": "En F1 Connecting, d'octubre a desembre de 2025, atenent gent que no és informàtica i vol que el seu aparell funcione."
+      }
+    },
+    {
+      "etiqueta": {
+        "es": "Idiomas",
+        "va": "Idiomes"
+      },
+      "detalle": {
+        "es": "Valenciano C1 oficial, castellano nativo e inglés B2 acreditado por la UPV. Te atiendo en el idioma que tú quieras.",
+        "va": "Valencià C1 oficial, castellà natiu i anglés B2 acreditat per la UPV. T'atenc en l'idioma que tu vullgues."
+      }
+    }
+  ],
+  "proyectos": [
+    {
+      "nombre": "Tutor-unis",
+      "que": {
+        "es": "Un asistente al que le preguntas con palabras normales sobre un montón de apuntes y documentos, y te contesta diciéndote de qué documento y de qué página ha sacado la respuesta.",
+        "va": "Un assistent al qual preguntes amb paraules normals sobre un muntó d'apunts i documents, i et contesta dient-te de quin document i de quina pàgina ha tret la resposta."
+      },
+      "para_ti": {
+        "es": "Lo mismo vale para una cooperativa, una gestoría o un taller: preguntar por tus propios papeles y tener la respuesta en segundos, en vez de buscar carpeta por carpeta.",
+        "va": "El mateix val per a una cooperativa, una gestoria o un taller: preguntar pels teus papers i tindre la resposta en segons, en lloc d'anar buscant carpeta per carpeta."
+      }
+    },
+    {
+      "nombre": "CalTrack",
+      "que": {
+        "es": "Una aplicación de móvil para llevar la cuenta de lo que comes. Lee el código de barras del producto y sigue funcionando aunque te quedes sin internet.",
+        "va": "Una aplicació de mòbil per a portar el compte del que menges. Llig el codi de barres del producte i continua funcionant encara que et quedes sense internet."
+      },
+      "para_ti": {
+        "es": "Si tu negocio necesita una aplicación propia para el móvil, para pedidos, fichas de clientes o control de almacén, te la puedo hacer a tu manera.",
+        "va": "Si el teu negoci necessita una aplicació pròpia per al mòbil, per a comandes, fitxes de clients o control de magatzem, te la puc fer a la teua manera."
+      }
+    },
+    {
+      "nombre": "MediEspia",
+      "que": {
+        "es": "Un programa que entra solo cada día en varias páginas web, recoge precios e información y lo va guardando ordenado en una tabla.",
+        "va": "Un programa que entra a soles cada dia en unes quantes pàgines web, arreplega preus i informació i ho va guardant ordenat en una taula."
+      },
+      "para_ti": {
+        "es": "Si te pasas horas copiando datos de una web a un Excel, eso lo puede hacer el ordenador mientras tú atiendes el negocio.",
+        "va": "Si et passes hores copiant dades d'una web a un Excel, això ho pot fer l'ordinador mentres tu atens el negoci."
+      }
+    },
+    {
+      "nombre": "NR Collection",
+      "que": {
+        "es": "Un sistema que monta él solo los vídeos para redes sociales, a partir de las fotos y los datos de cada producto, uno detrás de otro.",
+        "va": "Un sistema que munta ell a soles els vídeos per a xarxes socials, a partir de les fotos i les dades de cada producte, un darrere de l'altre."
+      },
+      "para_ti": {
+        "es": "Cualquier tarea que repitas siempre igual (facturas, listados, informes, publicaciones) se puede dejar preparada para que se haga sola.",
+        "va": "Qualsevol faena que repetixques sempre igual (factures, llistats, informes, publicacions) es pot deixar preparada perquè es faça a soles."
+      }
+    }
+  ],
+  "frase_hero": {
+    "es": "Voy yo a tu casa: informática a domicilio en La Font de la Figuera y comarca.",
+    "va": "Vaig jo a casa teua: informàtica a domicili a la Font de la Figuera i comarca."
+  },
+  "subfrase_hero": {
+    "es": "Desde enseñarte a usar el móvil o arreglar la impresora hasta hacerte una web, una aplicación a medida o un asistente con inteligencia artificial.",
+    "va": "Des d'ensenyar-te a usar el mòbil o arreglar la impressora fins a fer-te una web, una aplicació a mida o un assistent amb intel·ligència artificial."
+  }
+}
