@@ -79,7 +79,7 @@ def main():
             problemas.append('%s: falta el idioma en la etiqueta html' % pag)
         # Nada de peticiones a servidores ajenos
         for url in re.findall(r'(?:src|href)="(https?://[^"]+)"', html):
-            if not url.startswith(('https://github.com', 'https://nsorlop.github.io',
+            if not url.startswith(('https://nestorinformatico.es', 'https://github.com', 'https://nsorlop.github.io',
                                    'https://wa.me', 'https://schema.org')):
                 problemas.append('%s: recurso externo %s' % (pag, url))
 

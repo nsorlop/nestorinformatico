@@ -65,28 +65,41 @@ fichas equivalentes de `legal_condiciones.json` y `legal_privacidad.json`.
 
 ## Cómo se publica
 
-Ya tienes GitHub Pages funcionando en `nsorlop.github.io`, así que lo más
-rápido es un repositorio nuevo:
+La web está en GitHub Pages, en el repositorio
+`https://github.com/nsorlop/nestorinformatico` (Settings > Pages: *Deploy from a
+branch*, `main` / `(root)`), con el dominio propio `https://nestorinformatico.es`.
+
+Para publicar cambios:
 
 ```bash
 cd C:/Users/nesto/web-informatica
-git init
-git add .
-git commit -m "Web del servicio informatico a domicilio"
-git branch -M main
-git remote add origin https://github.com/nsorlop/nestorinformatico.git
-git push -u origin main
+python build.py
+python _revision/comprobar.py
+git add -A
+git commit -m "Describe el cambio"
+git push
 ```
 
-Después, en GitHub: *Settings* → *Pages* → *Source: Deploy from a branch* →
-`main` / `(root)`. En un minuto está en
-`https://nsorlop.github.io/nestorinformatico/`.
+En uno o dos minutos está en línea.
 
-Si más adelante compras un dominio propio (algo del estilo
-`informaticanestor.es`, que se dice bien por teléfono), añade un fichero
-`CNAME` con el dominio dentro y apunta el DNS a GitHub Pages. Y acuérdate de
-cambiar `NEGOCIO['url']` en `build.py`, porque de ahí salen el `canonical`, el
-`sitemap.xml` y los datos estructurados.
+El dominio está en DonDominio. En "Parking & Zona DNS" tiene que haber solo esto,
+sin parking ni redirecciones de DonDominio:
+
+| Tipo | Nombre | Valor |
+|---|---|---|
+| A | @ | 185.199.108.153 |
+| A | @ | 185.199.109.153 |
+| A | @ | 185.199.110.153 |
+| A | @ | 185.199.111.153 |
+| CNAME | www | nsorlop.github.io |
+
+Si alguna vez aparece otra IP en `@`, GitHub no puede renovar el certificado y
+el navegador vuelve a decir que la web no es segura. El certificado lo emite y lo
+renueva GitHub solo, gratis, con Let's Encrypt.
+
+El fichero `CNAME` del repositorio lo gestiona GitHub: no lo borres. Si cambias
+la dirección de la web, cambia `URL_NUEVA` en `_revision/renombrar.py`, ejecútalo
+y reconstruye.
 
 ---
 

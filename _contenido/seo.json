@@ -75,16 +75,16 @@
    "ProfessionalService",
    "LocalBusiness"
   ],
-  "@id": "https://nsorlop.github.io/nestorinformatico/#negocio",
+  "@id": "https://nestorinformatico.es/#negocio",
   "name": "Néstor el Informático",
   "alternateName": "Néstor l'Informàtic",
   "description": "Servicio informático a domicilio en La Font de la Figuera y comarca. Voy yo a casa del cliente: ordenadores, móviles, wifi, impresoras, virus, copias de seguridad y clases sin prisas para gente mayor; y también páginas web, aplicaciones a medida, automatización de tareas y asistentes con inteligencia artificial para negocios de la zona. Atención en valenciano, castellano e inglés. Urgencias, a consultar por teléfono.",
   "slogan": "Voy yo a tu casa",
-  "url": "https://nsorlop.github.io/nestorinformatico/",
+  "url": "https://nestorinformatico.es/",
   "telephone": "+34644219118",
   "email": "nestorlafont@gmail.com",
-  "image": "https://nsorlop.github.io/nestorinformatico/img/nestor-soriano-informatico-a-domicilio-la-font-de-la-figuera.jpg",
-  "logo": "https://nsorlop.github.io/nestorinformatico/img/logo-informatica-a-domicilio.png",
+  "image": "https://nestorinformatico.es/img/nestor-soriano-informatico-a-domicilio-la-font-de-la-figuera.jpg",
+  "logo": "https://nestorinformatico.es/img/logo-informatica-a-domicilio.png",
   "priceRange": "€€",
   "currenciesAccepted": "EUR",
   "serviceType": "Servicio informático a domicilio",
@@ -254,7 +254,7 @@
   ],
   "founder": {
    "@type": "Person",
-   "@id": "https://nsorlop.github.io/nestorinformatico/#nestor",
+   "@id": "https://nestorinformatico.es/#nestor",
    "name": "Néstor Soriano López",
    "jobTitle": "Informático a domicilio",
    "telephone": "+34644219118",
@@ -296,7 +296,7 @@
    ]
   },
   "provider": {
-   "@id": "https://nsorlop.github.io/nestorinformatico/#nestor"
+   "@id": "https://nestorinformatico.es/#nestor"
   },
   "hasOfferCatalog": {
    "@type": "OfferCatalog",

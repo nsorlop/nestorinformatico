@@ -4,7 +4,7 @@
 
     Castellano: Néstor el Informático
     Valenciano: Néstor l'Informàtic
-    Web:        https://nsorlop.github.io/nestorinformatico/
+    Web:        https://nestorinformatico.es/
 
 Cuando el dominio propio esté apuntado, basta con cambiar URL_NUEVA y volver a
 ejecutar este script y python build.py.
@@ -19,8 +19,8 @@ os.chdir(RAIZ)
 
 MARCA_ES = 'Néstor el Informático'
 MARCA_VA = "Néstor l'Informàtic"
-URL_VIEJA = re.compile(r'https://nsorlop\.github\.io/(?:informatica|web-informatica)/')
-URL_NUEVA = 'https://nsorlop.github.io/nestorinformatico/'
+URL_VIEJA = re.compile(r'https://nsorlop\.github\.io/(?:informatica|web-informatica|nestorinformatico)/')
+URL_NUEVA = 'https://nestorinformatico.es/'
 
 
 def leer(ruta):

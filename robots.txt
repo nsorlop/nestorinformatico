@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://nsorlop.github.io/nestorinformatico/sitemap.xml
+Sitemap: https://nestorinformatico.es/sitemap.xml

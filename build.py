@@ -48,7 +48,7 @@ NEGOCIO = {
     'github':       'https://github.com/nsorlop',
     'portfolio':    'https://nsorlop.github.io',
     # Cambia esta URL por la definitiva cuando publiques la web.
-    'url':          'https://nsorlop.github.io/nestorinformatico/',
+    'url':          'https://nestorinformatico.es/',
 }
 
 HERO = {
@@ -674,7 +674,9 @@ def normalizar_jsonld(datos):
 
     def arreglar(obj):
         if isinstance(obj, dict):
-            return {k: (re.sub(r'https://[^/]+/[^/#]*/(?=#|$|[a-z])', base, v)
+            # Solo se sustituyen las direcciones antiguas de GitHub Pages. Una regla
+            # generica rompia rutas como https://dominio.es/img/... con dominio propio.
+            return {k: (re.sub(r'https://nsorlop\.github\.io/[^/#]*/', base, v)
                         if isinstance(v, str) and k in ('@id', 'url', 'image', 'logo')
                         else arreglar(v))
                     for k, v in obj.items()}
