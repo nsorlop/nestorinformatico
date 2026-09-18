@@ -1,531 +1,301 @@
 {
-  "bloques": [
+ "bloques": [
+  {
+   "id": "casa",
+   "titulo": {
+    "es": "En casa, el día a día",
+    "va": "A casa, el dia a dia"
+   },
+   "entradilla": {
+    "es": "Voy a tu casa, miro el problema delante de ti y te lo dejo funcionando. Sin prisa y explicándolo con palabras normales, las veces que haga falta.",
+    "va": "Vaig a casa teua, mire el problema amb tu davant i te'l deixe funcionant. Sense presses i explicant-t'ho en paraules normals, les voltes que faça falta."
+   },
+   "servicios": [
     {
-      "id": "casa",
-      "titulo": {
-        "es": "En casa, el día a día",
-        "va": "A casa, el dia a dia"
-      },
-      "entradilla": {
-        "es": "Voy a tu casa, miro el problema delante de ti y te lo dejo funcionando. Sin prisa y explicándolo con palabras normales, las veces que haga falta.",
-        "va": "Vaig a casa teua, mire el problema amb tu davant i te'l deixe funcionant. Sense presses i explicant-t'ho en paraules normals, les voltes que faça falta."
-      },
-      "servicios": [
-        {
-          "titulo": {
-            "es": "Aparato nuevo o aparato lento",
-            "va": "Aparell nou o aparell lent"
-          },
-          "desc": {
-            "es": "Si el ordenador va lento, lo pongo a punto: quito lo que sobra, lo limpio de polvo por dentro y, si merece la pena, le cambio el disco por uno nuevo mucho más rápido (se llama disco SSD) o le pongo más memoria, para que arranque en segundos y no en minutos. Y si te has comprado un ordenador o un móvil nuevo, te lo dejo listo con tus cosas dentro: contactos, fotos, WhatsApp, el correo y las aplicaciones que usas, con la letra grande si la necesitas.",
-            "va": "Si l'ordinador va lent, te'l pose a punt: lleve el que sobra, li trac la pols de dins i, si val la pena, li canvie el disc per un de nou molt més ràpid (es diu disc SSD) o li fique més memòria, perquè arranque en segons i no en minuts. I si t'has comprat un ordinador o un mòbil nou, te'l deixe apanyat amb les teues coses dins: els contactes, les fotos, el WhatsApp, el correu i les aplicacions que gastes, i amb la lletra gran si la necessites."
-          },
-          "ejemplos": {
-            "es": [
-              "el ordenador tarda diez minutos en encender y luego va a trompicones",
-              "me han regalado un móvil y no sé pasar los contactos ni las fotos"
-            ],
-            "va": [
-              "l'ordinador tarda deu minuts a encendre's i després va a estirons",
-              "m'han regalat un mòbil i no sé passar els contactes ni les fotos"
-            ]
-          }
-        },
-        {
-          "titulo": {
-            "es": "Virus, estafas y publicidad",
-            "va": "Virus, estafes i publicitat"
-          },
-          "desc": {
-            "es": "Limpio el ordenador o el móvil de virus y de anuncios que salen solos, y lo dejo protegido. Y te explico cómo reconocer los mensajes que quieren engañarte.",
-            "va": "Lleve de l'ordinador o del mòbil els virus i els anuncis que ixen a soles, i te'l deixe protegit. I t'explique com saber quins missatges et volen enganyar."
-          },
-          "ejemplos": {
-            "es": [
-              "se abren ventanas de publicidad sin tocar nada",
-              "ha salido un aviso que dice que llame urgente a un número de teléfono"
-            ],
-            "va": [
-              "s'obrin finestres d'anuncis sense tocar res",
-              "m'ha eixit un avís que diu que cride urgent a un número de telèfon"
-            ]
-          }
-        },
-        {
-          "titulo": {
-            "es": "Wifi y router en casa",
-            "va": "Wifi i router a casa"
-          },
-          "desc": {
-            "es": "Hago que el wifi llegue bien a toda la casa y que no se corte. Toco los ajustes del router (esa caja con lucecitas que te puso la compañía de internet) y, si hace falta, pongo un aparatito más que reparte el wifi a las habitaciones donde no llega. Y te dejo la contraseña apuntada en un papel.",
-            "va": "Faig que el wifi aplegue bé a tota la casa i que no es talle. Toque els ajustos del router (eixa caixa amb llumetes que et va ficar la companyia d'internet) i, si fa falta, fique un aparellet més que repartix el wifi a les habitacions on no aplega. I et deixe la contrasenya apuntada en un paper."
-          },
-          "ejemplos": {
-            "es": [
-              "en la habitación de arriba no hay wifi",
-              "cada dos por tres se va internet y hay que apagar el router"
-            ],
-            "va": [
-              "en l'habitació de dalt no hi ha wifi",
-              "cada dos per tres se'n va internet i s'ha d'apagar el router"
-            ]
-          }
-        },
-        {
-          "titulo": {
-            "es": "Impresora y escáner listos",
-            "va": "Impressora i escàner a punt"
-          },
-          "desc": {
-            "es": "Instalo la impresora y la dejo funcionando desde el ordenador y desde el móvil. También te enseño a escanear un papel (o sea, hacer una copia del papel dentro del ordenador) y a mandarlo por correo, que es lo que te piden muchas veces.",
-            "va": "Et fique la impressora i te la deixe funcionant des de l'ordinador i des del mòbil. També t'ensenye a escanejar un paper (o siga, fer-ne una còpia dins de l'ordinador) i a enviar-lo per correu, que és el que et demanen moltes voltes."
-          },
-          "ejemplos": {
-            "es": [
-              "la impresora nueva no imprime desde el móvil",
-              "tengo que mandar el DNI escaneado y no sé cómo"
-            ],
-            "va": [
-              "la impressora nova no imprimix des del mòbil",
-              "he d'enviar el DNI escanejat i no sé com"
-            ]
-          }
-        },
-        {
-          "titulo": {
-            "es": "Que no se te pierdan las fotos",
-            "va": "Que no se't perden les fotos"
-          },
-          "desc": {
-            "es": "Una copia de seguridad es una segunda copia de tus fotos y tus papeles, guardada en otro sitio, por si el aparato se rompe, se moja o te lo roban. Te la dejo hecha en dos sitios y, si quieres, se hace sola cada semana y tú no tienes que acordarte de nada. Antes de irme la pruebo delante de ti, para que veas que las fotos están de verdad.",
-            "va": "Una còpia de seguretat és una segona còpia de les teues fotos i els teus papers, guardada en un altre lloc, per si l'aparell es trenca, es banya o te'l furten. Te la deixe feta en dos llocs i, si vols, es fa a soles cada setmana i tu no t'has de recordar de res. Abans d'anar-me'n la prove davant teu, perquè veges que les fotos hi són de veres."
-          },
-          "ejemplos": {
-            "es": [
-              "tengo todas las fotos de los nietos solo en el móvil y como lo pierda me muero",
-              "tengo veinte años de fotos solo en el ordenador"
-            ],
-            "va": [
-              "tinc totes les fotos dels nets només en el mòbil i com el perda em muir",
-              "tinc vint anys de fotos només en l'ordinador"
-            ]
-          }
-        },
-        {
-          "titulo": {
-            "es": "Te han robado el WhatsApp o no te acuerdas de la contraseña",
-            "va": "T'han robat el WhatsApp o no et recordes de la contrasenya"
-          },
-          "desc": {
-            "es": "Intento recuperar el WhatsApp que te han robado o la cuenta de correo cuando no hay manera de acordarse de la clave, siguiendo los pasos oficiales de cada aplicación. No siempre se puede, porque depende de WhatsApp, de Google o de tu compañía de correo: si no se puede, te lo digo claro y no te lo cobro. Si sale bien, te la dejo con la verificación en dos pasos puesta, que es lo que impide que vuelva a pasar, y te ayudo a escribir un aviso para tus contactos si les han pedido dinero haciéndose pasar por ti.",
-            "va": "Intente recuperar-te el WhatsApp que t'han robat o el compte del correu quan no hi ha manera de recordar la clau, seguint els passos oficials de cada aplicació. No sempre es pot, perquè depén de WhatsApp, de Google o de la companyia del correu: si no es pot, t'ho dic clar i no t'ho cobre. Si ix bé, te'l deixe amb la verificació en dos passos ficada, que és el que fa que no torne a passar, i t'ajude a escriure un avís per als teus contactes si els han demanat diners fent-se passar per tu."
-          },
-          "ejemplos": {
-            "es": [
-              "están pidiendo dinero a mis contactos en mi nombre",
-              "no me acuerdo de la contraseña del correo y me piden un código que no me llega"
-            ],
-            "va": [
-              "estan demanant diners als meus contactes en nom meu",
-              "no em recorde de la contrasenya del correu i em demanen un codi que no m'aplega"
-            ]
-          }
-        },
-        {
-          "titulo": {
-            "es": "Correo, videollamadas y tele",
-            "va": "Correu, videocridades i tele"
-          },
-          "desc": {
-            "es": "Te dejo el correo funcionando y ordenado, las videollamadas preparadas, que es hablar con tus hijos o tus nietos viéndoles la cara en la pantalla, y la tele con las películas y series de pago (Netflix, Prime, Movistar) puestas y funcionando. Todo con un botón grande a la vista, para que lo encuentres a la primera.",
-            "va": "Et deixe el correu funcionant i ordenat, les videocridades preparades, que és parlar amb els teus fills o els teus nets veient-los la cara en la pantalla, i la tele amb les pel·lícules i sèries de pagament (Netflix, Prime, Movistar) ficades i funcionant. Tot amb un botó gran a la vista, perquè ho trobes a la primera."
-          },
-          "ejemplos": {
-            "es": [
-              "quiero hablar por videollamada con mi hija y verle la cara",
-              "quiero ver las fotos del móvil en la tele del comedor"
-            ],
-            "va": [
-              "vull parlar amb la meua filla per vídeo i vore-li la cara",
-              "vull vore les fotos del mòbil en la tele del menjador"
-            ]
-          }
-        },
-        {
-          "titulo": {
-            "es": "Te enseño a manejarlo",
-            "va": "T'ensenye a manejar-ho"
-          },
-          "desc": {
-            "es": "Clases tranquilas en tu casa, con tu ordenador y tu móvil, de lo que tú quieras: correo, Word, Excel, buscar cosas, WhatsApp. Te lo dejo apuntado en papel, paso a paso, para cuando yo no esté. Si os juntáis varios vecinos, también las doy en grupo y sale más barato para todos.",
-            "va": "Classes tranquil·les a casa teua, amb el teu ordinador i el teu mòbil, del que tu vullgues: correu, Word, Excel, buscar coses, WhatsApp. T'ho deixe apuntat en paper, pas a pas, per a quan jo no estiga. Si vos ajunteu uns quants veïns, també les faig en grup i ix més barat per a tots."
-          },
-          "ejemplos": {
-            "es": [
-              "quiero aprender a escribir una carta y guardarla",
-              "mi hijo me lo explica muy rápido y no me entero"
-            ],
-            "va": [
-              "vull aprendre a escriure una carta i guardar-la",
-              "el meu fill m'ho explica molt depressa i no m'entere"
-            ]
-          }
-        }
-      ]
+     "titulo": {
+      "es": "Aparato nuevo o aparato lento",
+      "va": "Aparell nou o aparell lent"
+     },
+     "desc": {
+      "es": "Si el ordenador va lento, lo pongo a punto: quito lo que sobra, lo limpio de polvo por dentro y, si merece la pena, le cambio el disco por uno nuevo mucho más rápido (se llama disco SSD) o le pongo más memoria, para que arranque en segundos y no en minutos. Y si te has comprado un ordenador o un móvil nuevo, te lo dejo listo con tus cosas dentro: contactos, fotos, WhatsApp, el correo y las aplicaciones que usas, con la letra grande si la necesitas.",
+      "va": "Si l'ordinador va lent, te'l pose a punt: lleve el que sobra, li trac la pols de dins i, si val la pena, li canvie el disc per un de nou molt més ràpid (es diu disc SSD) o li fique més memòria, perquè arranque en segons i no en minuts. I si t'has comprat un ordinador o un mòbil nou, te'l deixe apanyat amb les teues coses dins: els contactes, les fotos, el WhatsApp, el correu i les aplicacions que gastes, i amb la lletra gran si la necessites."
+     }
     },
     {
-      "id": "negocio",
-      "titulo": {
-        "es": "Para tu negocio",
-        "va": "Per al teu negoci"
-      },
-      "entradilla": {
-        "es": "Bar, tienda, taller, peluquería u oficina. Pongo en orden los ordenadores, la red y los programas que ya tienes, y te monto lo que te falta, sin liarte y sin que tengas que parar de trabajar.",
-        "va": "Bar, botiga, taller, perruqueria o oficina. T'ordene els ordinadors, la xarxa i els programes que ja tens, i et munte el que et falta, sense marejar-te i sense que hages de parar de fer faena."
-      },
-      "servicios": [
-        {
-          "titulo": {
-            "es": "Mantenimiento y copias de seguridad",
-            "va": "Manteniment i còpies de seguretat"
-          },
-          "desc": {
-            "es": "Reviso los ordenadores del negocio, los actualizo y los dejo rápidos. Y monto copias de seguridad que se hacen solas cada noche, para que un susto no te pare el trabajo. Si quieres, me encargo yo todo el año con una cuota fija al mes y tú te olvidas.",
-            "va": "Revise els ordinadors del negoci, els actualitze i els deixe ràpids. I munte còpies de seguretat que es fan a soles cada nit, perquè un ensurt no et pare la faena. Si vols, me n'encarregue jo tot l'any amb una quota fixa al mes i tu te n'oblides."
-          },
-          "ejemplos": {
-            "es": [
-              "el ordenador de la caja se queda colgado los sábados",
-              "si se estropea el ordenador pierdo toda la contabilidad del año"
-            ],
-            "va": [
-              "l'ordinador de la caixa es queda penjat els dissabtes",
-              "si s'espatla l'ordinador perc tota la comptabilitat de l'any"
-            ]
-          }
-        },
-        {
-          "titulo": {
-            "es": "Red y wifi del local",
-            "va": "Xarxa i wifi del local"
-          },
-          "desc": {
-            "es": "Dejo el wifi estable en todo el local, con una red aparte para los clientes y otra para tus cosas. Así el datáfono y el ordenador no se quedan sin conexión en hora punta.",
-            "va": "Deixe el wifi estable en tot el local, amb una xarxa a banda per als clients i una altra per a les teues coses. Així el datàfon i l'ordinador no es queden sense connexió en hora punta."
-          },
-          "ejemplos": {
-            "es": [
-              "en la terraza no llega el wifi y el datáfono no cobra",
-              "cuando se llena el local internet se pone imposible"
-            ],
-            "va": [
-              "a la terrassa no aplega el wifi i el datàfon no cobra",
-              "quan s'ompli el local internet es posa impossible"
-            ]
-          }
-        },
-        {
-          "titulo": {
-            "es": "Tu web y tu ficha de Google",
-            "va": "La teua web i la teua fitxa de Google"
-          },
-          "desc": {
-            "es": "Una página con lo que la gente busca: qué haces, horarios, teléfono, dónde estás y fotos buenas. Rápida, que se vea bien en el móvil y fácil de cambiar cuando lo necesites. Y con ella te dejo montada la ficha de Google, la que sale en el mapa con el teléfono y las opiniones, y te enseño a subir fotos y a contestar a la gente.",
-            "va": "Una pàgina amb el que la gent busca: què fas, horaris, telèfon, on estàs i fotos bones. Ràpida, que es veja bé en el mòbil i fàcil de canviar quan et faça falta. I a més et deixe muntada la fitxa de Google, la que ix en el mapa amb el telèfon i les opinions, i t'ensenye a pujar fotos i a contestar a la gent."
-          },
-          "ejemplos": {
-            "es": [
-              "la gente me pregunta el horario por WhatsApp todo el día",
-              "busco mi taller en el móvil y no sale por ningún lado"
-            ],
-            "va": [
-              "la gent em pregunta l'horari per WhatsApp tot el dia",
-              "busque el meu taller en el mòbil i no ix per cap lloc"
-            ]
-          }
-        },
-        {
-          "titulo": {
-            "es": "Correo con el nombre del negocio",
-            "va": "Correu amb el nom del negoci"
-          },
-          "desc": {
-            "es": "Te monto el correo con el dominio de tu negocio, del tipo info@tunegocio.es, y lo dejo funcionando en el móvil y en el ordenador, separado del correo personal. Así los mensajes de trabajo no se pierden entre los de casa y los presupuestos llegan donde tienen que llegar.",
-            "va": "Et munte el correu amb el domini del teu negoci, de l'estil info@elteunegoci.es, i te'l deixe funcionant en el mòbil i en l'ordinador, separat del correu personal. Així els missatges de faena no es perden entre els de casa i els pressupostos apleguen on han d'aplegar."
-          },
-          "ejemplos": {
-            "es": [
-              "tengo el correo del negocio mezclado con el personal y se me pierden los mensajes",
-              "los presupuestos que mando acaban en la carpeta de spam"
-            ],
-            "va": [
-              "tinc el correu del negoci mesclat amb el personal i se'm perden els missatges",
-              "els pressupostos que envie acaben en la carpeta de spam"
-            ]
-          }
-        },
-        {
-          "titulo": {
-            "es": "Impresora de tickets y aparatos de la caja",
-            "va": "Impressora de tiquets i aparells de la caixa"
-          },
-          "desc": {
-            "es": "Conecto la impresora de tickets, el lector de códigos de barras y el cajón al ordenador de la caja, y los dejo funcionando con el programa que ya usas. El programa de caja lo configura quien te lo vendió; yo me encargo de que los aparatos funcionen con él.",
-            "va": "Connecte la impressora de tiquets, el lector de codis de barres i el calaix a l'ordinador de la caixa, i te'ls deixe funcionant amb el programa que ja gastes. El programa de caixa te'l configura qui te'l va vendre; jo m'encarregue que els aparells vagen bé amb eixe programa."
-          },
-          "ejemplos": {
-            "es": [
-              "la impresora de tickets se desconecta cada dos por tres",
-              "desde que cambiamos el ordenador el lector de códigos no lee nada"
-            ],
-            "va": [
-              "la impressora de tiquets es desconnecta cada dos per tres",
-              "des que vam canviar l'ordinador el lector de codis no llig res"
-            ]
-          }
-        },
-        {
-          "titulo": {
-            "es": "Programa de facturas, instalado y funcionando",
-            "va": "Programa de factures, instal·lat i funcionant"
-          },
-          "desc": {
-            "es": "Si ya has elegido con tu gestor el programa de facturas, yo te lo instalo en el ordenador, meto tus datos y tus clientes, hacemos juntos la primera factura y te dejo una hoja con los pasos. Lo que tiene que cumplir el programa te lo dice tu gestor: yo me encargo de que funcione.",
-            "va": "Si ja has triat amb el teu gestor el programa de factures, jo te'l fique en l'ordinador, hi pose les teues dades i els teus clients, fem junts la primera factura i et deixe un full amb els passos. El que ha de complir el programa t'ho diu el teu gestor: jo m'encarregue que funcione."
-          },
-          "ejemplos": {
-            "es": [
-              "hago las facturas con la misma plantilla de Word desde hace veinte años",
-              "tengo el programa de facturas nuevo y no sé ni meter un cliente"
-            ],
-            "va": [
-              "faig les factures amb la mateixa plantilla de Word des de fa vint anys",
-              "tinc el programa de factures nou i no sé ni ficar un client"
-            ]
-          }
-        },
-        {
-          "titulo": {
-            "es": "Hojas de cálculo que calculan solas",
-            "va": "Fulls de càlcul que calculen a soles"
-          },
-          "desc": {
-            "es": "Te hago hojas de cálculo que calculan solas: el stock, los gastos, las horas del personal o el seguimiento de las facturas, con botones y listas para que no haga falta saber fórmulas. Y te ordeno las carpetas del ordenador por año y por proveedor, con el escáner listo para ir guardando los papeles nuevos. Son hojas para que te organices tú: la contabilidad la lleva tu gestoría.",
-            "va": "Et faig fulls de càlcul que calculen a soles: l'estoc, els gastos, les hores del personal o el seguiment de les factures, amb botons i llistes perquè no faça falta saber fórmules. I t'ordene les carpetes de l'ordinador per any i per proveïdor, amb l'escàner a punt per a anar guardant els papers nous. Són fulls perquè t'organitzes tu: la comptabilitat te la porta la gestoria."
-          },
-          "ejemplos": {
-            "es": [
-              "tengo los papeles escaneados por todo el ordenador y no encuentro nada",
-              "llevo el stock en una libreta y nunca cuadra"
-            ],
-            "va": [
-              "tinc els papers escanejats per tot l'ordinador i no trobe res",
-              "porte l'estoc en una llibreta i no quadra mai"
-            ]
-          }
-        }
-      ]
+     "titulo": {
+      "es": "Virus, estafas y publicidad",
+      "va": "Virus, estafes i publicitat"
+     },
+     "desc": {
+      "es": "Limpio el ordenador o el móvil de virus y de anuncios que salen solos, y lo dejo protegido. Y te explico cómo reconocer los mensajes que quieren engañarte.",
+      "va": "Lleve de l'ordinador o del mòbil els virus i els anuncis que ixen a soles, i te'l deixe protegit. I t'explique com saber quins missatges et volen enganyar."
+     }
     },
     {
-      "id": "medida",
-      "titulo": {
-        "es": "Cosas a medida",
-        "va": "Coses a mida"
-      },
-      "entradilla": {
-        "es": "Aquí es donde hago programas nuevos para lo que tú necesitas y todavía no existe. Soy graduado en Ingeniería Informática por la Universitat Politècnica de València y he trabajado en el departamento de sistemas de una empresa haciendo programas a medida, automatizaciones y un asistente con inteligencia artificial que está en marcha de verdad.",
-        "va": "Ací és on faig programes nous per a coses que necessites i que encara no hi ha. Soc graduat en Enginyeria Informàtica per la Universitat Politècnica de València i he treballat en el departament de sistemes d'una empresa fent programes a mida, automatitzacions i un assistent amb intel·ligència artificial que funciona de veres."
-      },
-      "servicios": [
-        {
-          "titulo": {
-            "es": "Páginas web y tiendas online",
-            "va": "Pàgines web i botigues per internet"
-          },
-          "desc": {
-            "es": "Desde una web de varias páginas hasta una tienda donde se pueda comprar y pagar. La hago a medida y te digo antes de empezar lo que cuesta mantenerla cada año.",
-            "va": "Des d'una web d'unes quantes pàgines fins a una botiga on es puga comprar i pagar. Te la faig a mida i abans de començar et dic el que costa mantindre-la cada any."
-          },
-          "ejemplos": {
-            "es": [
-              "quiero vender mi aceite fuera del pueblo",
-              "necesito que los clientes reserven hora desde la web"
-            ],
-            "va": [
-              "vull vendre el meu oli fora del poble",
-              "necessite que els clients reserven hora des de la web"
-            ]
-          }
-        },
-        {
-          "titulo": {
-            "es": "Aplicaciones a medida",
-            "va": "Aplicacions a mida"
-          },
-          "desc": {
-            "es": "Programas hechos para tu manera de trabajar, para el móvil o para el ordenador, con solo los botones que necesitas. Pueden funcionar sin internet si trabajas en el campo o en el almacén.",
-            "va": "Programes fets a la teua manera de treballar, per al mòbil o per a l'ordinador, amb només els botons que et fan falta. Poden funcionar sense internet si treballes en el camp o en el magatzem."
-          },
-          "ejemplos": {
-            "es": [
-              "quiero apuntar los pedidos de los clientes desde el móvil",
-              "necesito controlar las reparaciones del taller sin usar papel"
-            ],
-            "va": [
-              "vull apuntar les comandes dels clients des del mòbil",
-              "necessite portar el control de les reparacions del taller sense gastar paper"
-            ]
-          }
-        },
-        {
-          "titulo": {
-            "es": "Automatizar lo que se repite",
-            "va": "Automatitzar el que es repetix"
-          },
-          "desc": {
-            "es": "Si cada semana haces lo mismo a mano, te hago un programa que lo haga solo y sin equivocarse. Tú aprietas un botón, o ni eso, porque puede quedar programado a una hora fija.",
-            "va": "Si cada setmana fas el mateix a mà, et faig un programa que ho faça a soles i sense equivocar-se. Tu pitges un botó, o ni això, perquè pot quedar programat a una hora fixa."
-          },
-          "ejemplos": {
-            "es": [
-              "cada lunes copio los pedidos del correo a una hoja de Excel",
-              "mando los mismos recordatorios a los clientes uno por uno"
-            ],
-            "va": [
-              "cada dilluns copie les comandes del correu a un full d'Excel",
-              "envie els mateixos recordatoris als clients d'un en un"
-            ]
-          }
-        },
-        {
-          "titulo": {
-            "es": "Poner orden en tus datos",
-            "va": "Ordenar les teues dades"
-          },
-          "desc": {
-            "es": "Cojo los datos que tienes repartidos (ventas, gastos, stock, clientes) y los junto en algo que se entienda de un vistazo. Con gráficos claros y números en los que se puede confiar.",
-            "va": "Arreplegue les dades que tens escampades (vendes, gastos, estoc, clients) i les ajunte en una cosa que s'entenga d'un colp d'ull. Amb gràfics clars i números que són de fiar."
-          },
-          "ejemplos": {
-            "es": [
-              "tengo cinco Excel distintos y ninguno cuadra con otro",
-              "quiero saber qué producto me deja más margen"
-            ],
-            "va": [
-              "tinc cinc Excel distints i no n'hi ha cap que quadre amb un altre",
-              "vull saber quin producte em deixa més marge"
-            ]
-          }
-        },
-        {
-          "titulo": {
-            "es": "Un asistente que responde dudas",
-            "va": "Un assistent que respon dubtes"
-          },
-          "desc": {
-            "es": "Un chat que contesta preguntas sobre los documentos de tu negocio (catálogo, precios, condiciones) y dice de dónde ha sacado cada respuesta. Sirve para los clientes en la web o para tu propia gente.",
-            "va": "Un xat que contesta preguntes sobre els documents del teu negoci (catàleg, preus, condicions) i diu d'on ha tret cada resposta. Servix per als clients en la web o per a la teua gent."
-          },
-          "ejemplos": {
-            "es": [
-              "en la cooperativa preguntan cien veces lo mismo sobre el catálogo",
-              "quiero que la gente nueva encuentre las instrucciones sin preguntarme a mí"
-            ],
-            "va": [
-              "en la cooperativa pregunten cent voltes el mateix sobre el catàleg",
-              "vull que la gent nova trobe les instruccions sense preguntar-me a mi"
-            ]
-          }
-        },
-        {
-          "titulo": {
-            "es": "Facturas y albaranes leídos solos",
-            "va": "Factures i albarans llegits a soles"
-          },
-          "desc": {
-            "es": "Un programa que abre los PDF o las fotos de facturas y albaranes, saca los datos y los deja en una hoja de cálculo o en un archivo que tu gestor o tu programa puedan importar. Tú solo repasas que esté bien.",
-            "va": "Un programa que obri els PDF o les fotos de factures i albarans, trau les dades i te les deixa en un full de càlcul o en un arxiu que el teu gestor o el teu programa puguen importar. Tu només repasses que estiga tot bé."
-          },
-          "ejemplos": {
-            "es": [
-              "cada mes tecleamos a mano doscientos albaranes del proveedor",
-              "quiero hacer una foto al ticket y que se apunte solo"
-            ],
-            "va": [
-              "cada mes piquem a mà dos-cents albarans del proveïdor",
-              "vull fer-li una foto al tiquet i que s'apunte a soles"
-            ]
-          }
-        },
-        {
-          "titulo": {
-            "es": "Conectar programas entre sí",
-            "va": "Connectar programes entre si"
-          },
-          "desc": {
-            "es": "Hago que dos programas que no se hablan se pasen la información solos, sin copiar y pegar. Por ejemplo, la tienda online con el stock, o los pedidos que te llegan por correo con tu hoja de clientes. Siempre que los programas dejen sacar los datos; si no, te lo digo antes de empezar.",
-            "va": "Faig que dos programes que no es parlen es passen la informació a soles, sense copiar i apegar. Per exemple, la botiga d'internet amb l'estoc, o les comandes que t'apleguen pel correu amb el teu full de clients. Sempre que els programes deixen traure les dades; si no, t'ho dic abans de començar."
-          },
-          "ejemplos": {
-            "es": [
-              "vendo en la tienda y por internet y el stock nunca coincide",
-              "paso a mano los datos de un programa a otro cada semana"
-            ],
-            "va": [
-              "venc en la botiga i per internet i l'estoc no coincidix mai",
-              "passe a mà les dades d'un programa a un altre cada setmana"
-            ]
-          }
-        },
-        {
-          "titulo": {
-            "es": "Vigilar precios y competencia",
-            "va": "Vigilar preus i competència"
-          },
-          "desc": {
-            "es": "Un programa que mira cada día las webs que te interesan y te avisa si cambian precios o si hay novedades. Recoge solo información pública y te la deja en una tabla ordenada.",
-            "va": "Un programa que mira cada dia les webs que t'interessen i t'avisa si canvien els preus o si hi ha coses noves. Només arreplega informació pública i te la deixa en una taula ordenada."
-          },
-          "ejemplos": {
-            "es": [
-              "quiero saber a qué precio venden lo mismo que yo",
-              "reviso diez páginas cada mañana para ver si hay algo nuevo"
-            ],
-            "va": [
-              "vull saber a quin preu venen el mateix que jo",
-              "revise deu pàgines cada matí per a vore si hi ha res nou"
-            ]
-          }
-        }
-      ]
+     "titulo": {
+      "es": "Wifi y router en casa",
+      "va": "Wifi i router a casa"
+     },
+     "desc": {
+      "es": "Hago que el wifi llegue bien a toda la casa y que no se corte. Toco los ajustes del router (esa caja con lucecitas que te puso la compañía de internet) y, si hace falta, pongo un aparatito más que reparte el wifi a las habitaciones donde no llega. Y te dejo la contraseña apuntada en un papel.",
+      "va": "Faig que el wifi aplegue bé a tota la casa i que no es talle. Toque els ajustos del router (eixa caixa amb llumetes que et va ficar la companyia d'internet) i, si fa falta, fique un aparellet més que repartix el wifi a les habitacions on no aplega. I et deixe la contrasenya apuntada en un paper."
+     }
+    },
+    {
+     "titulo": {
+      "es": "Impresora y escáner listos",
+      "va": "Impressora i escàner a punt"
+     },
+     "desc": {
+      "es": "Instalo la impresora y la dejo funcionando desde el ordenador y desde el móvil. También te enseño a escanear un papel (o sea, hacer una copia del papel dentro del ordenador) y a mandarlo por correo, que es lo que te piden muchas veces.",
+      "va": "Et fique la impressora i te la deixe funcionant des de l'ordinador i des del mòbil. També t'ensenye a escanejar un paper (o siga, fer-ne una còpia dins de l'ordinador) i a enviar-lo per correu, que és el que et demanen moltes voltes."
+     }
+    },
+    {
+     "titulo": {
+      "es": "Que no se te pierdan las fotos",
+      "va": "Que no se't perden les fotos"
+     },
+     "desc": {
+      "es": "Una copia de seguridad es una segunda copia de tus fotos y tus papeles, guardada en otro sitio, por si el aparato se rompe, se moja o te lo roban. Te la dejo hecha en dos sitios y, si quieres, se hace sola cada semana y tú no tienes que acordarte de nada. Antes de irme la pruebo delante de ti, para que veas que las fotos están de verdad.",
+      "va": "Una còpia de seguretat és una segona còpia de les teues fotos i els teus papers, guardada en un altre lloc, per si l'aparell es trenca, es banya o te'l furten. Te la deixe feta en dos llocs i, si vols, es fa a soles cada setmana i tu no t'has de recordar de res. Abans d'anar-me'n la prove davant teu, perquè veges que les fotos hi són de veres."
+     }
+    },
+    {
+     "titulo": {
+      "es": "Te han robado el WhatsApp o no te acuerdas de la contraseña",
+      "va": "T'han robat el WhatsApp o no et recordes de la contrasenya"
+     },
+     "desc": {
+      "es": "Intento recuperar el WhatsApp que te han robado o la cuenta de correo cuando no hay manera de acordarse de la clave, siguiendo los pasos oficiales de cada aplicación. No siempre se puede, porque depende de WhatsApp, de Google o de tu compañía de correo: si no se puede, te lo digo claro y no te lo cobro. Si sale bien, te la dejo con la verificación en dos pasos puesta, que es lo que impide que vuelva a pasar, y te ayudo a escribir un aviso para tus contactos si les han pedido dinero haciéndose pasar por ti.",
+      "va": "Intente recuperar-te el WhatsApp que t'han robat o el compte del correu quan no hi ha manera de recordar la clau, seguint els passos oficials de cada aplicació. No sempre es pot, perquè depén de WhatsApp, de Google o de la companyia del correu: si no es pot, t'ho dic clar i no t'ho cobre. Si ix bé, te'l deixe amb la verificació en dos passos ficada, que és el que fa que no torne a passar, i t'ajude a escriure un avís per als teus contactes si els han demanat diners fent-se passar per tu."
+     }
+    },
+    {
+     "titulo": {
+      "es": "Correo, videollamadas y tele",
+      "va": "Correu, videocridades i tele"
+     },
+     "desc": {
+      "es": "Te dejo el correo funcionando y ordenado, las videollamadas preparadas, que es hablar con tus hijos o tus nietos viéndoles la cara en la pantalla, y la tele con las películas y series de pago (Netflix, Prime, Movistar) puestas y funcionando. Todo con un botón grande a la vista, para que lo encuentres a la primera.",
+      "va": "Et deixe el correu funcionant i ordenat, les videocridades preparades, que és parlar amb els teus fills o els teus nets veient-los la cara en la pantalla, i la tele amb les pel·lícules i sèries de pagament (Netflix, Prime, Movistar) ficades i funcionant. Tot amb un botó gran a la vista, perquè ho trobes a la primera."
+     }
+    },
+    {
+     "titulo": {
+      "es": "Te enseño a manejarlo",
+      "va": "T'ensenye a manejar-ho"
+     },
+     "desc": {
+      "es": "Clases tranquilas en tu casa, con tu ordenador y tu móvil, de lo que tú quieras: correo, Word, Excel, buscar cosas, WhatsApp. Te lo dejo apuntado en papel, paso a paso, para cuando yo no esté. Si os juntáis varios vecinos, también las doy en grupo y sale más barato para todos.",
+      "va": "Classes tranquil·les a casa teua, amb el teu ordinador i el teu mòbil, del que tu vullgues: correu, Word, Excel, buscar coses, WhatsApp. T'ho deixe apuntat en paper, pas a pas, per a quan jo no estiga. Si vos ajunteu uns quants veïns, també les faig en grup i ix més barat per a tots."
+     }
     }
-  ],
-  "no_hago": {
-    "titulo": {
-      "es": "Lo que no hago, dicho claro",
-      "va": "El que no faig, dit clar"
+   ]
+  },
+  {
+   "id": "negocio",
+   "titulo": {
+    "es": "Para tu negocio",
+    "va": "Per al teu negoci"
+   },
+   "entradilla": {
+    "es": "Bar, tienda, taller, peluquería u oficina. Pongo en orden los ordenadores, la red y los programas que ya tienes, y te monto lo que te falta, sin liarte y sin que tengas que parar de trabajar.",
+    "va": "Bar, botiga, taller, perruqueria o oficina. T'ordene els ordinadors, la xarxa i els programes que ja tens, i et munte el que et falta, sense marejar-te i sense que hages de parar de fer faena."
+   },
+   "servicios": [
+    {
+     "titulo": {
+      "es": "Mantenimiento y copias de seguridad",
+      "va": "Manteniment i còpies de seguretat"
+     },
+     "desc": {
+      "es": "Reviso los ordenadores del negocio, los actualizo y los dejo rápidos. Y monto copias de seguridad que se hacen solas cada noche, para que un susto no te pare el trabajo. Si quieres, me encargo yo todo el año con una cuota fija al mes y tú te olvidas.",
+      "va": "Revise els ordinadors del negoci, els actualitze i els deixe ràpids. I munte còpies de seguretat que es fan a soles cada nit, perquè un ensurt no et pare la faena. Si vols, me n'encarregue jo tot l'any amb una quota fixa al mes i tu te n'oblides."
+     }
     },
-    "items": [
-      {
-        "es": "No abro el aparato para soldar por dentro ni cambio pantallas de móvil rotas. Eso lo hacen en un taller. Yo miro qué le pasa, te digo si vale la pena arreglarlo y, si hace falta, te digo dónde llevarlo.",
-        "va": "No obri l'aparell per a soldar per dins ni canvie pantalles de mòbil trencades. Això es fa en un taller. Jo mire què li passa, et dic si val la pena arreglar-lo i, si fa falta, et dic on has de portar-lo."
-      },
-      {
-        "es": "Si el aparato está todavía en garantía, no lo abro, porque la perderías. En ese caso lo mejor es llevarlo a la tienda o al fabricante, y te digo qué contarles para que lo entiendan.",
-        "va": "Si l'aparell encara està en garantia, no l'obri, perquè la perdries. En eixe cas el millor és portar-lo a la botiga o al fabricant, i et dic què els has de contar perquè ho entenguen."
-      },
-      {
-        "es": "No te pido las contraseñas del banco ni hago operaciones por ti. Si al dejarte el móvil listo hay que poner una clave, la escribes tú.",
-        "va": "No et demane les contrasenyes del banc ni faig operacions per tu. Si quan et deixe el mòbil a punt s'ha de ficar una clau, l'escrius tu."
-      },
-      {
-        "es": "No hago trámites ni papeleo con la administración, el banco o Hacienda. Eso es cosa de la gestoría, la cooperativa o la oficina que toque. Yo te dejo el ordenador y el móvil listos para que lo hagas tú.",
-        "va": "No faig tràmits ni paperassa amb l'administració, el banc o Hisenda. Això és cosa de la gestoria, la cooperativa o l'oficina que toque. Jo et deixe l'ordinador i el mòbil a punt perquè ho faces tu."
-      },
-      {
-        "es": "Si un disco duro está roto por dentro, lo intento con las herramientas normales, pero no tengo el aparataje especial que hace falta cuando el disco está roto del todo. Si veo que yo no puedo, te lo digo el primer día, no te cobro por seguir intentándolo y te digo a quién llevarlo.",
-        "va": "Si un disc dur està trencat per dins, ho intente amb les ferramentes normals, però no tinc els aparells especials que fan falta quan el disc està trencat del tot. Si veig que jo no puc, t'ho dic el primer dia, no et cobre per seguir provant-ho i et dic a qui has de portar-lo."
-      }
-    ]
+    {
+     "titulo": {
+      "es": "Red y wifi del local",
+      "va": "Xarxa i wifi del local"
+     },
+     "desc": {
+      "es": "Dejo el wifi estable en todo el local, con una red aparte para los clientes y otra para tus cosas. Así el datáfono y el ordenador no se quedan sin conexión en hora punta.",
+      "va": "Deixe el wifi estable en tot el local, amb una xarxa a banda per als clients i una altra per a les teues coses. Així el datàfon i l'ordinador no es queden sense connexió en hora punta."
+     }
+    },
+    {
+     "titulo": {
+      "es": "Tu web y tu ficha de Google",
+      "va": "La teua web i la teua fitxa de Google"
+     },
+     "desc": {
+      "es": "Una página con lo que la gente busca: qué haces, horarios, teléfono, dónde estás y fotos buenas. Rápida, que se vea bien en el móvil y fácil de cambiar cuando lo necesites. Y con ella te dejo montada la ficha de Google, la que sale en el mapa con el teléfono y las opiniones, y te enseño a subir fotos y a contestar a la gente.",
+      "va": "Una pàgina amb el que la gent busca: què fas, horaris, telèfon, on estàs i fotos bones. Ràpida, que es veja bé en el mòbil i fàcil de canviar quan et faça falta. I a més et deixe muntada la fitxa de Google, la que ix en el mapa amb el telèfon i les opinions, i t'ensenye a pujar fotos i a contestar a la gent."
+     }
+    },
+    {
+     "titulo": {
+      "es": "Correo con el nombre del negocio",
+      "va": "Correu amb el nom del negoci"
+     },
+     "desc": {
+      "es": "Te monto el correo con el dominio de tu negocio, del tipo info@tunegocio.es, y lo dejo funcionando en el móvil y en el ordenador, separado del correo personal. Así los mensajes de trabajo no se pierden entre los de casa y los presupuestos llegan donde tienen que llegar.",
+      "va": "Et munte el correu amb el domini del teu negoci, de l'estil info@elteunegoci.es, i te'l deixe funcionant en el mòbil i en l'ordinador, separat del correu personal. Així els missatges de faena no es perden entre els de casa i els pressupostos apleguen on han d'aplegar."
+     }
+    },
+    {
+     "titulo": {
+      "es": "Impresora de tickets y aparatos de la caja",
+      "va": "Impressora de tiquets i aparells de la caixa"
+     },
+     "desc": {
+      "es": "Conecto la impresora de tickets, el lector de códigos de barras y el cajón al ordenador de la caja, y los dejo funcionando con el programa que ya usas. El programa de caja lo configura quien te lo vendió; yo me encargo de que los aparatos funcionen con él.",
+      "va": "Connecte la impressora de tiquets, el lector de codis de barres i el calaix a l'ordinador de la caixa, i te'ls deixe funcionant amb el programa que ja gastes. El programa de caixa te'l configura qui te'l va vendre; jo m'encarregue que els aparells vagen bé amb eixe programa."
+     }
+    },
+    {
+     "titulo": {
+      "es": "Programa de facturas, instalado y funcionando",
+      "va": "Programa de factures, instal·lat i funcionant"
+     },
+     "desc": {
+      "es": "Si ya has elegido con tu gestor el programa de facturas, yo te lo instalo en el ordenador, meto tus datos y tus clientes, hacemos juntos la primera factura y te dejo una hoja con los pasos. Lo que tiene que cumplir el programa te lo dice tu gestor: yo me encargo de que funcione.",
+      "va": "Si ja has triat amb el teu gestor el programa de factures, jo te'l fique en l'ordinador, hi pose les teues dades i els teus clients, fem junts la primera factura i et deixe un full amb els passos. El que ha de complir el programa t'ho diu el teu gestor: jo m'encarregue que funcione."
+     }
+    },
+    {
+     "titulo": {
+      "es": "Hojas de cálculo que calculan solas",
+      "va": "Fulls de càlcul que calculen a soles"
+     },
+     "desc": {
+      "es": "Te hago hojas de cálculo que calculan solas: el stock, los gastos, las horas del personal o el seguimiento de las facturas, con botones y listas para que no haga falta saber fórmulas. Y te ordeno las carpetas del ordenador por año y por proveedor, con el escáner listo para ir guardando los papeles nuevos. Son hojas para que te organices tú: la contabilidad la lleva tu gestoría.",
+      "va": "Et faig fulls de càlcul que calculen a soles: l'estoc, els gastos, les hores del personal o el seguiment de les factures, amb botons i llistes perquè no faça falta saber fórmules. I t'ordene les carpetes de l'ordinador per any i per proveïdor, amb l'escàner a punt per a anar guardant els papers nous. Són fulls perquè t'organitzes tu: la comptabilitat te la porta la gestoria."
+     }
+    }
+   ]
+  },
+  {
+   "id": "medida",
+   "titulo": {
+    "es": "Cosas a medida",
+    "va": "Coses a mida"
+   },
+   "entradilla": {
+    "es": "Aquí es donde hago programas nuevos para lo que tú necesitas y todavía no existe. Soy graduado en Ingeniería Informática por la Universitat Politècnica de València y he trabajado en el departamento de sistemas de una empresa haciendo programas a medida, automatizaciones y un asistente con inteligencia artificial que está en marcha de verdad.",
+    "va": "Ací és on faig programes nous per a coses que necessites i que encara no hi ha. Soc graduat en Enginyeria Informàtica per la Universitat Politècnica de València i he treballat en el departament de sistemes d'una empresa fent programes a mida, automatitzacions i un assistent amb intel·ligència artificial que funciona de veres."
+   },
+   "servicios": [
+    {
+     "titulo": {
+      "es": "Páginas web y tiendas online",
+      "va": "Pàgines web i botigues per internet"
+     },
+     "desc": {
+      "es": "Desde una web de varias páginas hasta una tienda donde se pueda comprar y pagar. La hago a medida y te digo antes de empezar lo que cuesta mantenerla cada año.",
+      "va": "Des d'una web d'unes quantes pàgines fins a una botiga on es puga comprar i pagar. Te la faig a mida i abans de començar et dic el que costa mantindre-la cada any."
+     }
+    },
+    {
+     "titulo": {
+      "es": "Aplicaciones a medida",
+      "va": "Aplicacions a mida"
+     },
+     "desc": {
+      "es": "Programas hechos para tu manera de trabajar, para el móvil o para el ordenador, con solo los botones que necesitas. Pueden funcionar sin internet si trabajas en el campo o en el almacén.",
+      "va": "Programes fets a la teua manera de treballar, per al mòbil o per a l'ordinador, amb només els botons que et fan falta. Poden funcionar sense internet si treballes en el camp o en el magatzem."
+     }
+    },
+    {
+     "titulo": {
+      "es": "Automatizar lo que se repite",
+      "va": "Automatitzar el que es repetix"
+     },
+     "desc": {
+      "es": "Si cada semana haces lo mismo a mano, te hago un programa que lo haga solo y sin equivocarse. Tú aprietas un botón, o ni eso, porque puede quedar programado a una hora fija.",
+      "va": "Si cada setmana fas el mateix a mà, et faig un programa que ho faça a soles i sense equivocar-se. Tu pitges un botó, o ni això, perquè pot quedar programat a una hora fixa."
+     }
+    },
+    {
+     "titulo": {
+      "es": "Poner orden en tus datos",
+      "va": "Ordenar les teues dades"
+     },
+     "desc": {
+      "es": "Cojo los datos que tienes repartidos (ventas, gastos, stock, clientes) y los junto en algo que se entienda de un vistazo. Con gráficos claros y números en los que se puede confiar.",
+      "va": "Arreplegue les dades que tens escampades (vendes, gastos, estoc, clients) i les ajunte en una cosa que s'entenga d'un colp d'ull. Amb gràfics clars i números que són de fiar."
+     }
+    },
+    {
+     "titulo": {
+      "es": "Un asistente que responde dudas",
+      "va": "Un assistent que respon dubtes"
+     },
+     "desc": {
+      "es": "Un chat que contesta preguntas sobre los documentos de tu negocio (catálogo, precios, condiciones) y dice de dónde ha sacado cada respuesta. Sirve para los clientes en la web o para tu propia gente.",
+      "va": "Un xat que contesta preguntes sobre els documents del teu negoci (catàleg, preus, condicions) i diu d'on ha tret cada resposta. Servix per als clients en la web o per a la teua gent."
+     }
+    },
+    {
+     "titulo": {
+      "es": "Facturas y albaranes leídos solos",
+      "va": "Factures i albarans llegits a soles"
+     },
+     "desc": {
+      "es": "Un programa que abre los PDF o las fotos de facturas y albaranes, saca los datos y los deja en una hoja de cálculo o en un archivo que tu gestor o tu programa puedan importar. Tú solo repasas que esté bien.",
+      "va": "Un programa que obri els PDF o les fotos de factures i albarans, trau les dades i te les deixa en un full de càlcul o en un arxiu que el teu gestor o el teu programa puguen importar. Tu només repasses que estiga tot bé."
+     }
+    },
+    {
+     "titulo": {
+      "es": "Conectar programas entre sí",
+      "va": "Connectar programes entre si"
+     },
+     "desc": {
+      "es": "Hago que dos programas que no se hablan se pasen la información solos, sin copiar y pegar. Por ejemplo, la tienda online con el stock, o los pedidos que te llegan por correo con tu hoja de clientes. Siempre que los programas dejen sacar los datos; si no, te lo digo antes de empezar.",
+      "va": "Faig que dos programes que no es parlen es passen la informació a soles, sense copiar i apegar. Per exemple, la botiga d'internet amb l'estoc, o les comandes que t'apleguen pel correu amb el teu full de clients. Sempre que els programes deixen traure les dades; si no, t'ho dic abans de començar."
+     }
+    },
+    {
+     "titulo": {
+      "es": "Vigilar precios y competencia",
+      "va": "Vigilar preus i competència"
+     },
+     "desc": {
+      "es": "Un programa que mira cada día las webs que te interesan y te avisa si cambian precios o si hay novedades. Recoge solo información pública y te la deja en una tabla ordenada.",
+      "va": "Un programa que mira cada dia les webs que t'interessen i t'avisa si canvien els preus o si hi ha coses noves. Només arreplega informació pública i te la deixa en una taula ordenada."
+     }
+    }
+   ]
   }
+ ],
+ "no_hago": {
+  "titulo": {
+   "es": "Lo que no hago, dicho claro",
+   "va": "El que no faig, dit clar"
+  },
+  "items": [
+   {
+    "es": "No abro el aparato para soldar por dentro ni cambio pantallas de móvil rotas. Eso lo hacen en un taller. Yo miro qué le pasa, te digo si vale la pena arreglarlo y, si hace falta, te digo dónde llevarlo.",
+    "va": "No obri l'aparell per a soldar per dins ni canvie pantalles de mòbil trencades. Això es fa en un taller. Jo mire què li passa, et dic si val la pena arreglar-lo i, si fa falta, et dic on has de portar-lo."
+   },
+   {
+    "es": "Si el aparato está todavía en garantía, no lo abro, porque la perderías. En ese caso lo mejor es llevarlo a la tienda o al fabricante, y te digo qué contarles para que lo entiendan.",
+    "va": "Si l'aparell encara està en garantia, no l'obri, perquè la perdries. En eixe cas el millor és portar-lo a la botiga o al fabricant, i et dic què els has de contar perquè ho entenguen."
+   },
+   {
+    "es": "No te pido las contraseñas del banco ni hago operaciones por ti. Si al dejarte el móvil listo hay que poner una clave, la escribes tú.",
+    "va": "No et demane les contrasenyes del banc ni faig operacions per tu. Si quan et deixe el mòbil a punt s'ha de ficar una clau, l'escrius tu."
+   },
+   {
+    "es": "No hago trámites ni papeleo con la administración, el banco o Hacienda. Eso es cosa de la gestoría, la cooperativa o la oficina que toque. Yo te dejo el ordenador y el móvil listos para que lo hagas tú.",
+    "va": "No faig tràmits ni paperassa amb l'administració, el banc o Hisenda. Això és cosa de la gestoria, la cooperativa o l'oficina que toque. Jo et deixe l'ordinador i el mòbil a punt perquè ho faces tu."
+   },
+   {
+    "es": "Si un disco duro está roto por dentro, lo intento con las herramientas normales, pero no tengo el aparataje especial que hace falta cuando el disco está roto del todo. Si veo que yo no puedo, te lo digo el primer día, no te cobro por seguir intentándolo y te digo a quién llevarlo.",
+    "va": "Si un disc dur està trencat per dins, ho intente amb les ferramentes normals, però no tinc els aparells especials que fan falta quan el disc està trencat del tot. Si veig que jo no puc, t'ho dic el primer dia, no et cobre per seguir provant-ho i et dic a qui has de portar-lo."
+   }
+  ]
+ }
 }

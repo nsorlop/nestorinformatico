@@ -142,10 +142,11 @@ build.py            el generador
 - **La portada es corta a propósito.** Su único trabajo es que alguien llame y
   que se entienda de un vistazo qué haces. Todo lo que no sirva para eso va a
   una página interior.
-- **La lista de "¿Te suena alguno de estos?"** sale sola de los ejemplos de
-  `servicios.json`. Son las averías dichas con las palabras de la gente, que es
-  lo que hace que alguien se reconozca y descuelgue el teléfono. Si añades un
-  servicio nuevo con buenos ejemplos, aparece ahí solo.
+- **El bloque "¿Qué necesitas?"** son cuatro categorías amplias, escritas a mano
+  en la función `seccion_problemas` de `build.py`: problema con el aparato, algo
+  concreto con un programa, desarrollo a medida e inteligencia artificial. Antes
+  eran frases de ejemplo sacadas de `servicios.json`, pero prometían cosas
+  demasiado concretas y se quitaron.
 - **La letra base es de 18 px** y todo está en rem, así que el zoom del
   navegador agranda la página entera sin romper nada.
 - **La tipografía del texto es Atkinson Hyperlegible**, diseñada por el Braille

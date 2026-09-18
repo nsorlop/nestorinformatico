@@ -500,17 +500,6 @@ def placa_telefono(lang, nota=None):
     }
 
 
-def _chips(s, lang):
-    ejem = t(s.get('ejemplos'), lang, [])
-    if not ejem:
-        return ''
-    return '\n    <div class="serv__ej">%s</div>' % ''.join(
-        '<span>%s</span>' % e(x) for x in ejem)
-
-
-# ---------------------------------------------------------------------------
-# PORTADA: corta y directa
-# ---------------------------------------------------------------------------
 def seccion_hero(lang):
     pueblo = NEGOCIO['poblacion_va'] if lang == 'va' else NEGOCIO['poblacion']
     return '''<section class="hero">
@@ -528,38 +517,49 @@ def seccion_hero(lang):
 
 
 def seccion_problemas(lang):
-    """Los problemas reales, con las palabras de la gente. Esto es lo que
-    hace que alguien se reconozca y descuelgue el teléfono."""
-    bloques = {b['id']: b for b in SERVICIOS['bloques']}
-    frases = []
-    for s in bloques['casa']['servicios']:
-        ej = t(s.get('ejemplos'), lang, [])
-        if ej:
-            frases.append(ej[0])
-    for s in bloques['negocio']['servicios'][:3]:
-        ej = t(s.get('ejemplos'), lang, [])
-        if ej:
-            frases.append(ej[0])
-
-    tit = '¿Te suena alguno de estos?' if lang == 'es' else 'Et sona algun d\'estos?'
-    pie = ('Si lo tuyo no está en la lista, da igual: llámame y me lo cuentas.'
-           if lang == 'es' else
-           "Si el teu cas no està en la llista, no passa res: crida'm i m'ho contes.")
-    items = '\n'.join('      <li>%s<span>%s</span></li>' % (icono('check', 19), e(f))
-                      for f in frases)
-    raiz = IDIOMAS[lang]['raiz']
-    ver = 'Ver todo lo que hago' if lang == 'es' else 'Vore tot el que faig'
-    return '''<section class="seccion" id="problemas">
-  <div class="env">
-    <div class="seccion__cab">
-      <h2>%s</h2>
-    </div>
-    <ul class="problemas">
-%s
-    </ul>
-    <p class="problemas__pie">%s <a href="servicios.html">%s %s</a></p>
-  </div>
-</section>''' % (e(tit), items, e(pie), e(ver), icono('flecha', 17))
+    """Cuatro categorías amplias. Antes había frases de ejemplo, pero prometían
+    cosas que Néstor no hace y otras que no aportaban nada."""
+    if lang == 'es':
+        tit = '¿Qué necesitas?'
+        pie = 'Si no sabes en cuál entra lo tuyo, llámame y te lo digo yo.'
+        ver = 'Ver todo lo que hago'
+        items = [
+            ('herramienta', 'casa', 'Algo va mal en el ordenador o en el móvil',
+             'Va lento, no arranca, se llena de anuncios o no imprime. Voy a tu casa, lo miro y te lo dejo funcionando.'),
+            ('chat', 'casa', 'Necesitas algo concreto con un programa',
+             'Instalar, configurar, recuperar una cuenta, guardar las fotos o aprender a manejarlo tú.'),
+            ('chip', 'medida', 'Quieres algo hecho a medida',
+             'Una página web, una tienda o una aplicación pensada para tu manera de trabajar.'),
+            ('flecha', 'medida', 'Inteligencia artificial para tu negocio',
+             'Un asistente que responde con tus propios documentos, o automatizar lo que ahora haces a mano.'),
+        ]
+    else:
+        tit = 'Què necessites?'
+        pie = "Si no saps en quina entra això teu, crida'm i t'ho dic jo."
+        ver = 'Vore tot el que faig'
+        items = [
+            ('herramienta', 'casa', "Alguna cosa va mal en l'ordinador o en el mòbil",
+             "Va lent, no arranca, s'ompli d'anuncis o no imprimix. Vaig a ta casa, ho mire i t'ho deixe funcionant."),
+            ('chat', 'casa', 'Necessites alguna cosa concreta amb un programa',
+             "Instal·lar, configurar, recuperar un compte, guardar les fotos o aprendre a manejar-ho tu."),
+            ('chip', 'medida', 'Vols alguna cosa feta a mida',
+             'Una pàgina web, una botiga o una aplicació pensada per a la teua manera de treballar.'),
+            ('flecha', 'medida', 'Intel·ligència artificial per al teu negoci',
+             "Un assistent que respon amb els teus propis documents, o automatitzar el que ara fas a mà."),
+        ]
+    lis = []
+    for ic, ancla, titulo, texto in items:
+        lis.append('      <li><a href="servicios.html#%s">%s<strong>%s</strong>'
+                   '<span>%s</span></a></li>'
+                   % (ancla, icono(ic, 22), e(titulo), e(texto)))
+    return ('<section class="seccion" id="problemas">' + chr(10) +
+            '  <div class="env">' + chr(10) +
+            '    <div class="seccion__cab"><h2>%s</h2></div>' % e(tit) + chr(10) +
+            '    <ul class="necesitas">' + chr(10) + chr(10).join(lis) + chr(10) +
+            '    </ul>' + chr(10) +
+            '    <p class="problemas__pie">%s <a href="servicios.html">%s %s</a></p>'
+            % (e(pie), e(ver), icono('flecha', 17)) + chr(10) +
+            '  </div>' + chr(10) + '</section>')
 
 
 def seccion_resumen_servicios(lang):
@@ -715,8 +715,8 @@ def pagina_inicio(lang):
 def _servicio_bloque(s, lang):
     return '''  <div class="bloque-serv">
     <h3>%s</h3>
-    <p>%s</p>%s
-  </div>''' % (e(t(s['titulo'], lang)), e(t(s['desc'], lang)), _chips(s, lang))
+    <p>%s</p>
+  </div>''' % (e(t(s['titulo'], lang)), e(t(s['desc'], lang)))
 
 
 def pagina_servicios(lang):
@@ -792,6 +792,13 @@ def pagina_precios(lang):
            e('Precio' if lang == 'es' else 'Preu'), e(t(f['precio'], lang)))
         for f in PRECIOS['tarifas'])
 
+    tiempos = '\n'.join(
+        '      <tr><th scope="row">%s</th><td class="precio" data-et="%s">%s</td></tr>'
+        % (e(t(x['tarea'], lang)),
+           e('Cuánto suele llevar' if lang == 'es' else 'Quant sol portar'),
+           e(t(x['tiempo'], lang)))
+        for x in PRECIOS['ejemplos_tiempo'])
+
     cf = CONFIANZA['como_funciona']
     pasos = '\n'.join('    <li><h3>%s</h3><p>%s</p></li>' %
                       (e(t(p['titulo'], lang)), e(t(p['desc'], lang))) for p in cf['pasos'])
@@ -818,6 +825,32 @@ def pagina_precios(lang):
                                  t(PRECIOS['aviso'], lang)),
                  e(cab[0]), e(cab[1]), e(cab[2]), filas,
                  lista_ul(PRECIOS['notas'], lang)),
+
+                 '''<section class="seccion seccion--alt">
+  <div class="env">
+    <div class="seccion__cab">
+      <h2>%s</h2>
+      <p>%s</p>
+    </div>
+    <div class="tabla-envoltorio">
+      <table class="tarifas">
+        <thead><tr><th scope="col">%s</th><th scope="col">%s</th></tr></thead>
+        <tbody>
+%s
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>''' % (e(t(PRECIOS['titulo_tiempo'], lang)), e(t(PRECIOS['aviso_tiempo'], lang)),
+                 e('Qué' if lang == 'es' else 'Què'),
+                 e('Cuánto suele llevar' if lang == 'es' else 'Quant sol portar'), tiempos),
+
+                 '''<section class="seccion">
+  <div class="env">
+    <div class="seccion__cab"><h2>%s</h2></div>
+    <p class="lead">%s</p>
+  </div>
+</section>''' % (e(t(PRECIOS['titulo_desarrollo'], lang)), e(t(PRECIOS['desarrollo'], lang))),
 
                  '''<section class="seccion seccion--alt">
   <div class="env">

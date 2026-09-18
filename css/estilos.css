@@ -1281,3 +1281,29 @@ html.js .solo-sin-js { display: none; }
   align-items: start;
 }
 .identidad li svg { margin-top: .25rem; color: var(--verd); }
+
+/* --------------------------------------------------------------------------
+   33. "¿Qué necesitas?": las cuatro puertas de entrada de la portada
+   Sustituye a la lista de frases de ejemplo, que prometía cosas concretas.
+   -------------------------------------------------------------------------- */
+.necesitas { list-style: none; margin: 0; padding: 0; display: grid; gap: 1rem; }
+@media (min-width: 46rem) { .necesitas { grid-template-columns: repeat(2, 1fr); } }
+.necesitas li { margin: 0; }
+.necesitas a {
+  display: grid;
+  grid-template-columns: 2rem 1fr;
+  gap: .15rem .8rem;
+  align-items: start;
+  height: 100%;
+  padding: 1rem 1.15rem;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-left: 5px solid var(--verd);
+  border-radius: var(--radio);
+  color: var(--ink);
+  text-decoration: none;
+}
+.necesitas a:hover { border-color: var(--verd); background: var(--verd-l); color: var(--ink); }
+.necesitas svg { grid-row: span 2; margin-top: .2rem; color: var(--verd); }
+.necesitas strong { font-size: 1.06rem; }
+.necesitas span { color: var(--ink-2); }
