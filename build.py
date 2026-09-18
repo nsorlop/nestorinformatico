@@ -54,12 +54,12 @@ NEGOCIO = {
 HERO = {
     'h1':   {'es': 'Voy yo a tu casa',
              'va': 'Vaig jo a casa teua'},
-    'lead': {'es': 'Informática a domicilio en La Font de la Figuera. Desde el ordenador '
-                   'que va lento hasta una aplicación hecha a medida. A los pueblos de '
-                   'alrededor también voy, avisando con tiempo.',
-             'va': "Informàtica a domicili a la Font de la Figuera. Des de l'ordinador "
-                   "que va lent fins a una aplicació feta a mida. Als pobles del voltant "
-                   "també hi vaig, si m'avises amb temps."},
+    'lead': {'es': 'Informática a domicilio en La Font de la Figuera. Hago de todo: desde '
+                   'mirarte el ordenador en tu casa hasta hacerte una aplicación propia o '
+                   'tu propia inteligencia artificial para el negocio.',
+             'va': "Informàtica a domicili a la Font de la Figuera. Faig de tot: des de "
+                   "mirar-te l'ordinador a ta casa fins a fer-te una aplicació pròpia o la "
+                   "teua pròpia intel·ligència artificial per al negoci."},
 }
 
 HORARIO = {
